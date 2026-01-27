@@ -180,6 +180,77 @@ Use simple timestamps:
 For videos under 1 hour, single-digit minutes are fine (0:00, 3:10, 12:45).
 For videos over 1 hour, use full format (0:00:00, 1:14:09).
 
+## Extracting Links from Scripts
+
+When the user provides a video script, extract and link all references:
+
+### What to Extract
+
+Scan the script for:
+- **Tools & Software** — Apps, platforms, SaaS products mentioned (e.g., "Notion," "Frame.io," "Descript")
+- **Brands & Companies** — Any business or brand referenced
+- **Books & Courses** — Educational resources mentioned by name
+- **People** — Creators, experts, or influencers mentioned (link to their primary platform)
+- **Websites & Resources** — Any specific resource or website referenced
+- **Products** — Physical or digital products mentioned
+
+### How to Find Links
+
+1. **Use WebSearch** to find the official URL for each reference
+2. **Verify with WebFetch** if unsure (check the page loads and is the correct resource)
+3. **Prioritize official sources:**
+   - Official website > Social media > Third-party mention
+   - For people: Their primary platform (YouTube, X, website)
+   - For tools: Official product page, not affiliate links
+
+### Adding to Description
+
+**For Artem/Full-Time Editor style:**
+Add after the Chapters section:
+
+```
+Resources mentioned:
+[Tool Name] — [Official URL]
+[Book Name] by [Author] — [Amazon/Official link]
+[Person Name] — [Their channel/website]
+```
+
+**For Alex/Marketing Examined style:**
+This already has "Brands mentioned" — expand it to include all resources:
+
+```
+Brands & resources mentioned in the video:
+[Brand] – [Instagram/website]
+[Tool] – [Official URL]
+[Book] – [Link]
+```
+
+### Example Workflow
+
+1. User provides script
+2. Claude extracts: "I use Frame.io for reviews, Notion for organization, and learned this from Ali Abdaal's video on..."
+3. Claude searches for each:
+   - Frame.io → https://frame.io
+   - Notion → https://notion.so
+   - Ali Abdaal → https://www.youtube.com/@aliabdaal
+4. Claude adds to description:
+   ```
+   Resources mentioned:
+   Frame.io — https://frame.io
+   Notion — https://notion.so
+   Ali Abdaal — https://www.youtube.com/@aliabdaal
+   ```
+
+### Quality Standards for Links
+
+- ✅ Use full URLs (not shortened)
+- ✅ Link to official sources only
+- ✅ Verify links are current (not 404)
+- ❌ No affiliate links unless explicitly provided by user
+- ❌ No competitor links to user's own products/services
+
+---
+
 ## Quality Checklist
 
 Before finalizing:
@@ -190,7 +261,9 @@ Before finalizing:
 - [ ] Tracking parameters included (Artem only)
 - [ ] Social links are current
 - [ ] Timestamps match video content
-- [ ] Total length is 150-300 words
+- [ ] Resources/brands mentioned have been extracted from script (if provided)
+- [ ] All resource links verified and working
+- [ ] Total length is 150-300 words (excluding resource links)
 - [ ] No hashtags included
 - [ ] No "alternative titles for algo" section
 - [ ] Reads naturally (not keyword-stuffed)

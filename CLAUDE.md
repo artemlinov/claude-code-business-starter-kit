@@ -27,6 +27,8 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Create a new hook | `create-hook` |
 | Add or build an MCP | `create-mcp` |
 | Search online for MCP servers | `mcp-finder` agent (spawned by create-mcp) |
+| Write a YouTube description | `youtube-description-writer` + appropriate voice skill |
+| Write content for Alex | `voice-of-alex` |
 
 ---
 
