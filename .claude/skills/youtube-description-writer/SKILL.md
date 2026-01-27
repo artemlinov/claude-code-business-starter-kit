@@ -103,14 +103,19 @@ Use for: Brand storytelling, marketing strategy, trend analysis, videos featurin
 [Video Summary — 2-4 sentences explaining the insight, trend, or framework. More conceptual than proof-dense. Can include a memorable quote or positioning statement.]
 
 Connect with me:
-[Social links — IG, X, Podcast]
+Podcast: @SweatEquityPodcast
+Website: https://www.marketingexamined.com/
+IG: https://www.instagram.com/house.of.ag/
+X: https://x.com/alexgarcia_atx
 
-Brands mentioned in the video:
-[List of brands with Instagram/website links — alphabetical or order of appearance]
+[Brands/Shows mentioned in the video:]
+[List of brands with Instagram/website links — alphabetical]
 
 Chapters:
-[Simple timestamps — 00:00 format with em-dash or colon]
+[Simple timestamps — 00:00 format with em-dash]
 
+Until the next one,
+Alex Garcia | House Of Distribution
 ```
 
 ### Example (Alex)
@@ -171,14 +176,111 @@ Every description MUST include:
 5. ✅ Timestamps/Chapters
 6. ✅ Sign-off or closing element
 
-## Timestamp Format
+## Timestamps: How to Get Accurate Timecodes
+
+**IMPORTANT: Never guess timestamps.** Use one of these methods to get accurate timecodes:
+
+### Method 1: YouTube MCP (Preferred)
+
+If the YouTube MCP is configured, use it to fetch captions with timestamps:
+- Check `.mcp.json` for `youtube` server
+- Use MCP tools to get timestamped transcript data
+
+### Method 2: Transcript Script with --timestamps Flag
+
+Fetch the transcript with timing data preserved:
+
+```bash
+python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "VIDEO_ID" --timestamps
+```
+
+This outputs `[M:SS] text` format:
+```
+[0:00] Today we're talking about social shows
+[0:33] Number one understanding your brand's content narrative
+[2:14] Developing your content pillars
+```
+
+Use these timestamps to identify chapter breaks where topics change.
+
+### Method 3: Ask the User (Fallback)
+
+If neither method is available, ask: "Do you have the timestamps for this video? I can write the chapter titles, but I'll need the actual timecodes from you."
+
+Or use placeholders:
+```
+Chapters:
+00:00 – Opening hook / intro
+[TIMESTAMP] – Chapter title here
+[TIMESTAMP] – Chapter title here
+```
+
+### Identifying Chapter Breaks
+
+When you have timestamped transcript data:
+1. Look for topic transitions (new concepts, new sections)
+2. Listen for verbal cues ("Number one...", "Next is...", "So here's...")
+3. Aim for 8-12 chapters for a 10-15 min video
+4. First chapter always starts at 00:00
+
+### Timestamp Format
 
 Use simple timestamps:
 - Artem style: `0:00 - Chapter Title`
-- Alex style: `00:00 – Chapter Title` (em-dash acceptable for Alex's editorial style)
+- Alex style: `00:00 – Chapter Title` (em-dash for Alex's editorial style)
 
 For videos under 1 hour, single-digit minutes are fine (0:00, 3:10, 12:45).
 For videos over 1 hour, use full format (0:00:00, 1:14:09).
+
+---
+
+## Writing Enticing Chapter Titles
+
+Chapter titles should create curiosity and communicate value — not just describe the topic.
+
+### The Problem
+
+❌ **Descriptive (boring):** "Understanding your brand's content narrative"
+❌ **Descriptive (boring):** "Repetitive elements and why familiarity is the hook"
+❌ **Descriptive (boring):** "Determining your set"
+
+### The Fix
+
+✅ **Benefit-driven:** "The foundation for your social show"
+✅ **Intriguing:** "The key to a successful social show"
+✅ **Curiosity-inducing:** "What every successful show has in common"
+
+### Chapter Title Principles
+
+1. **Lead with benefit or outcome** — What will the viewer GET from this section?
+   - "How I landed the $100K client" > "Finding high-paying clients"
+   - "The most important element to a successful show" > "Your opening 3 seconds"
+
+2. **Use intrigue phrases** — These create curiosity:
+   - "The key to..."
+   - "The foundation for..."
+   - "What every [type] has in common"
+   - "The #1 reason..."
+   - "The mistake that..."
+   - "Why most [people] fail at..."
+
+3. **Keep it punchy** — Shorter titles scan better in the YouTube UI
+   - 3-8 words is ideal
+   - Cut filler words ("Understanding", "An overview of", "Introduction to")
+
+4. **Match the creator's energy:**
+   - **Artem:** More direct, proof-based ("How I raised my prices to $2K/video")
+   - **Alex:** More conceptual, framework-based ("The backbone of your social show")
+
+### Example Transformation
+
+| Topic | ❌ Descriptive | ✅ Enticing |
+|-------|---------------|-------------|
+| Content narrative | Understanding your brand's content narrative | The foundation for your social show |
+| Repetitive elements | Repetitive elements and familiarity | The key to a successful social show |
+| Set design | Determining your set | What every successful show has in common |
+| Opening hook | Your opening 3 seconds | The most important element to a successful show |
+| Common mistakes | Why editors lose premium clients | The mistake that almost lost me $100K |
 
 ## Extracting Links from Scripts
 

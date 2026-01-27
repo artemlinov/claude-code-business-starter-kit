@@ -19,6 +19,8 @@ If skills, MCPs, or agents aren't working, this is usually why.
 
 ## Routing
 
+### Skills (Actions)
+
 | When you want to... | Load skill |
 |---------------------|------------|
 | Create a new skill | `create-skill` |
@@ -27,8 +29,53 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Create a new hook | `create-hook` |
 | Add or build an MCP | `create-mcp` |
 | Search online for MCP servers | `mcp-finder` agent (spawned by create-mcp) |
-| Write a YouTube description | `youtube-description-writer` + appropriate voice skill |
-| Write content for Alex | `voice-of-alex` |
+| Get a YouTube video transcript | `youtube-transcript` |
+| Clean/format a raw transcript | `transcript-cleaner` |
+| Write a YouTube description | `youtube-description-writer` |
+
+### Knowledge (Reference)
+
+**Default: Artem / Full-Time Editor**
+
+Unless specified otherwise, ALL content is for Artem. Always load:
+- `.claude/knowledge/artem/` — Voice, stories, journey
+- `.claude/knowledge/full-time-editor/` — Brand, ICP, frameworks
+
+**Only when explicitly specified for another persona:**
+
+| If user says... | Load instead |
+|-----------------|--------------|
+| "for Alex" / "Marketing Examined" | `.claude/knowledge/alex-garcia/` |
+| "for [other client]" | Create new knowledge folder or ask |
+
+#### Knowledge Files
+
+**artem/** (default voice)
+- `voice-of-artem.md` — Tone, style, personality
+- `artem-story-bank.md` — Personal stories by theme
+- `artem-journey.md` — Background and journey
+
+**full-time-editor/** (default brand)
+- `full-time-editor-overview.md` — What FTE is
+- `full-time-editor-manifesto.md` — Core beliefs and mission
+- `ideal-customer-profile.md` — Who the customer is
+- `voice-of-customer.md` — Customer language and pain points
+- `fte-framework-definitions.md` — Key frameworks and terminology
+- `fte-30-day-sprint.md` — Sprint program details
+- `micro-offer-launch-plan.md` — Launch strategy
+
+**alex-garcia/** (only when specified)
+- `voice-of-alex.md` — Tone, style, personality
+- `alex-garcia-brand-dna.md` — Brand identity
+- `alex-garcia-visual-style-guide.md` — Visual guidelines
+- `alex-garcia-sound-design-guide.md` — Audio guidelines
+
+### Content Creation Rules
+
+1. **Default to Artem** — No persona specified = Artem + FTE knowledge
+2. **Load knowledge first** — Before creating content, load relevant knowledge files
+3. **Match skill to task** — Use the appropriate content skill
+4. **Switch only when told** — Only use other personas when explicitly requested
 
 ---
 
@@ -60,7 +107,11 @@ project/
 │
 ├── .claude/
 │   ├── settings.json      # Permissions and hooks
-│   ├── skills/            # Your skills
+│   ├── skills/            # Actions (how to do things)
+│   ├── knowledge/         # Reference (what to know)
+│   │   ├── artem/         # Artem's voice and stories (default)
+│   │   ├── full-time-editor/  # FTE brand context (default)
+│   │   └── alex-garcia/   # Alex's brand (when specified)
 │   ├── commands/          # Your slash commands
 │   └── agents/            # Your subagents
 │
@@ -69,6 +120,10 @@ project/
 ├── data/                  # Data exports and raw data
 └── exports/               # Formatted exports
 ```
+
+**Skills vs Knowledge:**
+- **Skills** = Actions, processes, how to do things (`.claude/skills/`)
+- **Knowledge** = Reference material, context, what to know (`.claude/knowledge/`)
 
 **Rules live in CLAUDE.md** - this file. Add project-wide guidelines here.
 
