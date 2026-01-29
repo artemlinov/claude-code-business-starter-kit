@@ -271,19 +271,19 @@ This isn't a course where you watch videos and figure it out alone. This is ment
 
 **Note:** The curriculum does NOT teach basic editing software skills. You need to know the basics already.
 
-## 5\. Group Activities (4x Per Week)
+## 5\. Group Activities (3x Per Week)
 
-**1x Weekly Masterclass**
+**1x Weekly Masterclass (Wednesday)**
 
-I prepare a presentation on a topic. You learn from it, get questions answered, walk away with actionable insights.
+I prepare a full lecture on a specific topic — could be a breakdown of one of my own edits, a deep dive on pacing, a positioning teardown. These are the most valuable sessions in the program. Highly actionable. Everyone walks away with something they can apply to their next edit.
 
 **1x Weekly Review**
 
 Going over participants' weeks and giving action items for the following week.
 
-**2x Weekly Group Coaching Calls**
+**1x Weekly Group Coaching Call**
 
-Extra touchpoints. Join the call and get any of your questions answered.
+Open call. Join and get any of your questions answered.
 
 ```
 "The main thing inside the program for me was the group calls. Editing is very lonely sometimes. You're just on your own behind your laptop all day grinding on a video. Having those group calls quite a few times a week with the boys inside the program: they're all legends. It gets you in a good mood again and lights the fire back in you."

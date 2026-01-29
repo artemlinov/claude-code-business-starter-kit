@@ -80,10 +80,13 @@ Match the sign-off to the email's tone:
 
 | Sign-off | When to use |
 |----------|-------------|
+| "Talk [day of week]." | Sequences — use the day the next email sends (e.g. "Talk Tuesday.") |
 | "Looking forward to it." | Warm, first email, anticipation |
 | "See you tomorrow." | Direct, reminder emails |
-| "Talk soon." | Neutral, most common |
+| "Talk soon." | Standalone emails only (not sequences) |
 | "See you in 60." | Ultra-short, 1-hour reminders |
+
+**In email sequences:** Always use "Talk [day]." where [day] is the weekday of the next email. This creates anticipation and trains the reader to expect your emails.
 
 Always just "Artem" (no dash, no hyphen, no "- Artem")
 
@@ -412,4 +415,116 @@ Artem
 
 ---
 
-*Document created January 2026. Update as email voice evolves.*
+## Rhythm & Pacing Patterns (From Real Edits)
+
+These patterns were extracted from Artem's actual edits to AI-generated drafts. They represent the gap between "good email copy" and "sounds like Artem."
+
+### Break Sentences Into Standalone Lines
+
+Dense compound sentences kill the rhythm. Split them. One thought per line, even within what looks like a paragraph.
+
+```
+✗ AI draft:
+Not because it helps the video. Because you're scared of empty space.
+
+✓ Artem's edit:
+Not because it helps the video. But because you're scared of empty space.
+```
+
+Each line should land on its own.
+
+### Use Ellipsis (...) for Trailing Thoughts
+
+Ellipsis creates a conversational pause — like you're still thinking. Use it at the end of a line when the thought trails off or invites the reader to fill in the gap.
+
+```
+So you throw in a zoom. A lower third. Some b-roll...
+
+Tried to get better at editing...
+```
+
+Don't overuse. 1-2 per email max.
+
+### Use Conversational Interjections as Transitions
+
+Questions, reactions, and rhetorical nudges between sections. These make the email feel like a real conversation, not a monologue.
+
+```
+The second type though?
+
+Solid, right??
+
+And here's the craziest part:
+
+And here's the interesting part:
+```
+
+Double question marks ("??") for rhetorical emphasis are on-brand.
+
+### Colons Before Lists and Explanations
+
+Use a colon to set up what comes next. Not a period.
+
+```
+✗ Here's what I mean.
+✓ Here's what I mean:
+
+✗ They think the gap is technical.
+✓ They think the gap is technical:
+
+✗ The first type is an editor.
+✓ The first type is an editor:
+```
+
+### Use Numbered Lists for Structured Arguments
+
+When listing 3+ distinct points that each need explanation, use `1)` `2)` `3)` format with each number on its own line, followed by the explanation as separate paragraphs underneath. This is cleaner than cramming everything into dense paragraphs.
+
+```
+1) No storytelling skills.
+
+Editors execute, creative directors think for the viewer.
+
+2) Bad positioning.
+
+You look like every other editor.
+
+Same portfolio.
+Same outreach.
+
+3) No accountability.
+
+You'll pull an all-nighter for a client deadline... but you'll procrastinate on your own growth for weeks.
+```
+
+NOT bullet points. NOT dashes. Numbered with closing parenthesis.
+
+### Never Echo Subject/Preview in the Opening
+
+The first lines of the email should NOT restate the subject line or preview text. Jump straight into new content. The reader already saw the subject — don't waste their first 5 seconds repeating it.
+
+### Shorter Is Always Better
+
+Every draft should be cut. Remove:
+- Setup sentences ("Let me show you what I mean")
+- Transition phrases ("Now here's what...")
+- Anything the reader can infer
+- Repeated conclusions
+
+If a section makes the same point twice, cut one. If a transition adds no new information, cut it. Trust the reader to follow.
+
+### One Sentence Per Line
+
+Even when two sentences are related, put them on separate lines. Let each one breathe.
+
+```
+✗ The animations came easy. The creative director didn't stress about "what do I put here" because the story was already structured.
+
+✓ The animations came easy. The creative director didn't stress about "what do I put here".
+
+The story was already structured. Every animation had a reason. Nothing was filler.
+```
+
+---
+
+*Document created January 2026. Updated January 29, 2026 with rhythm and pacing patterns from Breakthrough launch edits.*

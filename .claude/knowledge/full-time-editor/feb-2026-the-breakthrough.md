@@ -28,7 +28,8 @@ Month 1 of the full FTE program, delivered as a standalone 30-day intensive. Sam
 - 30-minute personalized onboarding call + custom roadmap
 - 4 weekly edit reviews (personalized Loom feedback)
 - Full curriculum access (all 3 pillars)
-- 4x/week group calls (16 total)
+- 3x/week group calls (12 total) — including a weekly masterclass (full lecture with edit breakdowns, deep dives, actionable frameworks)
+- Direct Slack access to Artem — message anytime, response within hours. Personalized Looms for complex questions. (Does NOT include unlimited scheduled 1-on-1 calls — that's full program only.)
 - Community access (Slack + Skool)
 
 ---
@@ -71,9 +72,8 @@ The Breakthrough is the proof. 30 days and $499 to find out if FTE works for the
 ## After 30 Days: Two Paths
 
 **Path 1: Continue to full program**
-- $499 counts toward the $3K total
-- Pay remaining $2,501 for Months 2-4
-- No re-onboarding, seamless transition
+- Upsell to full 4-month Full-Time Editor program at $3K (no credit from Breakthrough — it's standalone)
+- Full program adds unlimited 1-on-1 calls with Artem
 - Expected 50% conversion rate
 
 **Path 2: Walk away**
@@ -94,10 +94,10 @@ The Breakthrough is the proof. 30 days and $499 to find out if FTE works for the
 ## Revenue Model
 
 - 10 spots × $499 = $4,990 upfront
-- 50% upsell to full program = 5 × $2,501 = $12,505
-- **Total potential: ~$17,500 per cohort**
+- 50% upsell to full program = 5 × $3,000 = $15,000
+- **Total potential: ~$19,990 per cohort**
 
-If expanded to 15 spots: $7,485 upfront + ~$18,750 upsells = ~$26,235
+If expanded to 15 spots: $7,485 upfront + ~$22,500 upsells = ~$29,985
 
 ---
 

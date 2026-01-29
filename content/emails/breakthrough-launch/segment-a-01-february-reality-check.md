@@ -2,31 +2,63 @@
 **Preview:** how are those 2026 goals going?
 **Send Date:** Saturday, February 1, 2026
 **Segment:** A
-**Position:** 1 of 10
+**Position:** 1 of 9
 
 ---
 
-Hey {{contact.first_name}},
+{{contact.first_name}},
 
-It's February.
+If you're like most editors I talk to, you probably set a big goal for this year:
 
-How are those 2026 goals going?
+$10K/month.
+Maybe $5K.
+Or maybe just "more than last year."
 
-If you're like most editors I talk to, you probably set a big number in January. $5K/month. Maybe $3K. Maybe just "more than last year."
+Regardless, you've been grinding for a few weeks...
 
-You grinded for a few weeks. Sent some outreach. Maybe posted on X a couple times.
+Posted on X.
+Sent some outreach.
+Tried to get better at editing...
 
-And now it's February and nothing has actually changed.
+Today is Feb 1st, and I've got a question for you:
 
-Same clients. Same rates. Same income.
+Has something actually changed?
 
-That's not because you're lazy. You're probably one of the hardest-working people you know.
+Got a new client?
+Raised your prices?
+Maybe improved your skills?
+
+No? Keep reading...
+
+There's a reason why none of those happened.
+
+There's a reason why you're not any closer to your 2026 goals.
+
+Whether that's $10K/month, $5K/month, or just "more than last year"...
+
+And the reason is quite simple:
+
+It's not because you're lazy.
+
+We both know you're working your ass off.
 
 It's because you're solving the wrong problem.
 
-Most editors think the answer is more clients, more hours, more outreach.
+Most editors think the answer is more.
 
-It's not.
+More hours.
+More clients.
+More outreach.
+
+Luckily, it's not.
+
+Think about it:
+
+You're already working 40 hours per week, and want to 5x your income...
+
+There's no way you can work 200 hours per week.
+
+So clearly you need to work smarter, not harder.
 
 The real question is: why are editors with the exact same skills as you charging 3-5x more?
 
@@ -40,6 +72,6 @@ For now, I just wanna know one thing:
 
 Not the "safe" number. The real one.
 
-Talk soon.
+Talk Tuesday.
 
 Artem

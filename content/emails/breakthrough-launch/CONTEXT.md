@@ -2,6 +2,8 @@
 
 Use this doc as context when writing the 18 launch emails with the `1m-email-writer` skill.
 
+**Workflow:** Write one email at a time. Wait for approval before moving to the next. Go in order: A1, A2, A3... then B1, B2, B3...
+
 ---
 
 ## How To Use This Doc
@@ -38,9 +40,10 @@ You should also tell the new chat to load:
 - 30-minute personalized onboarding call + custom roadmap
 - 4 weekly edit reviews (personalized Loom feedback)
 - Full curriculum access (all 3 pillars)
-- 4x/week group calls (16 total)
+- 3x/week group calls (12 total) — including a weekly masterclass where Artem prepares a full lecture (edit breakdowns, deep dives, positioning teardowns)
+- Direct Slack access to Artem (response within hours, personalized Looms for complex questions)
 - Community access (Slack + Skool)
-- Option to continue to full program ($499 credit applied — pay $2,501 for Months 2-4)
+- After 30 days: upsell to full 4-month program ($3K). No credit — Breakthrough is standalone. Full program adds unlimited 1-on-1 calls with Artem.
 
 **Who it's for:** Editors stuck at $1-2K/month who want to become creative directors but aren't ready to commit to the full 4-month, $3K program. This is the "try before you commit" option.
 
@@ -253,6 +256,38 @@ This is the central insight threaded through all warm-up emails. It replaces the
 - Sign-off: just "Artem" (no dash, no title)
 - Arrow (→) used once per email before primary CTA
 - See `voice-of-artem-email.md` for full patterns
+
+---
+
+## Progress
+
+| Email | Status | File |
+|-------|--------|------|
+| A1 | ✅ Approved | `segment-a-01-february-reality-check.md` |
+| A2 | ✅ Approved | `segment-a-02-not-a-video-editor.md` |
+| A3 | ✅ Approved | `segment-a-03-300-vs-1000-edit.md` |
+| A4 | ✅ Approved | `segment-a-04-30-stuck-editors.md` |
+| A5 | ✅ Approved | `segment-a-05-10-editors-30-days.md` |
+| A6 | ✅ Approved | `segment-a-06-tomorrow-morning.md` |
+| A7 | ✅ Approved | `segment-a-07-launch.md` |
+| A7b | ✅ Approved | `segment-a-07b-resend.md` |
+| A8 | ✅ Approved | `segment-a-08-spots-gone.md` |
+| A9 | ✅ Approved | `segment-a-09-doors-close.md` |
+| B1 | ❌ Not started | — |
+| B2 | ❌ Not started | — |
+| B3 | ❌ Not started | — |
+| B4 | ❌ Not started | — |
+| B5 | ❌ Not started | — |
+| B6 | ❌ Not started | — |
+| B7 | ❌ Not started | — |
+| B8 | ❌ Not started | — |
+
+**Next up:** B1 — Sat Feb 1: "Hey [name] — quick update"
+
+**Important patterns learned from A1-A4 (now in voice-of-artem-email.md and SKILL.md):**
+- Sign-offs in sequences use "Talk [day of next email]." not "Talk soon."
+- Use numbered lists (1), 2), 3)) for structured arguments
+- See "Rhythm & Pacing Patterns" section in `voice-of-artem-email.md` for all patterns
 
 ---
 

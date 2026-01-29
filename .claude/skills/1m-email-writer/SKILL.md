@@ -69,8 +69,21 @@ If any input is missing, ask before writing.
 - Use spacing for emphasis instead
 
 **Sign-offs:**
-- Match tone: "Looking forward to it." / "Talk soon." / "See you tomorrow."
+- In sequences: "Talk [day of week]." where [day] = the weekday the next email sends (e.g. "Talk Tuesday.")
+- Standalone emails: "Looking forward to it." / "Talk soon." / "See you tomorrow."
 - Always just "Artem" (no dash)
+
+### Step 2b: Apply Rhythm & Pacing Rules
+
+These are critical. They're the difference between "good copy" and "sounds like Artem."
+
+1. **One sentence per line.** Break compound sentences apart. Each thought gets its own line.
+2. **Use ellipsis (...)** for trailing thoughts. 1-2 per email max. Creates a conversational pause.
+3. **Use conversational interjections as transitions:** "The second type though?" / "Solid, right??" / "And here's the craziest part:" — these replace formal transitions.
+4. **Colons before lists/explanations.** "Here's what I mean:" not "Here's what I mean."
+5. **Never echo subject/preview in the opening.** Jump straight into content.
+6. **Cut aggressively.** Remove setup sentences, transition phrases, repeated conclusions, anything the reader can infer. Every draft is too long on the first pass.
+7. **Double question marks** ("??") for rhetorical emphasis.
 
 ### Step 3: Apply Conversion Patterns
 
@@ -178,12 +191,17 @@ Before delivering, verify:
 - [ ] ONE clear ask per email
 - [ ] No bullet points or bold text
 - [ ] 1-3 sentences per paragraph
+- [ ] One sentence per line — no compound sentences sharing a line
 - [ ] Greeting matches position in sequence
 - [ ] Arrow (→) used only once, before primary CTA
 - [ ] Sign-off matches tone
 - [ ] Subject line is 4-8 words, lowercase
 - [ ] Preview text complements (not repeats) subject
+- [ ] Opening lines do NOT echo the subject line or preview text
 - [ ] Uses contractions: gonna, wanna, it's
+- [ ] Uses colons (not periods) before lists and explanations
+- [ ] Includes conversational interjections as transitions ("Solid, right??", "And here's the thing:")
+- [ ] Draft has been cut — no unnecessary setup, transitions, or repeated conclusions
 - [ ] No hype words: amazing, incredible, life-changing
 - [ ] No guru energy
 
