@@ -322,34 +322,6 @@ Start with:
 Then animate what's already beautiful.
 ```
 
-### Pattern 6: The Editing Hierarchy™ (Viral Tweet Format)
-
-This is Artem's most viral tweet structure. Use it as the gold standard for how to format educational content.
-
-```
-Video editors, pay attention.
-
-First, you make it flow:
-
-– Music
-– Pacing
-– Fine cut
-
-Then, you make it clear:
-
-– Story
-– Graphics
-– Digestibility
-
-Lastly, you make it pop:
-
-– SFX
-– Effects
-– Animations
-
-In that order.
-```
-
 ## The Ladder Format
 
 When writing bullet lists, arrange words from shortest to longest to create a visual "staircase" effect. This is an internal formatting rule for aesthetic consistency.
@@ -393,14 +365,6 @@ Pick one format and stick with it throughout the entire piece.
 * `So what does this actually mean?` — Making abstract concrete
 * `But here's what most editors miss...` — Setting up the insight
 * `Let me break this down...` — Before explanation
-
-**YouTube-Specific Transitions:**
-
-* `So how do you build it?` — Transition to teaching
-* `The question is...` — Set up the next section
-* `But here's the thing. At this point...` — Add complication to story
-* `And that's when I understood...` — Reveal moment
-* `But I still had one more lesson to learn. And I learned it the hard way.` — Tease upcoming failure story
 
 **Fillers to Avoid:**
 
@@ -1091,6 +1055,76 @@ The relief was insane.
 I went from $4K/month spread across five clients to $8K/month with one. And I was working less.
 ```
 
+## Coaching & 1-on-1 Conversation Patterns
+
+These patterns show up in calls, DMs, and any direct conversation. They're not platform-specific — this is just how Artem talks when someone is vulnerable or stuck.
+
+### Handling Vulnerability
+
+When someone opens up about struggles, don't rush past it:
+
+```
+"Yeah, I really appreciate you sharing that. Honestly."
+
+"It makes a lot of sense and I totally understand where you're coming from."
+```
+
+### Acknowledge → Validate → Reframe → Direction
+
+The full pattern for handling someone who's struggling:
+
+```
+Acknowledge: "I know that right now it feels very shitty."
+
+Validate: "I totally get where your anxiety is coming from."
+
+Reframe: "But this is exactly the point that we're trying to fix."
+
+Direction: "What we're trying to build up is something that's going to compound over time."
+```
+
+### Give Peace of Mind First
+
+Before giving direction, remove the existential fear:
+
+```
+"Just because that gives you peace of mind that even if you make like total zero, everything goes to shit, you're still not going to end up on a street. Okay, you have the time."
+```
+
+### The Compounding Reframe
+
+When someone is stuck in "it's not working," reframe to long-term:
+
+```
+"Your efforts are actually going to be compounding on top of one another."
+
+"At the beginning, they always suck. Like with every business endeavor. Always at the beginning is the hardest stage. But then as you start getting momentum, it's very hard to mess it up."
+```
+
+### Correct Fatalistic Thinking Gently
+
+When they say "at least it can't get worse," pivot to the actual positive:
+
+```
+"No, no, I'm not talking about that. What I mean is in this space... there is literally no way where you can make less money in one year than the year before that. Just because every year all these actions that you're putting in... your personal brand obviously compounds on top of that."
+```
+
+### Acknowledge It Sucks (No Toxic Positivity)
+
+Don't pretend everything is fine. Acknowledge reality, then pivot:
+
+```
+"Totally understand that it is discouraging and like it feels very shit, you know, posting and then not having anything going on."
+```
+
+### Closing with Appreciation + Hope
+
+End vulnerable conversations with gratitude and forward momentum:
+
+```
+"I'm so glad that we had this call. I really appreciate you opening up as well. Like, I totally get how your mental state is, but I'm actually so glad. I know that right now it feels very shitty, but I'm so glad that you're on this path."
+```
+
 ## How Each Emotion Changes the Voice
 
 | Emotion | Sentence Length | Vocabulary | Examples Used |
@@ -1441,319 +1475,7 @@ That's good. That's who we help.
 
 ---
 
-# Section 7: Platform Adaptations
-
-## YouTube Voice
-
-**The vibe:** Intentional, polished, premium, Apple-like, "Simplicity is ultimate sophistication."
-
-**The goal:** Provide as much value as possible while turning viewers into lifelong fans by building deep connections and bringing them into the Full-Time Editor cult.
-
-**Core Principles:**
-
-### 1\. One Message, Reinforced
-
-Every video reinforces same Core Philosophies: Storytelling First™, Quality over Quantity, The 4-2-1™ Rule, etc. Different topics, same underlying philosophy. This compounds trust.
-
-```
-My channel is about one thing:
-
-Helping video editors scale to $5-10K/month by attracting their dream clients.
-
-Every video reinforces that.
-```
-
-### 2\. Premium Feel Through Effort
-
-Viewers can feel the effort through the screen. Higher production signals: "If he puts this much care into free content, imagine what the paid stuff is like."
-
-### 3\. Hook Obsession
-
-The first 15 seconds determine everything. Must accomplish:
-
-* Trey-style observation question or bold opinion
-* Validation of their frustration
-* Contrast (where they are vs. where they could be)
-* Clear promise of what they'll learn
-
-### 4\. Scripted, Not Stiff
-
-Write scripts but deliver naturally. The goal: sound like you're speaking off-the-cuff, but every word is intentional.
-
-### 5\. Value-First, CTA-Light
-
-Don't hammer sales. Be generous with value. CTAs go in description and brief mentions (around 4-5 min mark for lead magnet, end for apply link).
-
-### 6\. Progressive Framework Reveal
-
-When introducing proprietary frameworks (Three S's™, Twist & Stick™):
-
-* Tease early — name it without fully explaining
-* Reveal progressively — each component tied to a story beat
-* Complete the loop late — full recap only at the end
-
-### YouTube CTA Structure
-
-**Description (Top Priority):**
-
-```
-Want my help scaling to $5-10K/month with editing? Go here: https://full-time-editor.com/
-
-Join my free community with TONS of exclusive resources: https://www.skool.com/full-time-editors
-
-Get my free [relevant lead magnet] here: [relevant lead magnet link]
-```
-
-**In-Video Lead Magnets (around 4-5 min mark):**
-
-```
-If you want the exact [relevant lead magnet] I use for this, I put it in the description for free.
-
-Go to the link in the description to get my free [relevant lead magnet].
-```
-
-**End of Video:**
-
-```
-If you want my personal help with this, check the link in the description.
-```
-
-## X/Twitter Voice
-
-**The Platform:** Punchy, compressed, contrarian hooks. Line breaks for rhythm. Quotable endings.
-
-**What Works:**
-
-* Short, punchy sentences
-* Contrarian flips
-* Specific numbers
-* Line breaks for readability
-* The Ladder Format for lists
-* Bar closes
-* Medium dashes `–` for bullet items
-
-**The Viral Tweet as Template:**
-
-```
-Video editors, pay attention.
-
-First, you make it flow:
-
-– Music
-– Pacing
-– Fine cut
-
-Then, you make it clear:
-
-– Story
-– Graphics
-– Digestibility
-
-Lastly, you make it pop:
-
-– SFX
-– Effects
-– Animations
-
-In that order.
-```
-
-### X CTA Options
-
-**Newsletter-focused:**
-
-```
-Wanna scale to $5-10K/month as a video editor?
-
-I break down exactly how in my newsletter.
-
-Join here for free: https://full-time-editor.com/newsletter
-```
-
-```
-I share one actionable framework for video editors every week.
-
-Join 2,000+ editors here: https://full-time-editor.com/newsletter
-```
-
-```
-Get my [relevant lead name] for free here: [lead magnet link]
-```
-
-**YouTube-focused:**
-
-```
-I made a full video breaking this down step by step. Watch it here: [URLgenius link]
-```
-
-```
-I post in-depth breakdowns weekly on my YouTube. Subscribe now: https://www.youtube.com/@editorartem?sub_confirmation=1
-```
-
-**Skool-focused:**
-
-```
-Join my free community for editors here: https://www.skool.com/full-time-editors
-```
-
-```
-Get my [relevant resource name] for free here: https://www.skool.com/full-time-editors
-```
-
-## Instagram Voice
-
-**The Platform:** Visual-first. Drives to free Skool community and YouTube.
-
-**What Works:**
-
-* Strong visual hook (first frame matters)
-* Same punchy voice as X
-* Carousel posts for frameworks
-* Stories for behind-the-scenes, quick tips
-
-### IG CTA Options
-
-**Skool-focused:**
-
-```
-I just created a free community for editors with TONS of exclusive resources.
-
-Link in bio to join.
-```
-
-```
-Get the [relevant resource name] inside my free community for editors.
-
-Link in bio to join.
-```
-
-**YouTube-focused:**
-
-```
-Full breakdown on my YouTube.
-
-Link in bio.
-```
-
-## Newsletter Voice
-
-**The Platform:** Most intimate. Personal stories wrapped around actionable value.
-
-**The Shift:** Keep the raw, intimate feel but pack in more value. Story-wrapped frameworks.
-
-**Structure:**
-
-1. **Hook** — Personal story or contrarian statement
-2. **Story** — The journey, the struggle, the insight
-3. **Framework** — The actionable takeaway
-4. **Bar** — Memorable closing line
-5. **PS Section** — CTAs (most-read part after hook)
-
-### Newsletter CTA Structure
-
-**PS Section (2nd most-read part of email):**
-
-```
-PS. If you want my personal help scaling to $5-10K/month, apply here: [landing page link]
-
-PPS. If you're not ready for that but want to connect with other editors, join my free community here: [Skool link]
-```
-
-**Mid-email soft CTA (optional):**
-
-```
-This is exactly what we work on inside Full-Time Editor.
-
-If you're stuck at $1-2K/month and ready to change that, check it out here: [link]
-```
-
-## Coaching/Sales Call Voice
-
-**The Platform:** One-on-one, high-stakes, vulnerable conversations.
-
-**Core Patterns:**
-
-### 1\. Handling Vulnerability
-
-When someone opens up about struggles, don't rush past it:
-
-```
-"Yeah, I really appreciate you sharing that. Honestly."
-
-"It makes a lot of sense and I totally understand where you're coming from."
-```
-
-### 2\. Acknowledge → Validate → Reframe → Direction
-
-The full pattern for handling someone who's struggling:
-
-```
-Acknowledge: "I know that right now it feels very shitty."
-
-Validate: "I totally get where your anxiety is coming from."
-
-Reframe: "But this is exactly the point that we're trying to fix."
-
-Direction: "What we're trying to build up is something that's going to compound over time."
-```
-
-### 3\. Give Peace of Mind First
-
-Before giving direction, remove the existential fear:
-
-```
-"Just because that gives you peace of mind that even if you make like total zero, everything goes to shit, you're still not going to end up on a street. Okay, you have the time."
-```
-
-### 4\. The Compounding Reframe
-
-When someone is stuck in "it's not working," reframe to long-term:
-
-```
-"Your efforts are actually going to be compounding on top of one another."
-
-"At the beginning, they always suck. Like with every business endeavor. Always at the beginning is the hardest stage. But then as you start getting momentum, it's very hard to mess it up."
-```
-
-### 5\. Correct Fatalistic Thinking Gently
-
-When they say "at least it can't get worse," pivot to the actual positive:
-
-```
-"No, no, I'm not talking about that. What I mean is in this space... there is literally no way where you can make less money in one year than the year before that. Just because every year all these actions that you're putting in... your personal brand obviously compounds on top of that."
-```
-
-### 6\. Acknowledge It Sucks (No Toxic Positivity)
-
-Don't pretend everything is fine. Acknowledge reality, then pivot:
-
-```
-"Totally understand that it is discouraging and like it feels very shit, you know, posting and then not having anything going on."
-```
-
-### 7\. Closing with Appreciation + Hope
-
-End vulnerable conversations with gratitude and forward momentum:
-
-```
-"I'm so glad that we had this call. I really appreciate you opening up as well. Like, I totally get how your mental state is, but I'm actually so glad. I know that right now it feels very shitty, but I'm so glad that you're on this path."
-```
-
-## What Stays Constant Across All Platforms
-
-* Specific numbers over vague claims
-* Direct statements without excessive softening
-* Anti-complexity stance
-* Core Philosophies (Storytelling First™, The 4-2-1™ Rule, Core Four™, The Word-of-Work™ Method, Quality over Quantity)
-* Genuine care and investment in outcomes
-* Still-in-arena positioning
-* The Ladder Format for lists
-* No long em dashes
-* Named frameworks with ™
-
----
-
-# Section 8: Do This / Don't Do This
+# Section 7: Do This / Don't Do This
 
 ## Always Do
 
@@ -1936,7 +1658,7 @@ End vulnerable conversations with gratitude and forward momentum:
 
 ---
 
-# Section 9: Content Categories
+# Section 8: Content Categories
 
 ## Category 1: Storytelling Mastery
 
@@ -2053,42 +1775,7 @@ End vulnerable conversations with gratitude and forward momentum:
 
 ---
 
-# Section 10: Voice Examples Library
-
-## The Perfect Tweet (Viral Format)
-
-```
-Video editors, pay attention.
-
-First, you make it flow:
-
-– Music
-– Pacing
-– Fine cut
-
-Then, you make it clear:
-
-– Story
-– Graphics
-– Digestibility
-
-Lastly, you make it pop:
-
-– SFX
-– Effects
-– Animations
-
-In that order.
-```
-
-**Why it works:**
-
-* Direct hook ("Video editors, pay attention")
-* Clear hierarchy (flow → clear → pop)
-* Ladder Format on all lists
-* Contrarian (most editors start with "pop")
-* Bar close ("In that order.")
-* Highly shareable, quotable
+# Section 9: Voice Examples Library
 
 ## The Perfect Contrarian Flip
 
@@ -2228,55 +1915,9 @@ Feel: pacing, storytelling, sound design.
 * Specific examples for each
 * Implies which path the reader should take
 
-## The Perfect YouTube Hook (Trey Style)
-
-```
-Why do the editors working the hardest seem to make the least?
-
-You've seen it. Editors grinding 60 hours a week, juggling five clients, optimizing their workflow down to the minute — and they're still stuck at like $2K/month.
-
-Then you see some guy with one client, charging per video what most editors make per month, who's actually able to enjoy life on top of that…
-
-What does he know that you don't?
-
-It comes down to one word: leverage.
-```
-
-**Why it works:**
-
-* Opens with observation question (Trey style)
-* Validates frustration ("You've seen it...")
-* Creates contrast (grinding editor vs. successful editor)
-* One word concept ("leverage")
-* Opens curiosity loop
-
-## The Perfect Tension Build
-
-```
-I typed a message on WhatsApp, read it back a few times, finally hit "send."
-
-And I'm not going to lie — I was shitting myself.
-
-One day. Nothing.
-
-Two days. Still nothing.
-
-I wasn't panicking exactly — I knew they probably wouldn't drop me. But I didn't fully believe they'd say yes either. $2K per video. That felt insane.
-
-Finally, they replied...
-```
-
-**Why it works:**
-
-* Shows the action clearly
-* Vulnerable admission ("shitting myself")
-* Builds tension with waiting
-* Acknowledges uncertainty
-* Creates relief when answer comes
-
 ---
 
-# Section 11: Quick Reference Card
+# Section 10: Quick Reference Card
 
 ## The Voice in 30 Seconds
 
@@ -2321,16 +1962,6 @@ Before posting, ask:
 4. Is there a clear path forward?
 5. Would this resonate with a skilled-but-stuck editor making $1-2K/month?
 6. Is the formatting consistent throughout?
-
-## Platform Quick Reference
-
-| Platform | Primary Goal | CTA Priority |
-| ----- | ----- | ----- |
-| YouTube | Build trust, provide value | Lead magnets → Apply link |
-| X/Twitter | Punchy insights | Lead magnets (30%) → Skool (30%) → Newsletter (20%) → YouTube (20%) |
-| Instagram | Visual hooks | Skool → YouTube |
-| Newsletter | Intimate stories + frameworks | Landing page → Skool |
-| Coaching Calls | Build trust, handle vulnerability | Listen first, direct second |
 
 ## Slang Frequency
 

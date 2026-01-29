@@ -51,7 +51,11 @@ Unless specified otherwise, ALL content is for Artem. Always load:
 #### Knowledge Files
 
 **artem/** (default voice)
-- `voice-of-artem.md` — Tone, style, personality
+- `voice-of-artem.md` — Core tone, style, personality (platform-agnostic)
+- `voice-of-artem-email.md` — Email-specific voice patterns
+- `voice-of-artem-youtube.md` — YouTube-specific voice patterns
+- `voice-of-artem-twitter.md` — X/Twitter-specific voice patterns
+- `voice-of-artem-newsletter.md` — Newsletter-specific voice patterns
 - `artem-story-bank.md` — Personal stories by theme
 - `artem-journey.md` — Background and journey
 
@@ -144,6 +148,12 @@ See `.mcp.json` for configuration.
 1. Open this folder in your terminal
 2. Run `claude` to start Claude Code
 3. Say "create a skill for [something]" to build your first skill
+
+---
+
+## Communication Rules
+
+- **Always confirm when done.** After completing a task (editing files, creating content, running commands), explicitly tell the user you're finished and summarize what was done. Never leave the user wondering if you're still working.
 
 ---
 
