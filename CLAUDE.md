@@ -23,15 +23,21 @@ If skills, MCPs, or agents aren't working, this is usually why.
 
 | When you want to... | Load skill |
 |---------------------|------------|
+| Extract ideas from a call/transcript | `content-insight-extractor` |
+| Analyze a content idea / voice memo | `content-idea-analyzer` |
+| Write a YouTube script | `youtube-script-writer` |
+| Write a YouTube description | `youtube-description-writer` |
+| Write X posts | `x-tweet-writer` |
+| Write X threads | `x-thread-writer` |
+| Write sales/nurture emails | `1m-email-writer` |
+| Get a YouTube video transcript | `youtube-transcript` |
+| Clean/format a raw transcript | `transcript-cleaner` |
 | Create a new skill | `create-skill` |
 | Create a new command | `create-command` |
 | Create a new agent | `create-agent` |
 | Create a new hook | `create-hook` |
 | Add or build an MCP | `create-mcp` |
 | Search online for MCP servers | `mcp-finder` agent (spawned by create-mcp) |
-| Get a YouTube video transcript | `youtube-transcript` |
-| Clean/format a raw transcript | `transcript-cleaner` |
-| Write a YouTube description | `youtube-description-writer` |
 
 ### Knowledge (Reference)
 
@@ -154,7 +160,3 @@ See `.mcp.json` for configuration.
 ## Communication Rules
 
 - **Always confirm when done.** After completing a task (editing files, creating content, running commands), explicitly tell the user you're finished and summarize what was done. Never leave the user wondering if you're still working.
-
----
-
-**Built for:** Claude Code for Business YouTube Series

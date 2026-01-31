@@ -466,4 +466,14 @@ Finally, they replied...
 
 ---
 
+## Vlog Music Direction
+
+Vlogs are raw, authentic, documenting-the-journey style — NOT polished/premium like main channel videos.
+
+- **Default vibe:** Lo-fi Hip Hop, Indie Folk, Acoustic, Bedroom Pop, Singer-songwriter
+- **Fast-paced montages:** Liquid Drum And Bass — fast but smooth and uplifting, never dark or aggressive
+- **Avoid:** Cinematic, Corporate, Phonk, Hard Trap — anything too produced or too aggressive
+
+---
+
 *Document updated January 2026. Update as YouTube voice evolves.*
