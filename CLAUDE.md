@@ -31,7 +31,9 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Write X threads | `x-thread-writer` |
 | Write sales/nurture emails | `1m-email-writer` |
 | Get a YouTube video transcript | `youtube-transcript` |
+| Pull soundbites from a transcript | `soundbite-extractor` |
 | Clean/format a raw transcript | `transcript-cleaner` |
+| Create a page in Gamma (checkout, landing) | `gamma-page-creator` |
 | Create a new skill | `create-skill` |
 | Create a new command | `create-command` |
 | Create a new agent | `create-agent` |
@@ -62,6 +64,7 @@ Unless specified otherwise, ALL content is for Artem. Always load:
 - `voice-of-artem-youtube.md` — YouTube-specific voice patterns
 - `voice-of-artem-twitter.md` — X/Twitter-specific voice patterns
 - `voice-of-artem-newsletter.md` — Newsletter-specific voice patterns
+- `voice-of-artem-skool.md` — Skool community post voice patterns
 - `artem-story-bank.md` — Personal stories by theme
 - `artem-journey.md` — Background and journey
 

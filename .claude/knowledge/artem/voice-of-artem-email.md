@@ -527,4 +527,70 @@ The story was already structured. Every animation had a reason. Nothing was fill
 
 ---
 
-*Document created January 2026. Updated January 29, 2026 with rhythm and pacing patterns from Breakthrough launch edits.*
+## Sequence Writing Patterns (From Segment B Edits)
+
+These patterns were extracted from Artem's edits to the Breakthrough launch Segment B emails. They apply to multi-email sequences.
+
+### Use Concrete Numbers, Not Ranges
+
+Specific numbers land harder than vague ranges.
+
+```
+✗ $1,000+/video
+✓ $1,500/video
+
+✗ 3-5x more
+✓ 5x more
+```
+
+Pick a concrete number that feels right for the context.
+
+### "Same Skills" Not "Same Skill Set"
+
+Simpler phrasing flows better. "Skill set" sounds corporate.
+
+```
+✗ Same skill set. Completely different result.
+✓ Same skills. Completely different result.
+```
+
+### Reference Niches Carefully
+
+When the audience IS YouTube editors, don't say "YouTube" as a niche example — it's redundant. Use adjacent categories.
+
+```
+✗ It's not limited to business or YouTube...
+✓ It's not limited to business or finance...
+```
+
+### Name Programs Fully When Introducing Price
+
+First mention of a program's price should use the full name. Creates clarity.
+
+```
+✗ The full program is $3K.
+✓ Full-Time Editor is $3K.
+```
+
+### Trust the Sequence
+
+In multi-email sequences, don't repeat details that were covered in earlier emails. The reader has seen them. Repeating makes the email feel bloated.
+
+```
+✗ B4 lists all 6 included items (already covered in B2)
+✓ B4 focuses on the week-by-week experience (new info)
+```
+
+### Prefer Landing Pages Over Reply CTAs
+
+When a checkout/landing page exists, link to it. "Reply if you have questions" works as a secondary CTA, but the primary should be the page.
+
+```
+✗ → Reply and I'll send the link Friday at 9am
+✓ I put everything on one page:
+  → [link to page]
+```
+
+---
+
+*Document created January 2026. Updated February 1, 2026 with sequence writing patterns from Breakthrough Segment B edits.*

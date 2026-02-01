@@ -273,16 +273,23 @@ This is the central insight threaded through all warm-up emails. It replaces the
 | A7b | ✅ Approved | `segment-a-07b-resend.md` |
 | A8 | ✅ Approved | `segment-a-08-spots-gone.md` |
 | A9 | ✅ Approved | `segment-a-09-doors-close.md` |
-| B1 | ❌ Not started | — |
-| B2 | ❌ Not started | — |
-| B3 | ❌ Not started | — |
-| B4 | ❌ Not started | — |
-| B5 | ❌ Not started | — |
-| B6 | ❌ Not started | — |
-| B7 | ❌ Not started | — |
-| B8 | ❌ Not started | — |
+| B1 | ✅ Approved | `segment-b-01-quick-update.md` |
+| B2 | ✅ Approved | `segment-b-02-499-option.md` |
+| B3 | ✅ Approved | `segment-b-03-editor-vs-creative-director.md` |
+| B4 | ✅ Approved | `segment-b-04-what-youd-get.md` |
+| B5 | ✅ Approved | `segment-b-05-first-access.md` |
+| B6 | ✅ Approved | `segment-b-06-launch.md` |
+| B7 | ✅ Approved | `segment-b-07-thinking-for-months.md` |
+| B8 | ✅ Approved | `segment-b-08-last-call.md` |
 
-**Next up:** B1 — Sat Feb 1: "Hey [name] — quick update"
+**All 18 emails complete.**
+
+### Skool Community Posts
+
+| Post | Status | File |
+|------|--------|------|
+| Pre-launch pin | ✅ Approved | `content/skool/breakthrough-launch/pre-launch-pin.md` |
+| Launch day post | ✅ Approved | `content/skool/breakthrough-launch/launch-day-post.md` |
 
 **Important patterns learned from A1-A4 (now in voice-of-artem-email.md and SKILL.md):**
 - Sign-offs in sequences use "Talk [day of next email]." not "Talk soon."

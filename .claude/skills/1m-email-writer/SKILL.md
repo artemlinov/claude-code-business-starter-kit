@@ -343,3 +343,18 @@ Everything wrong:
 - Fake urgency
 - Generic greeting
 - Formal sign-off
+
+---
+
+## Sequence Writing Rules
+
+When writing multi-email sequences (3+ emails), follow these additional rules:
+
+### Trust the Sequence
+Don't repeat offer details that were covered in earlier emails. If Email 2 listed everything included, Email 4 shouldn't list it again. Each email should add NEW information or a new angle — not rehash what came before.
+
+### Funnel to Landing Pages
+When a checkout or landing page exists, make that the primary CTA. Don't use "reply and I'll send the link" when the link already exists. "Reply if you have questions" works as a secondary line, but the arrow (→) should point to the page.
+
+### Name Programs Fully
+First mention of a program's price in any email should use the full program name. "Full-Time Editor is $3K" not "The full program is $3K." After the first mention, shorthand is fine.
