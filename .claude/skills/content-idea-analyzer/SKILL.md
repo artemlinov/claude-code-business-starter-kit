@@ -116,7 +116,6 @@ Ask the user what they want to create. Based on their choice:
 - **Thread** — Summon `x-threads-writer` skill (if it exists, otherwise write thread directly using voice-of-artem-twitter.md)
 - **YouTube Video** — Summon `youtube-script-writer` skill, passing the idea as the Big Idea + Raw Thoughts
 - **Newsletter** — Summon newsletter writer (if it exists, otherwise write directly using voice-of-artem-newsletter.md)
-- **Email** — Summon `1m-email-writer` skill
 - **Story Bank** — Append the draft entry to `artem-story-bank.md` under the suggested section (confirm with user first)
 
 When summoning a skill, pass along:

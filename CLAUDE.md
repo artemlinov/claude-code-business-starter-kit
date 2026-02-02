@@ -30,7 +30,7 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Write a YouTube description | `youtube-description-writer` |
 | Write X posts | `x-tweet-writer` |
 | Write X threads | `x-thread-writer` |
-| Write sales/nurture emails | `1m-email-writer` |
+| Write sales copy (emails, pages) | `1m-copywriter` |
 | Get a YouTube video transcript | `youtube-transcript` |
 | Pull soundbites from a transcript | `soundbite-extractor` |
 | Clean/format a raw transcript | `transcript-cleaner` |

@@ -1,6 +1,6 @@
 # The Breakthrough — Email Sequence Writing Brief
 
-Use this doc as context when writing the 18 launch emails with the `1m-email-writer` skill.
+Use this doc as context when writing the 18 launch emails with the `1m-copywriter` skill.
 
 **Workflow:** Write one email at a time. Wait for approval before moving to the next. Go in order: A1, A2, A3... then B1, B2, B3...
 
@@ -10,7 +10,7 @@ Use this doc as context when writing the 18 launch emails with the `1m-email-wri
 
 In your new chat, say something like:
 
-> Write the pre-launch email sequence for The Breakthrough. Use the `1m-email-writer` skill. Here's the context doc: [paste or reference this file]
+> Write the pre-launch email sequence for The Breakthrough. Use the `1m-copywriter` skill. Here's the context doc: [paste or reference this file]
 
 The skill will automatically load:
 - `.claude/knowledge/artem/voice-of-artem.md`
