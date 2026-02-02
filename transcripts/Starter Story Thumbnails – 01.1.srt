@@ -1,0 +1,1127 @@
+1
+00:00:00,011 --> 00:00:04,551
+Okay, here, we'll follow the same exact process.
+
+2
+00:00:04,597 --> 00:00:06,992
+So, usually,
+
+3
+00:00:07,870 --> 00:00:10,044
+yeah, honestly, the main thing is just,
+
+4
+00:00:10,045 --> 00:00:13,679
+like, the composition. When you get the composition right,
+
+5
+00:00:13,680 --> 00:00:18,301
+the thumbnail looks so much better. Here,
+
+6
+00:00:18,302 --> 00:00:22,516
+the same exact thing. I would love to have his thumb higher.
+
+7
+00:00:22,562 --> 00:00:26,985
+That's It's kind of like the problem with, With the thumbnails always,
+
+8
+00:00:26,986 --> 00:00:29,701
+just because when you're taking the photo in real life,
+
+9
+00:00:30,049 --> 00:00:34,947
+it feels super weird to lift your thumb higher.
+
+10
+00:00:35,102 --> 00:00:38,902
+But on the thumbnail, it actually looks better.
+
+11
+00:00:41,254 --> 00:00:44,937
+So, I have a few thoughts here. First of all,
+
+12
+00:00:46,884 --> 00:00:52,907
+I have a cool idea. Or
+
+13
+00:00:52,908 --> 00:00:55,311
+maybe this isn't a cool idea,
+
+14
+00:00:55,338 --> 00:00:58,350
+but at least it's an idea.
+
+15
+00:00:58,351 --> 00:01:03,350
+Because,
+
+16
+00:01:03,612 --> 00:01:08,244
+you know, see how he has text on his screen?
+
+17
+00:01:09,060 --> 00:01:12,203
+So, if it wasn't this text-heavy,
+
+18
+00:01:12,204 --> 00:01:14,412
+I would just kind of, like, do this,
+
+19
+00:01:14,876 --> 00:01:17,046
+and then I would say 34k per month if he didn't have that, or
+
+20
+00:01:17,047 --> 00:01:21,620
+17k per month,
+
+21
+00:01:28,939 --> 00:01:33,543
+whatever
+
+22
+00:01:33,544 --> 00:01:36,267
+he makes, if he didn't have,
+
+23
+00:01:36,268 --> 00:01:38,559
+That text on the,
+
+24
+00:01:38,560 --> 00:01:42,914
+on the screen, but with the text, it just looks a little bit too
+
+25
+00:01:42,915 --> 00:01:47,563
+busy. So what I'm thinking,
+
+26
+00:01:49,546 --> 00:01:52,339
+I know what we'll do, but we need Photoshop for this again.
+
+27
+00:01:56,306 --> 00:01:58,811
+We'll do this in Photoshop though, it's gonna be worth it.
+
+28
+00:01:59,579 --> 00:02:01,599
+I think this is gonna be gonna turn out really good.
+
+29
+00:02:01,600 --> 00:02:04,883
+Uhm,
+
+30
+00:02:04,894 --> 00:02:08,358
+yeah, honestly, getting the composition right is,
+
+31
+00:02:10,557 --> 00:02:13,273
+And I just can't find this thumbnail now.
+
+32
+00:02:14,800 --> 00:02:17,410
+Getting the composition right,
+
+33
+00:02:17,722 --> 00:02:21,692
+I don't even need this Anymore?
+
+34
+00:02:21,693 --> 00:02:24,405
+I don't think so. Let me save it just in case.
+
+35
+00:02:24,406 --> 00:02:29,246
+Uhm,
+
+36
+00:02:29,257 --> 00:02:34,497
+getting the composition right really is the biggest challenge.
+
+37
+00:02:36,224 --> 00:02:38,676
+But, once you do get it right,
+
+38
+00:02:40,585 --> 00:02:43,378
+the thumbnail just becomes so much better.
+
+39
+00:02:43,677 --> 00:02:46,603
+And Photoshop, truthfully, is a lot better for this.
+
+40
+00:02:46,604 --> 00:02:50,464
+Uh, and, uhm, and you'll see right now why.
+
+41
+00:02:56,220 --> 00:03:00,891
+So what I wanna do, is I wanna,
+
+42
+00:03:03,150 --> 00:03:05,977
+What's a nice scale, you think?
+
+43
+00:03:07,511 --> 00:03:09,708
+I think it's something like this.
+
+44
+00:03:12,523 --> 00:03:17,043
+Potentially even having it
+
+45
+00:03:17,044 --> 00:03:20,023
+like this. Yeah, yeah, yeah, this is gonna look really cool.
+
+46
+00:03:23,755 --> 00:03:26,399
+Okay, nice. And now we'll do a bunch of masking.
+
+47
+00:03:26,890 --> 00:03:29,342
+So, what we need to do first,
+
+48
+00:03:29,704 --> 00:03:34,236
+is we need to, Honestly,
+
+49
+00:03:34,237 --> 00:03:36,587
+remove the guy.
+
+50
+00:03:36,588 --> 00:03:40,324
+I probably should have done it from the very beginning,
+
+51
+00:03:40,325 --> 00:03:44,540
+but that's okay. We need to remove the guy,
+
+52
+00:03:44,541 --> 00:03:47,319
+and it's definitely not gonna be ideal.
+
+53
+00:03:47,551 --> 00:03:50,063
+Honestly, if I just, like, select subject.
+
+54
+00:03:50,064 --> 00:03:53,870
+Uh,
+
+55
+00:03:53,880 --> 00:03:56,130
+I'll deselect all this.
+
+56
+00:04:00,651 --> 00:04:05,651
+Perfect.
+
+57
+00:04:06,142 --> 00:04:08,537
+Uhm, can I,
+
+58
+00:04:08,971 --> 00:04:10,978
+see, I don't know how to use Photoshop.
+
+59
+00:04:14,824 --> 00:04:18,740
+I just wanna, like, exp-, maybe select and mask.
+
+60
+00:04:21,115 --> 00:04:24,715
+Yeah, now it's just not working. Nice.
+
+61
+00:04:24,716 --> 00:04:27,107
+Dude,
+
+62
+00:04:27,108 --> 00:04:32,847
+what the hell,
+
+63
+00:04:32,848 --> 00:04:38,108
+what the hell
+
+64
+00:04:38,109 --> 00:04:42,414
+happened?
+
+65
+00:04:42,415 --> 00:04:44,493
+I couldn't, I didn't have a chance to, like,
+
+66
+00:04:44,494 --> 00:04:47,515
+select anything. Okay. Yeah,
+
+67
+00:04:47,516 --> 00:04:53,358
+so I'll Shift-Edge. And this definitely
+
+68
+00:04:57,250 --> 00:05:02,650
+doesn't help that much. Okay,
+
+69
+00:05:02,651 --> 00:05:07,091
+whatever, I'll just, I'll just press Remove and hope for the best.
+
+70
+00:05:08,956 --> 00:05:11,323
+I don't know what, what it's going to come up with.
+
+71
+00:05:12,112 --> 00:05:14,334
+Hopefully something. Something half decent,
+
+72
+00:05:15,189 --> 00:05:17,262
+probably. Oh shit,
+
+73
+00:05:17,263 --> 00:05:21,042
+this is perfect. Wait,
+
+74
+00:05:21,043 --> 00:05:24,101
+this is literally all we need. Okay.
+
+75
+00:05:26,001 --> 00:05:28,451
+Oh, but now it's annoying because.
+
+76
+00:05:31,715 --> 00:05:36,283
+Ah, yeah, see this is what happens when you have no idea what you're
+
+77
+00:05:36,284 --> 00:05:44,105
+doing. Sorry about
+
+78
+00:05:44,106 --> 00:05:48,655
+this. Okay.
+
+79
+00:05:49,862 --> 00:05:52,873
+You know what? I'll just,
+
+80
+00:05:52,874 --> 00:05:56,402
+I'll just. Start from scratch.
+
+81
+00:05:56,403 --> 00:06:00,976
+I think this is going to be better. So.
+
+82
+00:05:59,426 --> 00:06:02,272
+So I'll open this.
+
+83
+00:06:04,531 --> 00:06:06,963
+Yeah, see, I don't even know,
+
+84
+00:06:07,336 --> 00:06:13,227
+like, how to start a new thing. Can
+
+85
+00:06:13,228 --> 00:06:17,028
+I f******. Did one sec.
+
+86
+00:06:17,827 --> 00:06:21,298
+Okay, never mind. This Photoshop AI is so good.
+
+87
+00:06:21,299 --> 00:06:24,464
+I don't even need to do any of that. It literally did this,
+
+88
+00:06:24,465 --> 00:06:27,751
+which is pretty cool. F****** crazy. All right,
+
+89
+00:06:28,034 --> 00:06:30,437
+so we have this, which is an awesome start.
+
+90
+00:06:31,253 --> 00:06:34,937
+Now, my plan is to move this.
+
+91
+00:06:40,796 --> 00:06:44,413
+Yeah, I need, I need to, I need to select the guy here on
+
+92
+00:06:44,414 --> 00:06:48,384
+this layer. Uhm,
+
+93
+00:06:48,395 --> 00:06:50,749
+I don't need to say it. Select the monitor.
+
+94
+00:06:53,419 --> 00:06:56,709
+My plan is to basically move the monitor down,
+
+95
+00:06:57,097 --> 00:07:02,330
+and like the background down, so that we have space
+
+96
+00:07:02,331 --> 00:07:07,315
+on top to put the 17k
+
+97
+00:07:07,316 --> 00:07:10,369
+per month and whatnot text.
+
+98
+00:07:10,370 --> 00:07:15,369
+Is
+
+99
+00:07:19,714 --> 00:07:22,594
+this good? I think so.
+
+100
+00:07:23,403 --> 00:07:28,153
+All right, so we don't need this. We need to move this
+
+101
+00:07:28,154 --> 00:07:32,339
+down. Like that.
+
+102
+00:07:34,449 --> 00:07:37,227
+How much down?
+
+103
+00:07:37,228 --> 00:07:39,349
+Probably like this.
+
+104
+00:07:43,656 --> 00:07:46,290
+Just so you can tell that it's a monitor.
+
+105
+00:07:47,078 --> 00:07:51,322
+But we have space to put 17k per month there on top.
+
+106
+00:07:52,217 --> 00:07:54,456
+Okay, uh,
+
+107
+00:07:54,467 --> 00:07:59,947
+now let me figure out how to, uhm,
+
+108
+00:07:59,958 --> 00:08:02,018
+think about I just,
+
+109
+00:08:03,260 --> 00:08:07,837
+I think I, hopefully I can just do this and do Generative Fill and
+
+110
+00:08:07,838 --> 00:08:09,098
+then just like generate
+
+111
+00:08:13,837 --> 00:08:18,744
+Yeah, this is kind of the thing about Photoshop versus Canva is Photoshop Generative
+
+112
+00:08:18,745 --> 00:08:23,502
+Fill is so much better and also Canva doesn't have masking.
+
+113
+00:08:23,518 --> 00:08:28,466
+At least I don't know about it. Alright,
+
+114
+00:08:28,566 --> 00:08:33,255
+this is good, and now the final touch of
+
+115
+00:08:33,256 --> 00:08:36,057
+all this is I want his thumb.
+
+116
+00:08:38,567 --> 00:08:41,356
+So I'll go ahead, I'll duplicate the,
+
+117
+00:08:43,397 --> 00:08:46,569
+I'll duplicate the initial layer,
+
+118
+00:08:47,662 --> 00:08:50,627
+I'll move it bit up, I'll just, select,
+
+119
+00:08:51,238 --> 00:08:53,676
+I can select his whole hand.
+
+120
+00:08:55,620 --> 00:08:57,874
+Perfect. Yeah,
+
+121
+00:08:57,875 --> 00:09:00,607
+see how much better it looks when he's,
+
+122
+00:09:00,674 --> 00:09:05,380
+like, I wish, I wish, I wish they would know that while taking
+
+123
+00:09:05,381 --> 00:09:07,963
+the thumbnail, but you, you just never know.
+
+124
+00:09:09,214 --> 00:09:11,588
+And it's, you know, it's understandable.
+
+125
+00:09:12,434 --> 00:09:14,703
+and On this thing,
+
+126
+00:09:14,704 --> 00:09:18,222
+I'll just remove it.
+
+127
+00:09:19,213 --> 00:09:23,851
+The only thing is, should have done it before
+
+128
+00:09:23,852 --> 00:09:32,114
+this. Let's
+
+129
+00:09:32,115 --> 00:09:34,311
+see what it comes up with. Maybe it's,
+
+130
+00:09:34,396 --> 00:09:37,547
+again, maybe I'm just underestimating how good it is.
+
+131
+00:09:37,548 --> 00:09:40,289
+Holy shit,
+
+132
+00:09:40,935 --> 00:09:43,999
+I, uhm, I didn't think that it would draw his exact,
+
+133
+00:09:44,859 --> 00:09:47,356
+like, edge of his body. Oh my god,
+
+134
+00:09:47,357 --> 00:09:49,479
+it's so good. It's insane.
+
+135
+00:09:49,870 --> 00:09:52,209
+It's insane. Alright,
+
+136
+00:09:52,802 --> 00:09:54,821
+now we're done. That's it.
+
+137
+00:09:55,617 --> 00:09:58,126
+I don't want to blur this, although,
+
+138
+00:09:58,570 --> 00:10:03,171
+maybe just like a tiny bit. Thank Let's see.
+
+139
+00:10:05,370 --> 00:10:09,890
+Yeah, nah, because it's on the same distance from the
+
+140
+00:10:09,891 --> 00:10:14,174
+camera as his face. So,
+
+141
+00:10:14,316 --> 00:10:19,214
+we don't want to blur it, we just want to export as
+
+142
+00:10:19,215 --> 00:10:22,224
+JPEG, quality high.
+
+143
+00:10:23,570 --> 00:10:25,675
+And, uhm, I'll save it as is.
+
+144
+00:10:25,676 --> 00:10:29,337
+Cool.
+
+145
+00:10:29,338 --> 00:10:31,944
+And now, yeah,
+
+146
+00:10:31,945 --> 00:10:34,796
+and by the way, just to show you the difference,
+
+147
+00:10:35,873 --> 00:10:40,137
+why we did all that is because we went from this to this.
+
+148
+00:10:40,724 --> 00:10:43,485
+And this is so much better composition-wise.
+
+149
+00:10:45,064 --> 00:10:48,006
+And, still, what's, by the way, what's so important,
+
+150
+00:10:48,017 --> 00:10:50,911
+okay, because Pat mentioned it, Pat mentioned this a bunch of times,
+
+151
+00:10:50,912 --> 00:10:53,572
+is, like, we don't want to make stuff look AI.
+
+152
+00:10:54,584 --> 00:10:58,071
+So, if you imagine, this is still,
+
+153
+00:10:58,284 --> 00:11:01,739
+this still looks very realistic. Like, you can take a photo like that,
+
+154
+00:11:01,740 --> 00:11:04,394
+it's just his camera wasn't positioned ideally,
+
+155
+00:11:04,692 --> 00:11:06,808
+which is a fair point. Like,
+
+156
+00:11:06,809 --> 00:11:09,106
+you, you never know while taking the photo.
+
+157
+00:11:09,650 --> 00:11:13,803
+So, you ideally want to fix that in post.
+
+158
+00:11:13,804 --> 00:11:18,531
+But it makes composition so much better.
+
+159
+00:11:18,532 --> 00:11:23,073
+Like, we, you know, here I
+
+160
+00:11:23,074 --> 00:11:26,272
+can't really do anything. If I want to follow my idea of,
+
+161
+00:11:26,273 --> 00:11:28,384
+okay, I want to put text here on the top,
+
+162
+00:11:28,638 --> 00:11:32,664
+I need to have the guy that low and then I can't see his
+
+163
+00:11:32,665 --> 00:11:34,791
+thumb. Which, I guess, honestly,
+
+164
+00:11:34,792 --> 00:11:37,867
+it's okay if I just remove his thumb.
+
+165
+00:11:37,868 --> 00:11:39,078
+His thumb from here.
+
+166
+00:11:46,326 --> 00:11:49,047
+This is actually not bad at all.
+
+167
+00:11:50,655 --> 00:11:55,208
+Maybe I should just remove his thumb because his thumb
+
+168
+00:11:55,209 --> 00:11:57,981
+is kind of annoying. Maybe I should move it lower.
+
+169
+00:12:00,357 --> 00:12:03,940
+Yeah, so that it's a bit less. Maybe I should make this a bit
+
+170
+00:12:03,941 --> 00:12:08,534
+lower as well. I'll move this a bit
+
+171
+00:12:08,535 --> 00:12:12,851
+lower. Uhm,
+
+172
+00:12:12,852 --> 00:12:18,860
+but again,
+
+173
+00:12:18,861 --> 00:12:21,181
+if you don't want to mess around with it that much,
+
+174
+00:12:21,182 --> 00:12:23,132
+then I guess you can just position it like this. Then the guy is
+
+175
+00:12:23,133 --> 00:12:25,995
+a bit lower than ideally I would want.
+
+176
+00:12:25,996 --> 00:12:29,012
+I don't want to have it personally, but at least you have space on
+
+177
+00:12:29,013 --> 00:12:31,733
+the top to put the text there.
+
+178
+00:12:32,102 --> 00:12:35,057
+And then you obviously just, like, remove his thumb and you can do this
+
+179
+00:12:35,058 --> 00:12:38,197
+in Canva. So, this would be super possible in Canva.
+
+180
+00:12:38,198 --> 00:12:40,529
+Canva would remove this thumb easily.
+
+181
+00:12:40,706 --> 00:12:43,086
+And then you would just generate the,
+
+182
+00:12:43,087 --> 00:12:45,112
+uhm,
+
+183
+00:12:45,122 --> 00:12:45,922
+like, the border.
+
+184
+00:12:50,064 --> 00:12:53,380
+But now, since we already went through all this,
+
+185
+00:12:53,381 --> 00:12:57,933
+let me just real quick generate this
+
+186
+00:12:57,934 --> 00:13:00,326
+and we'll finally finalize this,
+
+187
+00:13:00,327 --> 00:13:05,001
+uh, this in Canva. Finalizing in Canva is
+
+188
+00:13:05,002 --> 00:13:07,086
+much easier than in Photoshop. Uh,
+
+189
+00:13:07,096 --> 00:13:09,101
+this is kind of like my workflow in general,
+
+190
+00:13:09,102 --> 00:13:13,765
+is you wanna, if you wanna mess around with
+
+191
+00:13:13,766 --> 00:13:18,351
+composition, like this, then you do it in Photoshop.
+
+192
+00:13:19,800 --> 00:13:23,926
+And then, in terms of adding the text and stuff like that,
+
+193
+00:13:23,927 --> 00:13:29,129
+you just do it in Canva, because it's just, it's just easier and
+
+194
+00:13:29,130 --> 00:13:31,160
+faster. And honestly, the result,
+
+195
+00:13:31,161 --> 00:13:33,917
+maybe it's because I don't know how to use Photoshop again.
+
+196
+00:13:35,345 --> 00:13:40,340
+But, That's
+
+197
+00:13:40,341 --> 00:13:45,490
+the way I do it. So, I'll
+
+198
+00:13:45,491 --> 00:13:49,755
+import this. Perfect.
+
+199
+00:13:49,756 --> 00:13:54,503
+Uh, I'll do the color correction right away.
+
+200
+00:13:54,986 --> 00:14:02,898
+Let me just do, I
+
+201
+00:14:02,899 --> 00:14:06,092
+don't like it, because it washed it out,
+
+202
+00:14:06,982 --> 00:14:09,237
+so I'll, I'll separate it.
+
+203
+00:14:10,234 --> 00:14:12,468
+Although, maybe I'm just being lazy.
+
+204
+00:14:15,788 --> 00:14:19,512
+I just need to, just need to not let it wash it out.
+
+205
+00:14:19,513 --> 00:14:22,941
+Yeah,
+
+206
+00:14:22,942 --> 00:14:29,799
+it's gonna,
+
+207
+00:14:29,800 --> 00:14:35,971
+it's gonna
+
+208
+00:14:35,972 --> 00:14:41,459
+be better
+
+209
+00:14:41,460 --> 00:14:45,016
+now that I separate it.
+
+210
+00:14:45,017 --> 00:14:50,016
+Let
+
+211
+00:14:56,555 --> 00:14:59,479
+me copy the thing.
+
+212
+00:14:59,480 --> 00:15:00,678
+I don't wanna darken the monitor by too much.
+
+213
+00:15:14,443 --> 00:15:17,297
+Since it's kind of like,
+
+214
+00:15:17,431 --> 00:15:18,734
+you know, a part of the thumbnail.
+
+215
+00:15:30,876 --> 00:15:33,719
+What I'll do now is,
+
+216
+00:15:33,720 --> 00:15:42,096
+yeah, I'll just copy this text. I'll
+
+217
+00:15:42,097 --> 00:15:44,748
+put, per month, I think,
+
+218
+00:15:46,318 --> 00:15:49,866
+on top of the monitor, maybe like here.
+
+219
+00:15:50,764 --> 00:16:01,736
+Yep. And-
+
+220
+00:16:02,571 --> 00:16:05,018
+It says 17k, and again,
+
+221
+00:16:06,851 --> 00:16:08,877
+the font is just annoying.
+
+222
+00:16:08,878 --> 00:16:09,224
+going.
+
+223
+00:16:26,635 --> 00:16:30,905
+I'll make this as big as I can,
+
+224
+00:16:30,906 --> 00:16:35,102
+really. This is pretty good.
+
+225
+00:16:40,174 --> 00:16:43,449
+Hmm. Per month doesn't fit.
+
+226
+00:16:43,450 --> 00:16:47,395
+What I would do in these scenarios is I would usually just make it
+
+227
+00:16:48,319 --> 00:16:50,699
+MRR instead.
+
+228
+00:16:50,700 --> 00:16:55,688
+Like this.
+
+229
+00:16:55,689 --> 00:16:58,850
+Ooh, this is good. I love this.
+
+230
+00:16:58,851 --> 00:17:00,001
+Okay. So then the last thing,
+
+231
+00:17:04,212 --> 00:17:09,480
+I'm just gonna
+
+232
+00:17:10,258 --> 00:17:15,967
+make sure this is, Align
+
+233
+00:17:15,968 --> 00:17:20,917
+like this nicely. Essentially,
+
+234
+00:17:21,073 --> 00:17:25,366
+nah, it doesn't need to be bigger. I'm just gonna put it on top
+
+235
+00:17:25,367 --> 00:17:28,911
+of the monitor like that. And then,
+
+236
+00:17:28,912 --> 00:17:31,928
+yeah, MRR is gonna be here,
+
+237
+00:17:31,929 --> 00:17:32,440
+let's see. I think,
+
+238
+00:17:38,827 --> 00:17:41,061
+I want to have MRR there.
+
+239
+00:17:41,700 --> 00:17:44,147
+And because of that,
+
+240
+00:17:44,148 --> 00:17:46,349
+I'm gonna make this text a bit bigger.
+
+241
+00:17:53,897 --> 00:17:58,082
+And now I'm starting to think that the monitor should be shaded a bit
+
+242
+00:17:58,083 --> 00:18:02,891
+more. Or,
+
+243
+00:18:02,892 --> 00:18:05,101
+Maybe I should just wash it out more.
+
+244
+00:18:06,118 --> 00:18:08,512
+If I go to,
+
+245
+00:18:08,986 --> 00:18:13,950
+which one is it? This one. And I'll bring down the
+
+246
+00:18:14,243 --> 00:18:15,080
+white.
+
+247
+00:18:19,691 --> 00:18:23,898
+So that this text on the monitor doesn't,
+
+248
+00:18:26,206 --> 00:18:30,894
+you know. No. Interferes with this white text
+
+249
+00:18:30,895 --> 00:18:33,504
+enama. I'm also starting to think that,
+
+250
+00:18:35,556 --> 00:18:39,208
+it was better like this to create more separation kind of.
+
+251
+00:18:40,908 --> 00:18:44,717
+Cause you don't, you don't want this text that you've added and then text
+
+252
+00:18:44,718 --> 00:18:51,019
+from the monitor to clash. Yeah.
+
+253
+00:18:51,020 --> 00:18:53,380
+Cool. Now,
+
+254
+00:18:53,381 --> 00:18:55,488
+the shadow needs a bit of tweaking. Let's see what's happening.
+
+255
+00:18:58,608 --> 00:19:00,254
+Wait, which direction should it be?
+
+256
+00:19:06,615 --> 00:19:11,404
+Like this, right? Probably minus forty-five,
+
+257
+00:19:11,405 --> 00:19:23,500
+yeah. Alright. Cool.
+
+258
+00:19:23,501 --> 00:19:26,656
+And I would say this needs a bit less.
+
+259
+00:19:27,861 --> 00:19:30,164
+Although, nah, it was actually good.
+
+260
+00:19:33,192 --> 00:19:35,964
+Sweet. Uh, the,
+
+261
+00:19:37,585 --> 00:19:42,445
+the last thing. Is an arrow.
+
+262
+00:19:44,495 --> 00:19:48,471
+We can reuse this arrow. But what we want to do for this arrow
+
+263
+00:19:48,472 --> 00:19:53,316
+is, I would really make it,
+
+264
+00:19:53,317 --> 00:19:58,316
+umm,
+
+265
+00:19:59,244 --> 00:20:02,555
+I would grab this color. Nope,
+
+266
+00:20:02,556 --> 00:20:04,873
+it should be, the other way around.
+
+267
+00:20:13,853 --> 00:20:16,931
+And potentially make this,
+
+268
+00:20:24,461 --> 00:20:32,615
+this should be white. All right. Like that.
+
+269
+00:20:32,616 --> 00:20:43,287
+I like this more.
+
+270
+00:20:43,288 --> 00:20:48,287
+Yeah,
+
+271
+00:20:50,129 --> 00:20:58,681
+this is better. Uh, maybe honestly, instead of this purple, I should- . Nah,
+
+272
+00:20:58,682 --> 00:21:01,777
+purple, purple is cool. Uh,
+
+273
+00:21:01,787 --> 00:21:05,181
+awesome. Think that's it.
+
+274
+00:21:07,850 --> 00:21:11,056
+Just to quickly recap, Composition is the main thing.
+
+275
+00:21:11,507 --> 00:21:13,611
+And then really just wrapping it up,
+
+276
+00:21:13,612 --> 00:21:18,329
+making sure that, The subject and the text stand
+
+277
+00:21:18,330 --> 00:21:20,646
+out. Here, actually, I like,
+
+278
+00:21:20,789 --> 00:21:25,467
+I like more when it's shaded. You still
+
+279
+00:21:25,468 --> 00:21:30,071
+can't tell that this is a monitor. Maybe a bit less,
+
+280
+00:21:30,267 --> 00:21:33,101
+like that. But you still can't tell that this is a monitor,
+
+281
+00:21:33,102 --> 00:21:35,850
+which is the main thing. Mmm.
+
+282
+00:21:36,632 --> 00:21:37,707
+And yeah, that's it, we do.

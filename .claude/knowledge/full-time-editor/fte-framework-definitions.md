@@ -221,6 +221,14 @@ High-paying clients aren't paying for more views. They're paying for someone who
 
 **What it is:** Technique for improving pacing by using impactful language at key moments.
 
+## The Blockout Graphic™
+
+**What it is:** A progression-style graphic that reveals itself throughout the video as the creator walks through their points.
+
+**In practice:** Instead of throwing every bullet point on screen at once, you reveal them one by one, synced to what the creator is saying. Keeps the viewer locked in, adds structure, and makes content feel intentional.
+
+**Related:** Story Blocks™ (the sections you're revealing), The Editing Hierarchy™ (sits at the Clarity level)
+
 ## Story Proof™
 
 **What it is:** Showing real proof on screen (screenshots, actual websites, real footage) rather than just talking about it.
@@ -310,6 +318,7 @@ The editors who level up study the solutions. They find the patterns. Eventually
 | High-Ticket Outreach™ | Tactical | Personalized outreach, not mass DMs |
 | Texts to Thousands™ | Tactical | Closing clients via DM, no sales calls |
 | The Editing Hierarchy™ | Tactical | Structure → Flow → Clarity → Polish |
+| The Blockout Graphic™ | Tactical | Progression graphic that reveals points one by one |
 | Story Proof™ | Tactical | Show real proof, don't just talk about it |
 
 ---

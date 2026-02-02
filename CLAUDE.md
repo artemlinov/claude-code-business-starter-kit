@@ -23,6 +23,7 @@ If skills, MCPs, or agents aren't working, this is usually why.
 
 | When you want to... | Load skill |
 |---------------------|------------|
+| Create the weekly FTE Digest | `fte-digest-creator` |
 | Extract ideas from a call/transcript | `content-insight-extractor` |
 | Analyze a content idea / voice memo | `content-idea-analyzer` |
 | Write a YouTube script | `youtube-script-writer` |
