@@ -1,6 +1,6 @@
 ---
 name: 1m-copywriter
-description: Write high-converting sales copy for Full-Time Editor. USE WHEN user says 'write an email', 'email sequence', 'nurture sequence', 'pre-call emails', 'post-call follow-up', 'reminder email', 'reactivation email', 'launch email', 'sales email', 'build a sales page', 'create checkout page', 'landing page', 'sales page copy', 'build a page for [offer]', 'offer doc', or any request for copy that sells.
+description: Write high-converting sales copy for Full-Time Editor. USE WHEN user says, 'write an email sequence', 'nurture sequence', 'pre-call emails', 'post-call follow-up', 'reminder email', 'reactivation email', 'launch email', 'sales email', 'build a sales page', 'create checkout page', 'landing page', 'sales page copy', 'build a page for [offer]', 'offer doc', or any request for copy that sells.
 ---
 
 # $1M Copywriter

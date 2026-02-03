@@ -6,6 +6,24 @@ Use this doc as context when writing the 18 launch emails with the `1m-copywrite
 
 ---
 
+## Updated Positioning (Feb 2026)
+
+**Note:** The 18 launch emails are complete and approved. This section documents the updated offer doc positioning for future content.
+
+**The Breakthrough Call** — The 30-minute onboarding call is now branded as "The Breakthrough Call." This is the hook that makes it mentorship, not a course. It's a 1-on-1 where Artem diagnoses the editor's specific situation and builds a tailored roadmap.
+
+**Quick Wins Framing** — Some editors have quick wins available right away (pricing, existing clients). Others need to build the foundation first. We don't guarantee quick wins—we figure out what applies to their situation.
+
+**Proof Points (First 30 Days):**
+- Alejo: doubled rate after The Breakthrough Call + landed new client (under 1 month)
+- Belo: $2K → $4K/month in one month
+- Abody: landed 2x $1K/video clients in under a month
+- David: added $1K/month after The Breakthrough Call from pricing clarity
+
+**See also:** `feb-2026-the-breakthrough.md` for full updated positioning, and `content/offers/breakthrough/offer-doc-copy.md` for the offer document copy.
+
+---
+
 ## How To Use This Doc
 
 In your new chat, say something like:
