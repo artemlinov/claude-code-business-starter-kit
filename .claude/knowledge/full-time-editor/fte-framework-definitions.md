@@ -8,13 +8,31 @@ Single Source of Truth for Full-Time Editor™ Frameworks
 
 These are the beliefs and worldview that define Full-Time Editor.
 
-## Storytelling First™
+## The Creative Director Shift™
 
-**What it is:** The core philosophy. Master fundamentals before flash. Serve the story, not your ego.
+**What it is:** The core mechanism of Full-Time Editor. The transformation from button pusher to creative director. Deciding WHAT the viewer needs to see before deciding HOW to execute it.
 
-**In practice:** Pacing, music selection, emotional arc matter more than flashy effects. Ask "what does the viewer want to see?" not "what looks cool?"
+**The shift:** Button pushers ask "How do I make this look good?" Creative directors ask "What should the viewer see right now?" This single mindset change is the gap between $300/video and $1,000+/video.
 
-**Enemy:** Sparkle Syndrome™ (adding effects for their sake)
+**Why it matters:** Editors who make the shift compound their income consistently (Bello: gradual $2K → $6-7K/month). Editors who spike without the shift lose it (Botond: $1K → $7K then dropped). Consistency comes from the shift, not from tactics.
+
+**In practice:** Think more, execute less. Decide IF you need the animation before creating it. Find the actual thing instead of creating a visualization. Start complex, then strip back to essentials. Plan before you touch After Effects.
+
+**Enemy:** Button Pusher mindset
+
+## Button Pusher
+
+**What it is:** The "before" identity. An editor who executes instructions without thinking about the viewer. Compensates with technical flash instead of creative direction.
+
+**Characteristics:**
+
+* Worries about "how" to show things, not "what" to show
+* Fills every second with movement out of fear the client won't accept the video
+* Judges their work by animations and smoothness, not by viewer experience
+* Can recreate the animations of top editors but doesn't know what else is missing
+* Optimizes for looking impressive instead of serving the viewer
+
+**The gap they feel:** They can do everything top editors can do technically, but their income doesn't reflect it. This confusion keeps them stuck.
 
 ## The 4-2-1™ Rule
 
@@ -223,17 +241,27 @@ High-paying clients aren't paying for more views. They're paying for someone who
 
 ## The Blockout Graphic™
 
-**What it is:** A progression-style graphic that reveals itself throughout the video as the creator walks through their points.
+**What it is:** A progression-style graphic that you show multiple times throughout the video. You reveal or change elements as the video progresses. The viewer sees the same structure again and again, but each time something is different.
 
-**In practice:** Instead of throwing every bullet point on screen at once, you reveal them one by one, synced to what the creator is saying. Keeps the viewer locked in, adds structure, and makes content feel intentional.
+**Why it works:** Most editors think the #1 thing that makes viewers click off is boredom. Wrong. It's confusion. A 15-minute video is a lot of information. Without structure, it feels like one long sentence. The viewer loses track of where they are. They get confused. They leave. The Blockout Graphic solves this by keeping the viewer grounded.
 
-**Related:** Story Blocks™ (the sections you're revealing), The Editing Hierarchy™ (sits at the Clarity level)
+**In practice:** Break the video into Story Blocks™. Have all the Story Blocks in the Blockout Graphic and always keep the viewer grounded by showing which Story Block they're in. You can even have Blockout Graphics inside Story Blocks. Every time you pop up the same graphic with one element changed, you're telling a visual story. The viewer sees progression. They know exactly where they are. They never get lost.
 
-## Story Proof™
+**Key insight:** This graphic requires thinking through the entire section BEFORE touching After Effects. Plan the visual story in V0. Most editors jump straight to making graphics — that's executing. Creative directors plan first — that's thinking.
 
-**What it is:** Showing real proof on screen (screenshots, actual websites, real footage) rather than just talking about it.
+**Related:** Story Blocks™ (the sections you're revealing), The Editing Hierarchy™ (sits at the Clarity level), The VX™ Workflow (planned in V0)
 
-**In practice:** Don't say "I got a client" — show the DM. Don't say "I made $10K" — show the invoice.
+## Story Proof™ / Show the Actual Thing
+
+**What it is:** Showing real proof on screen (screenshots, actual websites, real footage) rather than creating fancy visualizations.
+
+**In practice:**
+- Don't say "I got a client" — show the DM. Don't say "I made $10K" — show the invoice.
+- Creator talks about a topic rising in popularity? Pull up the actual Google Trends graph, instead of creating your own flashy visualization with deep glow and trim paths.
+- Creator mentions a salary from a job listing? Show the actual LinkedIn article.
+- Creator references another creator? Show their real profile picture, not a generic avatar.
+
+**Key insight:** The viewer doesn't need you to create a fancy visualization. They need to see what's being talked about. These aren't complex animations — they're the actual thing. Simple, but effective.
 
 ---
 
@@ -269,15 +297,39 @@ The editors who level up study the solutions. They find the patterns. Eventually
 
 **What it means:** Their budget isn't the constraint. Your skill is. They'd pay more if you were better.
 
+## What, Not How
+
+**What it is:** The core mindset shift at the heart of the Creative Director Shift™. Decide WHAT the viewer needs to see before deciding HOW to execute it.
+
+**The wrong question:** "How do I make this look good? How do I animate this? How do I make this transition smoother?"
+
+**The right question:** "What should the viewer see right now? What do they need to understand? What would make them feel like this video is delivering on its promise?"
+
+**In practice:** The "what" comes first. The "how" is just execution. When you start from "what," you often realize you need less — not more. A static graphic, the actual Google Trends screenshot, or just letting the creator talk might be the right answer.
+
+**Connection:** This is the single question that separates button pushers from creative directors. Every framework in FTE (Blockout Graphic™, Story Proof™, The Editing Hierarchy™) flows from this mindset.
+
+## Confusion > Boredom
+
+**What it is:** The #1 thing that makes viewers click off is confusion, not boredom.
+
+**Why editors get this wrong:** They think viewers leave because the video is boring, so they fill every second with movement and animations. But viewers actually leave because they get lost — they don't know what section they're in, how the current example connects to the main point, or what the video is even about anymore.
+
+**Implication:** Structure matters more than spectacle. A still graphic that grounds the viewer is better than a flashy animation that distracts them.
+
+## The Midwit Curve (Simplicity Through Complexity)
+
+**What it is:** The journey every great editor goes through — and a visual map of the Creative Director Shift™. You start simple because you don't know any better. Then you go through the button-pusher phase of learning all the tools, techniques, plugins — where everything has to be complex, flashy, over-produced. And the best editors come out the other side and land back on simple. But it's intentional simple, way better than simple simple, because it tells the viewer everything they need to know without overwhelming them.
+
+**Steve Jobs connection:** "Simplicity is the ultimate sophistication." It's the ULTIMATE sophistication because you had to go through all the complexity to know what to strip away.
+
+**In practice:** Start complex, then simplify. Create the animation, then intentionally strip it back. Remove elements. Simplify the movement. Not because you can't make it complex — because the viewer doesn't need the complexity. They need the point.
+
+**Connection to the Creative Director Shift™:** The left side of the curve is the beginner. The middle is the button pusher — stuck in complexity, adding effects for their sake. The right side is the creative director — intentionally simple, every choice serving the viewer. Making the Creative Director Shift™ is how you move from the middle to the right.
+
 ---
 
 # Section 5: Enemy Language
-
-## Sparkle Syndrome™
-
-**What it is:** Adding effects for their sake. Braindead flashy editing that looks impressive but feels empty.
-
-**The problem:** Effects that don't serve the story. Building houses with no foundation.
 
 ## Funnel Bros
 
@@ -309,7 +361,8 @@ The editors who level up study the solutions. They find the patterns. Eventually
 
 | Framework | Category | One-Line Definition |
 | ----- | ----- | ----- |
-| Storytelling First™ | Philosophy | Master fundamentals before flash |
+| The Creative Director Shift™ | Philosophy | From button pusher to creative director — WHAT not HOW |
+| Button Pusher | Philosophy | The "before" identity — executing without thinking for the viewer |
 | The 4-2-1™ Rule | Philosophy | 4 hours make, 2 hours move, 1 hour prep |
 | Core Four™ | Philosophy | Pacing, Music, Visuals, Design |
 | Twist & Stick™ | Strategy | Two phases: client-hop to learn, then go all-in |
@@ -319,8 +372,11 @@ The editors who level up study the solutions. They find the patterns. Eventually
 | Texts to Thousands™ | Tactical | Closing clients via DM, no sales calls |
 | The Editing Hierarchy™ | Tactical | Structure → Flow → Clarity → Polish |
 | The Blockout Graphic™ | Tactical | Progression graphic that reveals points one by one |
-| Story Proof™ | Tactical | Show real proof, don't just talk about it |
+| Story Proof™ | Tactical | Show the actual thing, don't create fancy visualizations |
+| What, Not How | Concept | Decide WHAT the viewer needs to see before HOW to execute |
+| Confusion > Boredom | Concept | Viewers click off from confusion, not boredom |
+| The Midwit Curve | Concept | Go through complexity to reach intentional simplicity |
 
 ---
 
-*Document created Jan 2026. Update as frameworks evolve.*
+*Document updated Feb 2026. Update as frameworks evolve.*

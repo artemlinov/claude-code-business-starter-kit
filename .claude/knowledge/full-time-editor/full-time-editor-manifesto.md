@@ -8,19 +8,19 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 ## Our Identity
 
-Full-Time Editor is a mentorship program for video editors who are skilled but stuck. Editors who know the software but are missing the storytelling fundamentals that separate good from elite.
+Full-Time Editor is a mentorship program for video editors who are skilled but stuck. Editors who know the software but are still button pushers — missing the creative direction skills that separate good from elite.
 
-We're not a course. We're not an agency. We're a craft-focused mentorship that helps quality-minded editors master `Storytelling First™`, build an Elite Brand, and create the freedom to work less while earning more.
+We're not a course. We're not an agency. We're a craft-focused mentorship that helps quality-minded editors make the `Creative Director Shift™` — from button pushers who worry about "how" to show things, to creative directors who know "what" to show — then build an Elite Brand and create the freedom to work less while earning more.
 
 ## Our Mission
 
-Transform perfectionists stuck at $1-2K/month into Full-Time Editors earning $5-10K/month by mastering `Storytelling First™`, then teaching them to build a brand and business that reflects that mastery.
+Transform stuck editors into creative directors earning $5K/month consistently by making the `Creative Director Shift™`, then teaching them to build a brand and business that reflects that mastery.
 
 ## The Core Philosophies
 
 These are the beliefs and worldview that define Full-Time Editor:
 
-* `Storytelling First™` – Master fundamentals before flash. Serve the story, not your ego.
+* `Creative Director Shift™` – The transformation from button pusher to creative director. Not technical skill — decision-making, taste, and understanding what makes a video work for the viewer.
 * `The 4-2-1™ Rule` – 4 hours make, 2 hours move, 1 hour prep. Sustainable excellence, not burnout.
 * `Core Four™` – Pacing, Music, Visuals, Design. The fundamentals that make videos feel right.
 * `The Word-of-Work™ Method` – Use your existing work to attract new clients. Your portfolio does the selling.
@@ -34,7 +34,7 @@ What premium clients actually pay for:
 * **Style** – Tailoring the editing style to their specific audience
 * **Schedule** – Meeting deadlines consistently without drama
 
-Master storytelling, understand the audience, deliver on time. Premium income follows.
+Master creative direction, understand the audience, deliver on time. Premium income follows.
 
 ## Who We Serve
 
@@ -44,7 +44,7 @@ Master storytelling, understand the audience, deliver on time. Premium income fo
 * Currently earning $1-2K/month
 * Working 40+ hours/week but making part-time money
 * Have mechanical skills (know the software)
-* Missing storytelling fundamentals (pacing, music, visual flow)
+* Still button pushers — missing creative direction skills (pacing, music, visual flow, knowing "what" to show)
 * Quality-focused perfectionists, not volume grinders
 * Want to work less while earning more
 * Care about craft, not just cash
@@ -63,26 +63,38 @@ Master storytelling, understand the audience, deliver on time. Premium income fo
 ```
 In June 2023, I almost quit editing.
 
-– $120 per video.
-– $1,000 on a good month.
-– 40 miserable hours per week.
+– $600/month with editing as my full-time focus.
+– Two years invested, felt like quitting would mean wasting all that time.
+– Pattern of never getting things across the finish line.
 
-I was pissed off.
+I was a button pusher. I worried about "how" to show things.
+I compensated with fancy animations. I didn't know what else I was missing.
 
-But kept going.
+Then I made the Creative Director Shift.
 
-Eight months of Storytelling later:
+I stopped fearing not putting enough animations in every video.
+I started thinking instead of just executing.
+I realized clients at higher rates pay for decisions and taste, not time and button-pressing.
 
-– $120 → $2,000 per video.
-– $1,000 → $8,000 per month.
-– 40 fulfilled hours per week.
+February 2024: The phone call with Mom.
+
+– $2,000 per video. $8,000 per month.
+– Making more than my mom — a specialist with 10+ years of experience.
+– It wasn't a celebration. It was a quiet realization: "I actually won."
+
+February 2026: Full agency over my life. Living in Lisbon by choice.
+
+"I'm that guy who always wins."
+
+The Creative Director Shift didn't just fix my income.
+It unlocked a completely different life.
 ```
 
 * Started editing at 17 (self-taught, no film school)
 * Ukrainian immigrant background
 * Had €60 in bank account at one point
 * Stuck at $1K/month for 2 years despite working full-time
-* Breakthrough: mastered storytelling fundamentals (pacing is everything)
+* Breakthrough: made the Creative Director Shift — stopped being a button pusher, started thinking like a creative director
 * Raised rates from $700 → $2,500/video with the same client
 * Made $10K in one month editing just 5 videos
 * Still edits for premium clients (not a retired guru)
@@ -109,12 +121,12 @@ Our students' breakthroughs come once everything falls into place: editing skill
 * Deep work in focused blocks > 12-hour grind sessions
 * Craft mastery > mechanical execution
 
-### Storytelling First™
+### What to Show, Not How to Show It
 
-* Fundamentals before flashiness
-* Serving the story over trendy effects
-* Making viewers FEEL something > making videos look cool
-* Editing from the viewer's perspective, not the editor's ego
+* Thinking before executing
+* "What" before "how"
+* Serving the viewer, not showing off
+* Knowing what to leave out is more valuable than knowing how to add more
 
 ### Work-Life Separation
 
@@ -172,19 +184,19 @@ Full-Time Editors don't grind 12 hours/day. They do focused deep work in blocks.
 
 We're not neutral. We have strong opinions about what's wrong with the editing industry and what holds editors back.
 
-### 1\. Sparkle Syndrome™
+### 1\. Button Pusher Behavior
 
-Adding effects for their sake. Braindead flashy editing that looks impressive but feels empty. Building houses with no foundation.
+Executing without thinking for the viewer. Adding effects to compensate instead of making creative decisions. Worrying about "how" to show things instead of "what" to show.
 
 ```
-Most editors have Sparkle Syndrome™.
+Most editors are button pushers.
 
-They add effects because they want to make the video seem worth the client's money or because the effects look cool, not because they serve the story.
+They add effects because they want to make the video seem worth the client's money or because the effects look cool, not because they serve the viewer.
 
 Viewers feel the difference. They just can't name it.
 ```
 
-**Our Alternative:** Master storytelling fundamentals first. THEN add effects purposefully when they enhance the story, not as a crutch.
+**Our Alternative:** Make the Creative Director Shift™. Think WHAT before HOW. Only add effects when they genuinely help the viewer understand the story.
 
 ### 2\. Funnel Bros
 
@@ -257,7 +269,8 @@ Competing with editors who charge $50/video. Clients shopping for "cheapest", no
 | Scale to 50 videos/month | 5 videos at $1K/month |
 | Send 500 cold DMs | Build a brand that attracts |
 | Grind 12 hours/day | Work 4-6 hours/day (The 4-2-1™ Rule) |
-| More effects = better editing | Storytelling First™ |
+| More effects = better editing | Creative Direction > Execution |
+| Know "how" to show | Know "what" to show |
 | Compete on Fiverr | Position as premium |
 | Learn more software | Master the craft |
 | Chase every trend | Master timeless skills |
@@ -272,25 +285,25 @@ Competing with editors who charge $50/video. Clients shopping for "cheapest", no
 
 # Section 4: The Methodology
 
-## Storytelling First™: The Core Insight
+## The Creative Director Shift™: The Core Insight
 
-There's a measurable difference between good editing and elite editing. It's not about knowing more software. It's not about working harder.
+There's a measurable difference between good editing and elite editing. It's not about knowing more software. It's not about working harder. It's about how you think.
 
 ```
-$1K/month editors have mechanical skills but weak fundamentals.
+$1K/month editors are button pushers. They worry about "how" to show things.
 
-They try to compensate with effects.
+They compensate for their lack of creative direction skills with fancy animations.
 
-Top 1% editors master fundamentals first, then add everything else on top.
+Creative directors think about "what" to show first.
 
-They focus on creating the viewer experience, not showing off.
+They're faster, their videos are better, and they're irreplaceable.
 ```
 
-Most editors are building houses with no foundation.
+Most editors are button pushers who don't even know it.
 
 ## What $1K/month Editors Are Missing
 
-They know the software. They can execute technically. But they're missing the `Core Four™`:
+They know the software. They can execute technically. But they're missing the `Core Four™` — the fundamentals creative directors master:
 
 **Missing: Pacing**
 
@@ -318,11 +331,13 @@ They know the software. They can execute technically. But they're missing the `C
 * Don't understand composition, hierarchy, spacing
 * The final video doesn't look premium
 
-**The Compensation Strategy:** When fundamentals are weak, editors compensate with flashy effects. It makes videos look busy, but they still feel hollow. That's `Sparkle Syndrome™`.
+**The Compensation Strategy:** When fundamentals are weak, editors compensate with flashy effects. It makes videos look busy, but they still feel hollow. That's the hallmark of a button pusher — compensating for weak fundamentals with flashy effects.
 
 ## What Full-Time Editors Do
 
 ### Step 1: Master the Core Four™
+
+These are the fundamentals creative directors master:
 
 **Pacing Mastery:**
 
@@ -353,7 +368,7 @@ They know the software. They can execute technically. But they're missing the `C
 
 ### Step 2: Apply the Unique Mechanisms
 
-These are the tactical frameworks that make the methodology concrete:
+These are the tactical tools creative directors use to implement their vision:
 
 * `The Editing Hierarchy™` – Structure → Flow → Clarity → Polish. The order matters.
 * `The VX™ Workflow` – V0, V1, V2 progressive cuts. Never show a messy timeline.
@@ -364,7 +379,7 @@ These are the tactical frameworks that make the methodology concrete:
 
 ### Step 3: Client-Specific Adaptation
 
-AFTER mastering fundamentals, elite editors adapt them:
+AFTER mastering fundamentals, creative directors adapt them:
 
 * **Audience Adaptation:** 15-year-old gamers need different pacing than 45-year-old entrepreneurs
 * **Format Adaptation:** Educational content needs different flow than entertainment
@@ -372,7 +387,7 @@ AFTER mastering fundamentals, elite editors adapt them:
 
 **The Result:** Videos that feel seamless, purposeful, and premium. The editing is invisible. Viewers feel something but can't explain why. That's when you know you're in the top 1%.
 
-## Why Storytelling First™ Works
+## Why The Creative Director Shift™ Works
 
 **1\. Timeless > Trendy**
 
@@ -380,7 +395,7 @@ Fundamentals never go out of style. Effects and transitions change every 6 month
 
 **2\. Confidence Through Competence**
 
-When you KNOW you're in the top 1%, pricing gets easy. No more imposter syndrome. You're not faking it. You're actually good.
+When you KNOW you're a creative director, not a button pusher, pricing gets easy. No more imposter syndrome. You're not faking it. You're actually good.
 
 **3\. Quality Creates Opportunities**
 
@@ -404,11 +419,11 @@ A clear, proven path from $1-2K/month to $5-10K/month by mastering premium editi
 
 ## Pillar 1: $1K Videos
 
-Master Storytelling. The skill premium clients actually pay for.
+Make the Creative Director Shift. The transformation premium clients actually pay for.
 
 **What We Teach:**
 
-Storytelling Fundamentals (`Core Four™`):
+Creative Direction Fundamentals (`Core Four™`):
 
 * Pacing – The viewer never gets bored or overwhelmed
 * Music – Enhances emotion without being noticed
@@ -539,15 +554,15 @@ Don't pretend everything is fine. Acknowledge reality, then pivot:
 ### Challenge + Path (Never Just Challenge)
 
 ```
-âœ— "Your pacing sucks."
+✗ "Your pacing sucks."
 
-âœ“ "Your pacing needs work. Here's exactly how to fix it."
+✓ "Your pacing needs work. Here's exactly how to fix it."
 ```
 
 ```
-âœ— "Stop making excuses."
+✗ "Stop making excuses."
 
-âœ“ "I know it's hard. I was there. But there's no perfect time. Start now."
+✓ "I know it's hard. I was there. But there's no perfect time. Start now."
 ```
 
 ### Coach, Not Critic
@@ -568,25 +583,27 @@ The issue is something specific. Let me show you.
 
 **From:**
 
-* $1-2K/month (stuck)
+* \$1-2K/month (stuck)
 * 40+ hour weeks (grinding but not earning)
 * Imposter syndrome (doubt your worth)
 * Inconsistent clients (feast or famine)
 * Checking prices before buying (financial stress)
 * Questioning if editing is viable
 * Missing fundamentals (but don't know which ones)
-* Chasing effects to compensate (`Sparkle Syndrome™`)
+* Chasing effects to compensate (button-pusher behavior)
+* Button pusher (replaceable)
 
 **To:**
 
-* $5-10K/month (Full-Time Income)
+* \$5-10K/month (Full-Time Income)
 * 4-6 hour workdays (`The 4-2-1™ Rule`)
 * Confidence (you KNOW you're the best)
 * 1-2 premium relationships (stable income)
 * Don't think about money (no financial stress)
 * Proof editing is viable
-* `Storytelling First™` mastery
-* Effects serve story (foundation first)
+* `Creative Director Shift™` — irreplaceable
+* Creative director mindset (decisions over execution)
+* Clients can't replace you because you understand their audience, story, and goals
 
 **The Ripple Effects:**
 
@@ -775,12 +792,13 @@ The question is "Will you work it?"
 
 | Name | What It Is |
 | ----- | ----- |
-| Storytelling First™ | Master fundamentals before flash |
+| Creative Director Shift™ | Button pusher → creative director. Decisions, taste, and what makes a video work. |
 | The 4-2-1™ Rule | 4 hours make, 2 hours move, 1 hour prep |
 | Core Four™ | Pacing, Music, Visuals, Design |
 | The Word-of-Work™ Method | Use existing work to attract clients |
 | Quality over Quantity | Better clients, not more clients |
 | Oversubscribed | We don't chase. Prospects come to us. |
+| Identity Shift | Button Pusher → Creative Director |
 
 ## Unique Mechanisms
 
@@ -802,7 +820,6 @@ The question is "Will you work it?"
 
 | Enemy | What They Do |
 | ----- | ----- |
-| Sparkle Syndrome™ | Add effects for their sake |
 | Funnel Bros | Over-engineer instead of showing work |
 | Hustle Bros | Glorify overwork |
 | Bedroom Editor | No life outside the timeline |
@@ -830,7 +847,7 @@ But here's what's also true:
 
 The gap between $200/video and $1K/video isn't massive. It's not 5 years of experience. It's not film school. It's not expensive gear.
 
-It's mastering the `Core Four™` and positioning yourself to attract your dream clients.
+It's making the `Creative Director Shift™` and positioning yourself to attract your dream clients.
 
 And once you do, everything changes:
 
@@ -840,7 +857,9 @@ And once you do, everything changes:
 * Your lifestyle shifts (`The 4-2-1™ Rule` becomes reality)
 
 ```
-Storytelling First™. Always.
+Editors get stuck. Directors don't.
+
+Make the Creative Director Shift™.
 
 Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 ```
@@ -849,4 +868,4 @@ That's the Full-Time Editor promise.
 
 ---
 
-*Document updated January 2026. This is a living document.*
+*Document updated February 2026. This is a living document.*

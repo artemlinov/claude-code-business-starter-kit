@@ -44,7 +44,7 @@ The central insight behind The Breakthrough's messaging:
 
 This is the gap between $300/video and $1,000+/video. Most editors have strong technical skills. What they're missing is the creative direction mindset — seeing from the audience's perspective.
 
-"Creative direction" and "storytelling" mean the same thing, but "creative director" is more concrete, aspirational, and accurate. The Breakthrough is designed to develop this skill in 30 days.
+This is the Creative Director Shift™. The Breakthrough is designed to develop this mindset in 30 days.
 
 **Important:** This applies to editors in any niche, not just business/YouTube content.
 

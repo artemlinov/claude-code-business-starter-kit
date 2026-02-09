@@ -481,7 +481,7 @@ Use a colon to set up what comes next. Not a period.
 When listing 3+ distinct points that each need explanation, use `1)` `2)` `3)` format with each number on its own line, followed by the explanation as separate paragraphs underneath. This is cleaner than cramming everything into dense paragraphs.
 
 ```
-1) No storytelling skills.
+1) No creative direction skills.
 
 Editors execute, creative directors think for the viewer.
 

@@ -215,7 +215,7 @@ The bar is the final line — quotable, screenshot-worthy.
 - "Guess which one has a ceiling."
 
 **Identity Bar:** Defines who we are
-- "That's Storytelling First™."
+- "That's the Creative Director Shift™."
 - "That's what leverage looks like."
 
 **Contrast Bar:** Two paths, one line
@@ -271,7 +271,7 @@ In June 2023, I almost quit editing...
 I was pissed off.
 But kept going...
 
-Eight months of Storytelling later:
+Eight months after making the Creative Director Shift:
 
 – 1 dream client
 – $2,000/video (weekly)

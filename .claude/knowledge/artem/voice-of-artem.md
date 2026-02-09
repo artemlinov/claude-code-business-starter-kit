@@ -48,7 +48,7 @@ Not "quality over quantity."
 
 ### 3\. Anti-Complexity
 
-Artem consistently pushes back against over-complication. He simplifies without dumbing down. His frameworks are memorable because they're clear: The 4-2-1™ Rule, Core Four™, Storytelling First™.
+Artem consistently pushes back against over-complication. He simplifies without dumbing down. His frameworks are memorable because they're clear: The 4-2-1™ Rule, Core Four™, The Creative Director Shift™.
 
 ```
 Spend more time picking music instead of learning Blender.
@@ -83,7 +83,7 @@ Artem's voice exists to do one thing: help skilled-but-stuck editors see that th
 * Guru positioning (he's not above his audience)
 * Vague inspiration (specifics or nothing)
 * Grind culture (sustainability > hustle)
-* Complexity theater (storytelling > flash)
+* Complexity theater (what to show > how to show it)
 
 **The voice embraces:**
 
@@ -99,7 +99,7 @@ Artem's voice exists to do one thing: help skilled-but-stuck editors see that th
 | Scale to 50 videos/month | 5 videos at $1K/month |
 | Send 500 cold DMs | Build a brand that attracts |
 | Grind 12 hours/day | Work 4-6 hours/day (The 4-2-1™ Rule) |
-| More effects = better editing | Storytelling First™ |
+| More effects = better editing | The Creative Director Shift™ |
 | Compete on Fiverr | Position as premium |
 | More clients = more income | Better clients = more income |
 | Be a generalist | Specialist > Generalist |
@@ -110,14 +110,14 @@ Artem's voice exists to do one thing: help skilled-but-stuck editors see that th
 
 ## The Enemies (Named)
 
-### 1\. Sparkle Syndrome™
+### 1\. Button Pusher Behavior
 
-Adding effects for their sake. Braindead flashy editing that looks impressive but feels empty.
+Executing without thinking for the viewer. Adding effects to compensate instead of making creative decisions. The "before" identity that the Creative Director Shift™ addresses.
 
 ```
-Most editors have Sparkle Syndrome™.
+Most editors are button pushers.
 
-They add effects because they want to make the video seem worth the client's money or because the effects look cool, not because they serve the story.
+They add effects because they want to make the video seem worth the client's money or because the effects look cool, not because they serve the viewer.
 ```
 
 ### 2\. Funnel Bros
@@ -174,7 +174,7 @@ $5K/month is 5 videos, not 25.
 
 **Core Philosophies (Use ™ in written content):**
 
-* `Storytelling First™` — The core philosophy (CLAIM the word "Storytelling")
+* `The Creative Director Shift™` — The core mechanism (WHAT to show, not HOW)
 * `The 4-2-1™ Rule` — 4 hours make, 2 hours move, 1 hour prep
 * `Core Four™` — Pacing, Music, Visuals, Design
 * `The Word-of-Work™ Method` — Using existing work to attract new clients
@@ -215,9 +215,13 @@ $5K/month is 5 videos, not 25.
 * `Huge W`
 * `That's fire`
 
+**Identity Language:**
+
+* `Button Pusher` — The "before" identity (editor who executes without thinking for the viewer)
+* `Creative Director` — The "after" identity (editor who thinks WHAT before HOW)
+
 **Enemy Language:**
 
-* `Sparkle Syndrome™` — Adding effects for their sake
 * `Funnel Bros` — Over-engineered systems instead of portfolio
 * `Hustle Bros` — Glorifying overwork
 * `Bedroom Editor` — No life outside the timeline
@@ -258,7 +262,7 @@ Personal story → Extract principle → Show how it applies to viewer
 ```
 In June 2023, I almost quit editing.
 
-Eight months of Storytelling later:
+Eight months after making the Creative Director Shift:
 
 – $120 → $2,000 per video.
 – $1,000 → $8,000 per month.
@@ -635,7 +639,6 @@ Before posting, ask:
 
 | Enemy | What They Do |
 | ----- | ----- |
-| Sparkle Syndrome™ | Add effects for their sake |
 | Funnel Bros | Over-engineer instead of showing work |
 | Hustle Bros | Glorify overwork |
 | Bedroom Editor | No life outside the timeline |
@@ -645,7 +648,7 @@ Before posting, ask:
 
 | Name | What It Is |
 | ----- | ----- |
-| Storytelling First™ | The core philosophy |
+| The Creative Director Shift™ | The core mechanism |
 | The 4-2-1™ Rule | 4 hours make, 2 hours move, 1 hour prep |
 | Core Four™ | Pacing, Music, Visuals, Design |
 | The Word-of-Work™ Method | Using work to attract clients |

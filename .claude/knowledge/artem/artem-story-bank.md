@@ -76,6 +76,33 @@ But kept going.
 * $2.5K in August 2023
 * Started treating himself better (clothes, food, apartment, stopped pirating software)
 
+## Meeting Marco — The Guide (July 2023) *(Creative Director Shift™ Origin Story)*
+
+Landed a client that felt like a real opportunity. Marco was the creative director — doing all the strategy and managing Artem alongside a few other editors.
+
+**Artem's mindset going in:** Total button-pusher. Perfectionist. Would re-watch a 5-second animation a hundred times just to tweak it pixel-perfect. Would spend an hour micro-tweaking the easing of keyframes in a graph editor. Judged his own work by: "Are there enough animations? Do they look smooth enough?"
+
+**The confusion:** Marco's feedback was never about animations. Never "nice keyframes" or "that transition was smooth." It was about completely different things — things Artem hadn't even considered. Couldn't tell if his own work was good because he was evaluating through the wrong lens.
+
+**Marco's paradox:** Technically not a good editor. His After Effects skills were nothing special. But the videos he produced? You'd watch them in one sitting. Couldn't look away. You wouldn't even notice the editing because you were so sucked into the story.
+
+**The call that changed everything:** A few weeks in, reviewing a cut on a call. Artem brought up a section with no animations for about a minute: "We didn't have any animations for the past minute here. Should I add something?" Marco didn't hesitate: "Nah, that's totally fine. The guy's just telling a story. The viewer is interested in what he's saying. It doesn't need any visuals."
+
+**Marco's static graphics:** Would leave a static, a bit ugly graphic on screen for 5, 10, sometimes 15 seconds. No animation. No movement. In a normal editor world, that's a big no-no. But Marco understood: if the graphic is showing something valuable, the viewer wants to study it. They need TIME to process it. Flashy animations would have made it worse — distracted from the information.
+
+**Other editors failing:** Marco tried teaching this to other editors. They wouldn't listen. Kept forcing their own style. Added animations for phrases the viewer didn't care about. The phrases they should have removed entirely — instead they added flashy effects on top.
+
+**The shift:** Stopped asking "HOW do I make this look good?" Started asking "WHAT should the viewer see right now?" Stopped asking "how do I make this intro flashy?" and started asking "the viewer just clicked on this title and thumbnail. That's all they know. What do they expect to see next?"
+
+**Key quote for content:**
+
+```
+Adding things isn't creative direction.
+Knowing what to add AND what to remove... that's creative direction.
+```
+
+**Plugin revelation:** Eventually stopped using all plugins. Renders now take 10 times less time. Got faster by removing complexity, not adding it.
+
 ## The $700 DM (August 2023)
 
 Got a DM on Twitter from a creator. First video: $700. They agreed immediately — no negotiation, no pushback.

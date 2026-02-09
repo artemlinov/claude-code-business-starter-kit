@@ -16,7 +16,7 @@ Intentional, polished, premium, Apple-like. "Simplicity is ultimate sophisticati
 
 ### 1. One Message, Reinforced
 
-Every video reinforces the same Core Philosophies: Storytelling First™, Quality over Quantity, The 4-2-1™ Rule, etc. Different topics, same underlying philosophy. This compounds trust.
+Every video reinforces the same Core Philosophies: The Creative Director Shift™, Quality over Quantity, The 4-2-1™ Rule, etc. Different topics, same underlying philosophy. This compounds trust.
 
 ### 2. Premium Feel Through Effort
 
@@ -298,6 +298,41 @@ The editors who gain leverage? They study the solutions. They find the patterns.
 
 ---
 
+## Script Structure Principles
+
+### Hero's Journey Structure
+
+For story-driven videos, use the hero's journey:
+- **Chapter 1:** Character establishment. Set up the hero (Artem in button-pusher mode) and introduce the guide (e.g., Marco). Pure emotional setup — no frameworks yet. The viewer should relate to the confusion.
+- **Middle chapters:** Progressive mindset shifts through real moments. Each chapter = one shift, one framework.
+- **Final chapter:** Transformation complete. The hero is now different.
+
+### Chapter Openings Must Be Story-Driven
+
+Never start a chapter with a generic transition or a slow setup. Get straight into the story or a curiosity loop.
+
+**Good:** "I met Marco in July, 2023." / "Every single video I edited in the last 3 years has this one type of graphic no one talks about." / "When I was a button-pusher, I had one fear that controlled every edit I made."
+
+**Bad:** "Let me show you the technique that made my career." / "Now we're going to talk about..." / "In this next section, I'll explain..."
+
+### The Story Is Always About Artem
+
+A guide character (like Marco) should be woven into the story but never dominate it. If three consecutive chapters are "more about Marco than about me," rebalance. The viewer is here for Artem's journey — the guide is a supporting character.
+
+### Specificity = Artem's Voice
+
+The more technical and specific, the more it sounds like Artem. Generic descriptions are the #1 sign of AI writing.
+
+**Good:** "I'd spend an hour micro-tweaking the easing of the keyframes in a graph editor."
+
+**Bad:** "I'd spend hours tweaking my animations."
+
+**Good:** "Pull up the actual Google Trends graph, instead of creating your own flashy visualization with deep glow and trim paths."
+
+**Bad:** "Show real data instead of making something up."
+
+---
+
 ## YouTube-Specific Transitions
 
 * `So how do you build it?` — Transition to teaching
@@ -372,11 +407,11 @@ I went from $50/video to $2K/video. Not by working harder. By working on the rig
 
 ## Content Categories
 
-### Category 1: Storytelling Mastery
+### Category 1: Creative Direction Mastery
 
-*The core philosophy and workflow. This is what you own.*
+*The core mechanism and workflow. This is what you own.*
 
-Philosophy: Storytelling First™, Core Four™, anti-Sparkle Syndrome™, Powerful Phrases™, Story Proof™
+Philosophy: The Creative Director Shift™, Core Four™, Powerful Phrases™, Story Proof™
 
 Workflow: The Editing Hierarchy™, VX™ Workflow, Story Blocks™, Base File™
 
@@ -402,7 +437,7 @@ Topics: Origin story ($50/video → $2K/video), struggles, student transformatio
 
 *Us vs. Them. What we stand against. Contrarian takes.*
 
-Topics: Anti-Sparkle Syndrome™, anti-Funnel Bros, anti-Hustle Bros, anti-Bedroom Editor, anti-Agency Bros, why "get more clients" is wrong advice
+Topics: Anti-Funnel Bros, anti-Hustle Bros, anti-Bedroom Editor, anti-Agency Bros, why "get more clients" is wrong advice
 
 ---
 
@@ -476,4 +511,4 @@ Vlogs are raw, authentic, documenting-the-journey style — NOT polished/premium
 
 ---
 
-*Document updated January 2026. Update as YouTube voice evolves.*
+*Document updated February 2026. Update as YouTube voice evolves.*

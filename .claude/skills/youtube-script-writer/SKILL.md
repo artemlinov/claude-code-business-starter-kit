@@ -1,6 +1,6 @@
 ---
 name: youtube-script-writer
-description: Write YouTube scripts for Artem's Full-Time Editor channel. Use when creating video scripts from approved ideas and packaging. Follows story-driven methodology with progressive framework reveal. Outputs hooks first, then full scripts after approval.
+description: Write YouTube scripts for Artem's Full-Time Editor channel. Use when creating video scripts from approved ideas and packaging. Follows story-driven methodology with progressive framework reveal. Workflow: structure first, then hooks, then full script — each step requires approval before proceeding.
 ---
 
 # YouTube Script Writer
@@ -34,9 +34,31 @@ If any input is missing, ask for it before proceeding.
 
 ## Workflow
 
-### Step 1: Write Hook Variations
+### Step 1: Define the Video Structure
 
-Create **3 hook variations** (30-45 seconds each when spoken).
+Before writing anything, nail the structure. This is the most important step — it's much easier to write a great hook and script when the skeleton is solid.
+
+**What to define:**
+1. **Chapter breakdown** — 4-6 chapters, each with a clear purpose and a working title
+2. **Chapter purpose** — What each chapter accomplishes (character setup? mindset shift? framework reveal? transformation?)
+3. **Story arc** — How does the viewer's understanding progress from Chapter 1 to the final chapter?
+4. **Framework placement** — Which frameworks get revealed in which chapters? (Never dump them all at once)
+
+**Structure Principles:**
+- **Chapter 1 = Character/Setting establishment.** Set up who Artem was at the time, introduce any guide characters. Pure emotional setup — no frameworks yet. The viewer should relate.
+- **Middle chapters = Progressive mindset shifts.** Each chapter = one shift, one framework, one story beat. Each builds on the last.
+- **Final chapter = Transformation + CTA.** Recap the shifts, land the core takeaway, funnel to Full-Time Editor.
+- **Hero's journey works well:** Hero in ordinary world (button-pusher) → meets guide → progressive shifts → transformed (creative director).
+
+**Output:** Present the structure with chapter names and 1-2 sentence purposes. Wait for Artem to approve or adjust before proceeding.
+
+---
+
+### Step 2: Write Hook Variations
+
+Once structure is approved, create **3 hook variations** (30-45 seconds each when spoken).
+
+The hook should set up the video's core tension and make the viewer need to watch the structure you've planned.
 
 **Hook Structure:**
 1. Opening question or pattern interrupt (1-2 sentences)
@@ -79,9 +101,9 @@ Create **3 hook variations** (30-45 seconds each when spoken).
 
 ---
 
-### Step 2: Write Full Script
+### Step 3: Write Full Script
 
-After hook approval, write the complete script.
+After structure AND hook are approved, write the complete script.
 
 **Target Length:** 2,000-3,000 words (10-15 minute video at ~200 words/minute)
 
@@ -89,37 +111,44 @@ After hook approval, write the complete script.
 - Conversational prose, not bullet points
 - No timestamps
 - No B-roll or visual notes
-- Chapter headings to indicate structure (5-7 chapters typical)
+- Chapter headings to indicate structure (matching approved structure from Step 1)
 - Write exactly how Artem talks
 
 ## Script Structure
 
-### Chapter 1: The Setup/Trap (ends by 3:00 mark)
+### Chapter 1: Character/Setting Establishment (ends by 3:00 mark)
 
-Establish the problem clearly:
-- Name the wrong belief most editors hold
-- Show why it keeps them stuck
-- Include ONE proof point (student example or personal stat)
-- Tease the framework NAME only (don't explain it yet)
-- End with a transition question
+Set up who Artem was at the time and introduce the world. This is emotional setup, not teaching.
+- Position Artem as relatable (button-pusher, clueless, trying hard but stuck)
+- If there's a guide character, introduce them here
+- Show the confusion/frustration — the viewer should see themselves
+- NO framework language yet. Save that for Chapter 2+.
+- End with an open loop (something Artem can't explain yet)
 
-**If running long, cut:** Extended analogies, multiple examples, full framework explanations.
+**Chapter opening must be story-driven.** Start with a specific moment, not a generic setup.
+- **Good:** "I met Marco in July, 2023."
+- **Bad:** "Let me tell you about the person who changed my career."
 
-### Middle Chapters: Progressive Story with Framework Reveal
+### Middle Chapters: Progressive Mindset Shifts
 
 Each chapter follows this pattern:
-1. **Story beat** — A specific moment from Artem's journey
+1. **Story beat** — A specific moment from Artem's journey (open with a curiosity loop, not a generic transition)
 2. **Tension** — What was at stake, what could go wrong
 3. **Reveal** — One framework component tied to the story
 4. **Application** — How this applies to the viewer
 
-**Critical:** Never dump frameworks all at once. Each component gets its own moment.
+**Critical rules:**
+- Never dump frameworks all at once. Each component gets its own moment.
+- Every chapter opening must be punchy — story beat or curiosity loop, never "Now let me show you..." or "In this chapter..."
+- The story is always about Artem. A guide character should be woven in but never dominate.
+- Use Artem's specific technical language ("micro-tweaking keyframe easing in a graph editor") over generic descriptions ("tweaking animations").
 
 ### Final Chapter: Resolution + CTA
 
-- Recap the full framework (now that all components have been revealed)
+- Recap the shifts as a pattern (not a list dump)
 - Reinforce the transformation
-- Point to next video or resource
+- CTA to Full-Time Editor: "Check out Full-Time Editor using the first link in the description" or similar
+- End with a question that makes the viewer reflect
 
 ## Core Methodologies
 
@@ -233,27 +262,37 @@ The editors who level up? They study the solutions. They find the patterns. Even
 
 ## CTA Integration
 
-One mid-roll CTA per script. Must feel native, not disruptive.
+**End-of-video CTA (primary):** Funnel to Full-Time Editor. Keep it natural and tied to the video's theme.
+```
+If you want to make this shift yourself, check out Full-Time Editor using the first link in the description. It's where I help editors go from button-pushers to creative directors.
+```
 
-**Pattern:** Teach something valuable → Offer free resource as the "deeper dive"
-```
-If you want to land high-paying clients, you need to adapt your editing style for each one. So I built this AI tool that follows my exact process... [brief explanation] ...join my free Skool community using the link in the description. Now, back to the story...
-```
+**Optional mid-roll CTA:** One per script max. Must feel native, not disruptive. Teach something valuable → Offer free resource as the "deeper dive."
 
 ## Quality Checklist
 
 Before delivering a script, verify:
 
-- [ ] Hook approved before proceeding to full script?
-- [ ] Chapter 1 establishes problem and ends with transition?
+- [ ] Structure approved before writing hook?
+- [ ] Hook approved before writing full script?
+- [ ] Chapter 1 is character/setting setup (no frameworks)?
+- [ ] Every chapter opens with a story beat or curiosity loop (no generic transitions)?
 - [ ] Frameworks revealed progressively (not dumped)?
 - [ ] Belief-breaking happens before teaching?
 - [ ] Every major claim has specific proof?
 - [ ] Personal story woven throughout?
-- [ ] Sounds like Artem actually talking?
+- [ ] Sounds like Artem actually talking (specific technical language, not generic)?
+- [ ] Guide characters support the story but don't dominate?
 - [ ] Tension built in key moments?
 - [ ] 2,000-3,000 words (10-15 minutes)?
-- [ ] One native CTA included?
+- [ ] CTA funnels to Full-Time Editor?
+
+## Iterative Process
+
+V1 is a starting point, not a finished product. Expect Artem to make manual edits between versions. When revising:
+- Read Artem's manual edits carefully — they reveal his actual voice vs. what AI generates
+- Preserve his edits in subsequent versions
+- Use his tweaked language as a guide for the rest of the script
 
 ## Inspiration
 

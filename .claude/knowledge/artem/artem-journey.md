@@ -72,7 +72,7 @@ Saw 16-year-olds making hundreds of thousands dropshipping.
 
 ---
 
-## Phase 4: The Breakthrough (June 2023 - February 2024)
+## Phase 4: The Breakthrough — The Creative Director Shift (June 2023 - February 2024)
 
 ### Twitter Launch (June 2023)
 
@@ -259,7 +259,7 @@ This trip sparked the idea for Full-Time Editor.
 # Section 5: Underrated Skills
 
 * Communication/writing
-* Storytelling
+* Creative direction / Storytelling
 * Pacing
 * Graphic design
 * Attention to detail
@@ -312,7 +312,7 @@ Not taking revisions personally. Asking why. Finding patterns. Eventually not ne
 * Brand is your #1 asset
 * Inbound over outreach
 * Quality over quantity
-* Storytelling over effects
+* What to show, not how to show it
 
 ## What Separates Me
 

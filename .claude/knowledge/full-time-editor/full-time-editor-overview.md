@@ -1,6 +1,6 @@
 # FULL-TIME EDITOR™ PROGRAM OVERVIEW
 
-The 4-Month Mentorship for Skilled-But-Stuck Editors Ready to Scale to $5-10K/month
+The 6-Month Mentorship for Skilled-But-Stuck Editors Ready to Scale to $5-10K/month
 
 ---
 
@@ -64,12 +64,13 @@ Nothing's working. And the worst part? You don't know why.
 **What The ACTUAL Problem Is:**
 
 * No positioning: you're a generalist in a specialist's game
-* No storytelling fundamentals: compensating with effects (`Sparkle Syndrome™`)
+* Still a button pusher: compensating with animations instead of making creative decisions (button-pusher behavior)
 * No confidence framework: can't justify premium prices
 * No client acquisition system: hoping for inbound without a brand
 * No accountability: procrastinating on growth while meeting client deadlines
+* Still thinking like a button pusher — worrying about “how” to show things instead of knowing “what” to show
 
-You have the mechanical skills. You're missing the storytelling fundamentals that make videos *feel* right. And you're missing the systems to turn that skill into consistent $5-10K months.
+You have the mechanical skills. You're still thinking like a button pusher — worrying about “how” to show things instead of knowing “what” to show. And you're missing the systems to turn that skill into consistent $5-10K months.
 
 ---
 
@@ -96,7 +97,7 @@ You have the mechanical skills. You're missing the storytelling fundamentals tha
 "My watch in the Discord always sent things like, 'okay, today, high stress zone, two hours.' And everyone was making fun of me."
 ```
 
-## Where You'll Be in 4 Months
+## Where You'll Be in 6 Months
 
 * $5-10K/month income
 * 4-6 hour focused workdays (`The 4-2-1™ Rule`)
@@ -122,7 +123,7 @@ You have the mechanical skills. You're missing the storytelling fundamentals tha
 
 **Not just:** "$1K → $5K/month"
 
-**Actually:** "Replaceable freelancer → Respected professional"
+**Actually:** "Button pusher → Creative director (replaceable freelancer → respected professional)"
 
 **Not just:** "More clients"
 
@@ -134,7 +135,11 @@ You have the mechanical skills. You're missing the storytelling fundamentals tha
 
 **Not just:** "Editing skills"
 
-**Actually:** "Understanding that `Storytelling First™` is the differentiator"
+**Actually:** "Making the `Creative Director Shift™` — from button pusher to creative director"
+
+**Not just:** "Better editing"
+
+**Actually:** "The `Creative Director Shift™` — becoming irreplaceable"
 
 ---
 
@@ -142,11 +147,11 @@ You have the mechanical skills. You're missing the storytelling fundamentals tha
 
 ## What Full-Time Editor Is
 
-A 4-month mentorship program designed specifically for video editors scaling from $1-2K/month to $5-10K/month.
+A 6-month mentorship program designed specifically for video editors scaling from $1-2K/month to $5-10K/month.
 
-**Duration:** 4 months
+**Duration:** 6 months (PLACEHOLDER - TBD)
 
-**Investment:** $3,000
+**Investment:** $3,000 (PLACEHOLDER - TBD)
 
 **For:** Video editors currently earning $1-2K/month who want to scale without burning out or starting an agency. Just getting better at what they already do.
 
@@ -156,7 +161,7 @@ A 4-month mentorship program designed specifically for video editors scaling fro
 
 ### Pillar 1: $1K Videos
 
-Master `Storytelling First™`. The skill premium clients actually pay for.
+Make the `Creative Director Shift™`. The skill premium clients actually pay for.
 
 ```
 "You just teach all these little things that are so minor, they're so small and simple, but they make all the fucking difference. As soon as you implement even one or two of those things, your edits just look so much better, so much more premium, so much more clean."
@@ -365,6 +370,10 @@ Not a Discord with 10,000 randoms. A tight community of editors at similar stage
 
 I find what's missing for YOU specifically. Create YOUR custom roadmap to $5-10K/month. Not cookie-cutter modules.
 
+### 7\. The Creative Director Shift™
+
+We don't just teach you better editing. We shift your identity — from button pusher to creative director. That's why income changes stick. You become irreplaceable, not just more skilled.
+
 ---
 
 # Section 6: Real Results
@@ -464,19 +473,21 @@ The students who succeed share something: they show up, submit work, and impleme
 
 ## The Numbers
 
-**Investment:** $3,000
+**Investment:** $3,000 (PLACEHOLDER - TBD)
 
-**Duration:** 4 months
+**Duration:** 6 months (PLACEHOLDER - TBD)
 
-**Monthly:** $750/month
+**Monthly:** $500/month (PLACEHOLDER - TBD)
 
 ## The ROI Math
 
 You're currently at $1-2K/month.
 
-If you hit $5K/month after the program, that's $3K extra per month.
+If you hit $5K/month by the end of the program, that's $3K extra per month.
 
 The entire investment pays for itself in ONE month of the difference.
+
+Over 6 months, you'll see gradual income growth — not an overnight spike. Students who build gradually maintain their income because the client relationships are deep.
 
 And then you keep making $5-10K/month. Month after month.
 
@@ -602,7 +613,7 @@ It's about working differently.
 And you don't have to figure it out alone.
 
 ```
-Storytelling First™. Always.
+Make the Creative Director Shift™. Become irreplaceable.
 
 Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 ```
@@ -615,7 +626,7 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 | Detail | Info |
 | ----- | ----- |
-| Duration | 4 months |
+| Duration | 6 months (PLACEHOLDER - TBD) |
 | Investment | $3,000 |
 | Target | Editors at $1-2K/month |
 | Goal | Scale to $5-10K/month |
@@ -634,7 +645,7 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 | Pillar | Focus |
 | ----- | ----- |
-| $1K Videos | Master Storytelling First™ |
+| $1K Videos | Make the Creative Director Shift™ |
 | Elite Brand | Position as premium |
 | Client Flow | Attract, close, retain |
 
@@ -642,7 +653,7 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 | Framework | What It Is |
 | ----- | ----- |
-| Storytelling First™ | Fundamentals before flash |
+| Creative Director Shift™ | From button pusher to creative director |
 | Core Four™ | Pacing, Music, Visuals, Design |
 | The 4-2-1™ Rule | 4 hours make, 2 hours move, 1 hour prep |
 | The VX™ Workflow | V0, V1, V2 progressive cuts |
@@ -658,4 +669,4 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 ---
 
-*Document updated January 2026.*
+*Document updated February 2026.*

@@ -247,10 +247,12 @@ Beyond money, they want to be treated as creative partners, not replaceable vend
 
 **What's actually wrong:**
 * No positioning — they're generalists in a specialist's game
-* No storytelling fundamentals — compensating with effects (Sparkle Syndrome™)
+* No creative direction fundamentals — compensating with effects (button-pusher behavior)
 * No confidence framework — can't justify premium prices
 * No client acquisition system — hoping for inbound without a brand
 * No accountability — procrastinating on growth while meeting client deadlines
+
+**The confusion button pushers feel:** They think the gap is technical when it's actually about decision-making and taste. They can recreate the animations of editors charging 5x more, but they don't understand what else is missing. This is the exact confusion the Creative Director Shift™ resolves.
 
 ### The Skill Gap They Can't Name
 
@@ -401,6 +403,11 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 "When there's someone holding my hand, I'm much more likely to work harder."
 ```
 
+**On the Confusion:**
+```
+"I can recreate all of their animations but I don't even know what else I need to do."
+```
+
 **On Transformation:**
 ```
 "What the fuck did I just do?" [After landing $1K client] - Marti
@@ -422,7 +429,7 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 
 1. **Pricing Confidence** — They don't believe they're worth more
 2. **Business Systems** — They're winging client acquisition
-3. **Storytelling Mastery** — They can't articulate why their editing matters
+3. **Creative Direction Mastery** — They can't articulate why their editing matters
 4. **External Accountability** — They procrastinate on growth activities
 5. **Community of Peers** — They're isolated, don't know what's possible
 
@@ -461,7 +468,7 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 
 ### For Content:
 * Share stories of editors from similar countries/backgrounds
-* Address the specific skills gap (storytelling, not technical)
+* Address the specific skills gap (creative direction, not technical)
 * Talk about the accountability problem openly
 * Show the lifestyle transformation, not just income
 
@@ -529,4 +536,4 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 
 ---
 
-*Compiled from 30+ sales call transcripts and success interviews. Last updated: January 2026.*
+*Compiled from 30+ sales call transcripts and success interviews. Last updated: February 2026.*

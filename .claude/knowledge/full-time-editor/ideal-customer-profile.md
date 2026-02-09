@@ -27,7 +27,10 @@ This is the defining characteristic. They have demonstrable skills, consistent c
 * They take any client instead of choosing ideal fits
 * They optimize for hours worked instead of value delivered
 * They lack a systematic approach to client acquisition
-* They don't understand storytelling as the core differentiator
+* They don't understand creative direction as the core differentiator
+* Still button pushers who haven't made the Creative Director Shift™
+* In the transition period from high school to university (or close to it)
+* Working with talking head or educational creators
 
 ---
 
@@ -35,7 +38,7 @@ This is the defining characteristic. They have demonstrable skills, consistent c
 
 ## Age & Gender
 
-* **Primary:** 17-25 years old
+* **Primary:** Under 22 years old
 * **Gender:** Predominantly male (85%+)
 * **Sweet Spot:** 18-22 (old enough to take seriously, young enough to have low expenses)
 
@@ -120,6 +123,7 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 * Income stuck at $1-2K/month despite 40-60 hour weeks
 * Client acquisition failures (ghosting, low response rates)
 * Feeling stuck with no clear direction
+* FOMO: others who started later are already ahead
 
 ## Deeper Pains
 
@@ -128,6 +132,8 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 * Family pressure to "get a real job"
 * Burnout from overwork without proportional reward
 * Life setbacks compounding (breakups, loss, financial hits)
+* Can recreate the animations of top editors but don't know what else is missing
+* Confused about the gap between their skills and their income
 
 ## The Hidden Pain: Not Knowing What They Don't Know
 
@@ -135,10 +141,12 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 **What's actually wrong:**
 * No positioning (generalists in a specialist's game)
-* No storytelling fundamentals (compensating with effects)
+* No creative direction fundamentals (compensating with effects)
 * No confidence framework (can't justify premium prices)
 * No client acquisition system (hoping without a brand)
 * No accountability (procrastinating on growth)
+
+**The confusion button pushers feel:** They can recreate the animations of top editors, so they think the gap must be something else. They just don't know what. This confusion keeps them stuck. The gap isn't technical — it's decision-making, taste, and understanding what makes a video work for the viewer.
 
 *For detailed pain quotes, see `voice-of-customer.md` → "CURRENT STATE" section.*
 
@@ -162,9 +170,9 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 ## The Identity Transformation
 
-* From "Just Editing" → "Building My Future"
+* From "Button Pusher" → "Creative Director"
+* From "Worrying about 'how' to show things" → "Knowing 'what' to show"
 * From "Replaceable" → "Irreplaceable"
-* From "Bedroom Editor" → "Full-Time Editor™"
 * From "Proving It to Others" → "Proving It to Myself"
 
 **Central Truth:** Money is a proxy for identity transformation. They want to become someone who deserves respect.
@@ -225,7 +233,7 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 **Newer Editors (1-2 years):**
 * More focused on skill development
 * Higher imposter syndrome
-* Questions: "What is storytelling?" / "What do $1K videos look like?"
+* Questions: "What is creative direction?" / "What do $1K videos look like?"
 
 **More Experienced (3+ years):**
 * Frustrated by rates declining despite skill growth
@@ -293,7 +301,7 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 * "Replaceable freelancer → Respected professional"
 * "Clients who value my work" (not just more clients)
 * "The confidence to charge what I'm worth"
-* "Storytelling First™ as the differentiator"
+* "Creative Director Shift™ as the differentiator"
 
 *For transformation stories with quotes, see `voice-of-customer.md` → "TRANSFORMATION STORIES" section.*
 
@@ -323,7 +331,7 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 1. **Money is a proxy for identity transformation.** They want to become someone worthy of respect.
 2. **They need accountability, not information.** They'll meet any client deadline but procrastinate on growth.
-3. **The skill gap is storytelling, not technical.** They can do After Effects. They can't do pacing.
+3. **The skill gap is creative direction, not technical.** They can do After Effects. They can't think like a creative director.
 4. **Loneliness is an underrated pain point.** Community is more valuable than they initially realize.
 5. **Previous coaching failures create both skepticism and opportunity.** They've been burned, but looking for something different.
 
@@ -341,8 +349,8 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 ## The Core Message That Resonates
 
-"You're not a beginner anymore. You know how to edit. You have clients. But you're stuck, and you can feel it. The gap between where you are and $5-10K/month isn't as big as you think. It's not about working harder. It's about working differently. And you don't have to figure it out alone."
+"You're not a beginner anymore. You know how to edit. You have clients. But you're stuck because you're still thinking like a button pusher. The Creative Director Shift™ closes that gap. And you don't have to figure it out alone."
 
 ---
 
-*Document compiled from 30+ sales calls, success interviews, and coaching sessions. Last updated: January 2026.*
+*Document compiled from 30+ sales calls, success interviews, and coaching sessions. Last updated: February 2026.*
