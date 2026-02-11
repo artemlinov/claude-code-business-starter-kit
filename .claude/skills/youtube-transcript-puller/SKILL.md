@@ -1,5 +1,5 @@
 ---
-name: youtube-transcript
+name: youtube-transcript-puller
 description: Fetch and clean YouTube video transcripts. USE WHEN user says 'get transcript from youtube', 'pull transcript', 'youtube transcript', 'extract transcript from video', 'grab the transcript', 'transcribe this youtube video', 'clean this video transcript', 'get captions from youtube'.
 ---
 
@@ -53,12 +53,12 @@ Run the Python script to fetch the raw transcript:
 
 **Without timestamps** (for reading/cleaning):
 ```bash
-python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "VIDEO_ID"
+python3 .claude/skills/youtube-transcript-puller/scripts/fetch_transcript.py "VIDEO_ID"
 ```
 
 **With timestamps** (for YouTube descriptions/chapters):
 ```bash
-python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "VIDEO_ID" --timestamps
+python3 .claude/skills/youtube-transcript-puller/scripts/fetch_transcript.py "VIDEO_ID" --timestamps
 ```
 
 The `--timestamps` flag outputs in `[M:SS] text` format:
@@ -128,7 +128,7 @@ Reference the full cleaning rules from: `.claude/skills/transcript-cleaner/SKILL
 
 **Process:**
 1. Extract video ID: `dQw4w9WgXcQ`
-2. Run: `python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "dQw4w9WgXcQ"`
+2. Run: `python3 .claude/skills/youtube-transcript-puller/scripts/fetch_transcript.py "dQw4w9WgXcQ"`
 3. Clean the raw output using transcript-cleaner rules
 4. Save to: `content/transcripts/video-title.txt`
 5. Return the cleaned transcript to user
@@ -139,7 +139,7 @@ Reference the full cleaning rules from: `.claude/skills/transcript-cleaner/SKILL
 
 **Process:**
 1. Extract video ID: `8V-bA8w_hYw`
-2. Run WITH timestamps: `python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "8V-bA8w_hYw" --timestamps`
+2. Run WITH timestamps: `python3 .claude/skills/youtube-transcript-puller/scripts/fetch_transcript.py "8V-bA8w_hYw" --timestamps`
 3. Use timestamps to identify chapter breaks and create accurate chapter markers
 4. Pass to youtube-description-writer skill
 

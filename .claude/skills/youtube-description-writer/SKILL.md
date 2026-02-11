@@ -191,7 +191,7 @@ If the YouTube MCP is configured, use it to fetch captions with timestamps:
 Fetch the transcript with timing data preserved:
 
 ```bash
-python3 .claude/skills/youtube-transcript/scripts/fetch_transcript.py "VIDEO_ID" --timestamps
+python3 .claude/skills/youtube-transcript-puller/scripts/fetch_transcript.py "VIDEO_ID" --timestamps
 ```
 
 This outputs `[M:SS] text` format:

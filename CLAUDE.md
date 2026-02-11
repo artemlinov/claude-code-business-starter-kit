@@ -33,8 +33,8 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Write X threads | `x-thread-writer` |
 | Write sales copy (emails, pages) | `1m-copywriter` |
 | Find YouTube outlier videos | `youtube-outlier-research` |
-| Get a YouTube video transcript | `youtube-transcript` |
-| Pull soundbites from a transcript | `soundbite-extractor` |
+| Get a YouTube video transcript | `youtube-transcript-puller` |
+| Pull soundbites from a transcript | `soundbyte-extractor` |
 | Clean/format a raw transcript | `transcript-cleaner` |
 | Create a page in Gamma (checkout, landing) | `gamma-page-creator` |
 | Create a new skill | `create-skill` |

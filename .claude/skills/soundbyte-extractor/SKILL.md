@@ -1,5 +1,5 @@
 ---
-name: soundbite-extractor
+name: soundbyte-extractor
 description: Pull punchy, vlog-ready soundbites from call and meeting transcripts. USE WHEN user says 'pull soundbites', 'extract quotes from this call', 'vlog soundbites', 'punchy phrases from transcript', 'soundbites from this call', 'grab quotes from transcript', 'vlog segment from this call', 'give me a sequence of phrases'.
 ---
 
