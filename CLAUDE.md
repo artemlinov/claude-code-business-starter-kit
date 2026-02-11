@@ -26,11 +26,13 @@ If skills, MCPs, or agents aren't working, this is usually why.
 | Create the weekly FTE Digest | `fte-digest-creator` |
 | Extract ideas from a call/transcript | `content-insight-extractor` |
 | Analyze a content idea / voice memo | `content-idea-analyzer` |
-| Write a YouTube script | `youtube-script-writer` |
+| Write a YouTube script (Artem) | `youtube-script-writer` |
+| Create a recording doc for Alex's YouTube video | `alex-recording-doc` |
 | Write a YouTube description | `youtube-description-writer` |
 | Write X posts | `x-tweet-writer` |
 | Write X threads | `x-thread-writer` |
 | Write sales copy (emails, pages) | `1m-copywriter` |
+| Find YouTube outlier videos | `youtube-outlier-research` |
 | Get a YouTube video transcript | `youtube-transcript` |
 | Pull soundbites from a transcript | `soundbite-extractor` |
 | Clean/format a raw transcript | `transcript-cleaner` |
