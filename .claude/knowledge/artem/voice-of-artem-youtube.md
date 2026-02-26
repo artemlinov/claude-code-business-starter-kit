@@ -286,7 +286,7 @@ The editors who gain leverage? They study the solutions. They find the patterns.
 
 **The Identity Bar:** `That's what makes a Full-Time Editor.`
 
-**The Permission Bar:** `You can have a life AND make $5-10K/month.`
+**The Permission Bar:** `You can have a life AND make $5K/month.`
 
 **The Leverage Bar:** `That's what leverage looks like.`
 
@@ -389,7 +389,7 @@ Then the next video — I still remember this — I got zero revisions.
 
 **After (what they aspire to):**
 
-* $5-10K/month working 4-6 hours/day
+* $5K/month working 4-6 hours/day
 * Confident in their rates
 * Premium clients reaching out to them
 * The 4-2-1™ lifestyle
@@ -446,7 +446,7 @@ Topics: Anti-Funnel Bros, anti-Hustle Bros, anti-Bedroom Editor, anti-Agency Bro
 **Description (Top Priority):**
 
 ```
-Want my help scaling to $5-10K/month with editing? Go here: https://full-time-editor.com/
+Want my help scaling to $5K/month with editing? Go here: https://full-time-editor.com/
 
 Join my free community with TONS of exclusive resources: https://www.skool.com/full-time-editors
 

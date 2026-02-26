@@ -23,20 +23,24 @@ If skills, MCPs, or agents aren't working, this is usually why.
 
 | When you want to... | Load skill |
 |---------------------|------------|
-| Create the weekly FTE Digest | `fte-digest-creator` |
-| Extract ideas from a call/transcript | `content-insight-extractor` |
-| Analyze a content idea / voice memo | `content-idea-analyzer` |
+| Write a newsletter (from masterclass or topic) | `fte-copywriter` |
+| Write an email sequence / sales email | `fte-copywriter` |
+| Write a Skool post | `fte-copywriter` |
+| Write sales page / landing page / offer doc | `fte-copywriter` |
 | Write a YouTube script (Artem) | `youtube-script-writer` |
 | Create a recording doc for Alex's YouTube video | `alex-recording-doc` |
 | Write a YouTube description | `youtube-description-writer` |
 | Write X posts | `x-tweet-writer` |
 | Write X threads | `x-thread-writer` |
-| Write sales copy (emails, pages) | `1m-copywriter` |
+| Extract ideas from a call/transcript | `content-insight-extractor` |
+| Analyze a content idea / voice memo | `content-idea-analyzer` |
 | Find YouTube outlier videos | `youtube-outlier-research` |
 | Get a YouTube video transcript | `youtube-transcript-puller` |
 | Pull soundbites from a transcript | `soundbyte-extractor` |
 | Clean/format a raw transcript | `transcript-cleaner` |
 | Create a page in Gamma (checkout, landing) | `gamma-page-creator` |
+| Build a custom GPT | `custom-gpt-builder` |
+| Create an SOP from a Loom | `sop-creator` |
 | Create a new skill | `create-skill` |
 | Create a new command | `create-command` |
 | Create a new agent | `create-agent` |
@@ -63,22 +67,21 @@ Unless specified otherwise, ALL content is for Artem. Always load:
 
 **artem/** (default voice)
 - `voice-of-artem.md` — Core tone, style, personality (platform-agnostic)
-- `voice-of-artem-email.md` — Email-specific voice patterns
+- `voice-of-artem-written.md` — Written content patterns (email, newsletter, Skool)
 - `voice-of-artem-youtube.md` — YouTube-specific voice patterns
 - `voice-of-artem-twitter.md` — X/Twitter-specific voice patterns
-- `voice-of-artem-newsletter.md` — Newsletter-specific voice patterns
-- `voice-of-artem-skool.md` — Skool community post voice patterns
 - `artem-story-bank.md` — Personal stories by theme
 - `artem-journey.md` — Background and journey
 
 **full-time-editor/** (default brand)
-- `full-time-editor-overview.md` — What FTE is
-- `full-time-editor-manifesto.md` — Core beliefs and mission
-- `ideal-customer-profile.md` — Who the customer is
+- `full-time-editor-overview.md` — What FTE is, pricing, what's included
+- `full-time-editor-manifesto.md` — Core beliefs, mission, methodology
+- `ideal-customer-profile.md` — Who the customer is (two segments: sub-$1K and $1K+)
 - `voice-of-customer.md` — Customer language and pain points
-- `fte-framework-definitions.md` — Key frameworks and terminology
-- `fte-30-day-sprint.md` — Sprint program details
-- `micro-offer-launch-plan.md` — Launch strategy
+- `fte-framework-definitions.md` — All 25 frameworks organized by pillar
+- `offer-positioning.md` — Offer stack, customer journey, headlines
+- `insight-program.md` — Insight Program ($249/2wk sneak peek into FTE)
+- `client-communication-frameworks.md` — Price Last™, raising prices, client messaging
 
 **alex-garcia/** (only when specified)
 - `voice-of-alex.md` — Tone, style, personality

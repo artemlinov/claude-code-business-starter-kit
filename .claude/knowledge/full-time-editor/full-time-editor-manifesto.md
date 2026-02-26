@@ -1,6 +1,6 @@
 # FULL-TIME EDITOR™ MANIFESTO
 
-Top 1% Editing. Full-Time Income. Freedom Lifestyle.
+Viewer-First Editing™. Quality-First Clients™. Freedom-First Workflow™.
 
 ---
 
@@ -10,31 +10,26 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 Full-Time Editor is a mentorship program for video editors who are skilled but stuck. Editors who know the software but are still button pushers — missing the creative direction skills that separate good from elite.
 
-We're not a course. We're not an agency. We're a craft-focused mentorship that helps quality-minded editors make the `Creative Director Shift™` — from button pushers who worry about "how" to show things, to creative directors who know "what" to show — then build an Elite Brand and create the freedom to work less while earning more.
+We're not a course. We're not an agency. We're a craft-focused mentorship that helps quality-minded editors make the `Creative Director Shift™` — from button pushers who worry about "how" to show things, to creative directors who know "what" to show — then build the clients and lifestyle that reflect that mastery.
 
 ## Our Mission
 
-Transform stuck editors into creative directors earning $5K/month consistently by making the `Creative Director Shift™`, then teaching them to build a brand and business that reflects that mastery.
+Transform stuck editors into creative directors earning $5K/month consistently by making the `Creative Director Shift™`, building premium client relationships, and working sustainably with the `4-2-1™ Rule`.
 
-## The Core Philosophies
+## The Three Pillars
 
-These are the beliefs and worldview that define Full-Time Editor:
+The Creative Director Shift addresses the three constraints that keep editors stuck:
 
-* `Creative Director Shift™` – The transformation from button pusher to creative director. Not technical skill — decision-making, taste, and understanding what makes a video work for the viewer.
-* `The 4-2-1™ Rule` – 4 hours make, 2 hours move, 1 hour prep. Sustainable excellence, not burnout.
-* `Core Four™` – Pacing, Music, Visuals, Design. The fundamentals that make videos feel right.
-* `The Word-of-Work™ Method` – Use your existing work to attract new clients. Your portfolio does the selling.
-* `Quality over Quantity` – 5 videos at $1K beats 25 videos at $200. Better clients, not more clients.
+* `Viewer-First Editing™` — Improves your SKILL. Edit for the viewer's experience, not your own expression. Decide WHAT to show before HOW to show it.
+* `Quality-First Clients™` — Improves your PRICE. Fewer, better clients. Go deep instead of wide. Become irreplaceable.
+* `Freedom-First Workflow™` — Improves your SPEED. Systems and decisions that free time, not consume it. Get paid for decisions, not time.
 
-## The Three S™ Framework
+## FTE Values
 
-What premium clients actually pay for:
-
-* **Story** – Creating the viewer experience, making them feel something
-* **Style** – Tailoring the editing style to their specific audience
-* **Schedule** – Meeting deadlines consistently without drama
-
-Master creative direction, understand the audience, deliver on time. Premium income follows.
+* `Quality over Quantity` — 5 videos at $1K > 25 at $200. One great outreach > 50 sloppy AI DMs. We obsess over quality because it drives results AND builds a life worth living.
+* `Learn to Earn` — Always prioritize learning skills. A client that challenges you is better than one that keeps you stagnant. Your rates reflect your skills, not sales tricks.
+* `Less is More` — Simplicity is the ultimate sophistication. The skill is in simplifying, not complicating. Strip back to essentials.
+* `The 4-2-1™ Rule` — 4 hours make, 2 hours move, 1 hour prep. Sustainable excellence, not burnout.
 
 ## Who We Serve
 
@@ -44,7 +39,7 @@ Master creative direction, understand the audience, deliver on time. Premium inc
 * Currently earning $1-2K/month
 * Working 40+ hours/week but making part-time money
 * Have mechanical skills (know the software)
-* Still button pushers — missing creative direction skills (pacing, music, visual flow, knowing "what" to show)
+* Still button pushers — missing creative direction skills
 * Quality-focused perfectionists, not volume grinders
 * Want to work less while earning more
 * Care about craft, not just cash
@@ -65,7 +60,6 @@ In June 2023, I almost quit editing.
 
 – $600/month with editing as my full-time focus.
 – Two years invested, felt like quitting would mean wasting all that time.
-– Pattern of never getting things across the finish line.
 
 I was a button pusher. I worried about "how" to show things.
 I compensated with fancy animations. I didn't know what else I was missing.
@@ -91,39 +85,48 @@ February 2026: Full agency over my life. Living in Lisbon by choice.
 * Ukrainian immigrant background
 * Had €60 in bank account at one point
 * Stuck at $1K/month for 2 years despite working full-time
-* Breakthrough: made the Creative Director Shift — stopped being a button pusher, started thinking like a creative director
+* Breakthrough: made the Creative Director Shift
 * Raised rates from $700 → $2,500/video with the same client
 * Made $10K in one month editing just 5 videos
 * Still edits for premium clients (not a retired guru)
-* Lives by `The 4-2-1™ Rule`
 
 **Why He's Credible:**
 
 Still in the arena. Not a retired guru teaching from theory. Recently lived the exact journey. Still actively editing. Knows what works NOW.
 
-**Teaching Philosophy:**
-
-Our students' breakthroughs come once everything falls into place: editing skills, their brand, and their client acquisition systems. That's why we teach all three.
-
 ---
 
 # Section 2: What We Stand For
 
-## Core Values
+## Core Values in Practice
 
 ### Quality Over Quantity
 
 * 5 videos at $1K > 25 videos at $200
 * 1-2 premium relationships > 5+ inconsistent gigs
 * Deep work in focused blocks > 12-hour grind sessions
-* Craft mastery > mechanical execution
+* One great outreach message > 50 sloppy AI cold DMs
 
-### What to Show, Not How to Show It
+### What, Not How™
 
 * Thinking before executing
 * "What" before "how"
 * Serving the viewer, not showing off
 * Knowing what to leave out is more valuable than knowing how to add more
+
+### Learn to Earn
+
+* Focus on skills you're developing while doing the job
+* A challenging client who forces growth > a comfortable client who keeps you stagnant
+* Your rates reflect your skills, not sales tricks
+* We're here for the long game
+
+### Less is More
+
+* Simplicity is the ultimate sophistication
+* Strip back to essentials
+* Start complex, then simplify intentionally
+* The viewer needs the point, not the complexity
 
 ### Work-Life Separation
 
@@ -146,42 +149,15 @@ Our students' breakthroughs come once everything falls into place: editing skill
 * In-depth reviews of THEIR actual work
 * Hands-on mentorship, not passive courses
 
-### Craft Over Trends
-
-* Master timeless fundamentals (they never go out of style)
-* Don't chase algorithm hacks or platform tricks
-* Build real skill, not temporary advantages
-* Become undeniably elite at your craft
-
-## The 4-2-1™ Rule
-
-**Our Philosophy Applied to Life:**
-
-**4 Hours: MAKE**
-
-Focused editing sessions that produce creative, needle-moving work. 4 hours of deep work beats 12 hours of distracted grinding.
-
-**2 Hours: MOVE**
-
-Gym, cardio, movement. Physical health enables mental clarity. Work-life separation is non-negotiable. Recharge yourself for the next day of creativity.
-
-**1 Hour: PREP**
-
-Set yourself up for success by completing shallow work tasks. Plan out the next day's deep work session.
-
-**Why This Matters:**
-
-Full-Time Editors don't grind 12 hours/day. They do focused deep work in blocks. Then they live life. Sustainability creates consistency. Consistency creates mastery. Mastery creates income.
-
 ---
 
 # Section 3: What We Stand Against
 
 ## The Enemies
 
-We're not neutral. We have strong opinions about what's wrong with the editing industry and what holds editors back.
+We're not neutral. We have strong opinions about what's wrong with the editing industry.
 
-### 1\. Button Pusher Behavior
+### 1. Button Pusher Behavior
 
 Executing without thinking for the viewer. Adding effects to compensate instead of making creative decisions. Worrying about "how" to show things instead of "what" to show.
 
@@ -193,71 +169,27 @@ They add effects because they want to make the video seem worth the client's mon
 Viewers feel the difference. They just can't name it.
 ```
 
-**Our Alternative:** Make the Creative Director Shift™. Think WHAT before HOW. Only add effects when they genuinely help the viewer understand the story.
+**Our Alternative:** Make the Creative Director Shift™. Think WHAT before HOW. Only add effects when they genuinely help the viewer.
 
-### 2\. Funnel Bros
+### 2. Agency Bros & Volume Grinding
 
-Editors who build complex VSL funnels instead of a simple portfolio. Over-engineered systems that confuse clients instead of showing work.
+Scaling through volume and hiring. Grinding 50+ videos/month. Optimizing every part of the workflow with automation to onboard another client, and another client. 50-60 hour workweeks. No creative freedom.
 
-```
-You don't need a 47-step funnel.
+**Our Alternative:** Work with 1-2 premium creators, charge $1K+/video, work 4-6 hours/day, have time for life. Quality over quantity, always.
 
-You need 3 great videos and a clean profile.
+### 3. Bedroom Editor
 
-That's it.
-```
-
-**Our Alternative:** Build a premium brand around your skills. No sales tricks needed.
-
-### 3\. Hustle Bros
-
-Glorifying working as much as possible. The 12-hour myth. Burnout as a badge of honor.
+No life outside the timeline. No gym, no friends, no hobbies. The only thing they know how to do is edit videos. They might be making decent money, but their lifestyle sucks.
 
 ```
-Hustle bros will tell you to grind 12 hours a day.
+What's the point if their lifestyle absolutely sucks?
 
-Then they burn out in 6 months.
-
-4 hours of deep work beats 12 hours of scattered grinding.
-
-That's The 4-2-1™ Rule.
+Here, we're trying to make editing work so that our dreams come true.
+There is no point in making a bunch of money with editing if you absolutely hate your life
+and you are chained to your desk.
 ```
 
-**Our Alternative:** Master deep work in focused blocks. Exercise. Spend time with friends. Travel. Live life.
-
-### 4\. Bedroom Editor (Syndrome)
-
-No life outside the timeline. No gym, no friends, no hobbies. Work and life have merged into one blob.
-
-```
-Bedroom Editors wake up, edit, go to sleep, repeat.
-
-Their entire identity is the timeline.
-
-No gym. No friends. No hobbies. Just deadlines.
-
-That's not success. That's a prison.
-```
-
-**Our Alternative:** After focused editing time, we recharge by exercising or spending time with friends. The end goal of editing is to enable your dream lifestyle: travel, hobbies, meaningful relationships.
-
-### 5\. Agency Bros & Volume Grinding
-
-Treat editors like replaceable contractors. Optimize for volume over quality. $200/video because you're pumping out 25/month. 50-60 hour workweeks. No creative freedom.
-
-**Our Alternative:** Work with 1-2 premium creators, charge $1K+/video, work 4-6 hours/day, have time for life.
-
-### 6\. Mass Cold Outreach & Spray-and-Pray
-
-Sending 500 generic DMs hoping something sticks. Quantity over quality in prospecting. Desperation energy that repels good opportunities.
-
-**Our Alternative:** Build an Elite Brand that makes premium creators reach out to YOU. Do strategic, personalized outreach when needed, not mass spam. That's `High-Ticket Outreach™`.
-
-### 7\. Fiverr & Race-to-the-Bottom Platforms
-
-Competing with editors who charge $50/video. Clients shopping for "cheapest", not "best". Algorithm rankings determine your worth.
-
-**Our Alternative:** Position yourself as a specialist to attract creators who value quality and have budgets to match.
+**Our Alternative:** The 4-2-1™ Rule. Work-life separation. Build your editing business so your dreams come true — not so you're chained to your desk.
 
 ## Us vs. Them
 
@@ -268,13 +200,12 @@ Competing with editors who charge $50/video. Clients shopping for "cheapest", no
 | Grind 12 hours/day | Work 4-6 hours/day (The 4-2-1™ Rule) |
 | More effects = better editing | Creative Direction > Execution |
 | Know "how" to show | Know "what" to show |
-| Compete on Fiverr | Position as premium |
-| Learn more software | Master the craft |
-| Chase every trend | Master timeless skills |
 | More clients = more income | Better clients = more income |
-| Be a generalist | Specialist > Generalist |
+| Chase every trend | Master timeless skills |
+| Learn more software | Master the craft |
+| Compete on price | Become irreplaceable through depth |
 
-**They Optimize For:** Volume, hours worked, quantity of clients, more more more
+**They Optimize For:** Volume, hours worked, quantity of clients
 
 **We Optimize For:** Quality, deep work, premium relationships, craft mastery, life balance
 
@@ -298,83 +229,55 @@ They're faster, their videos are better, and they're irreplaceable.
 
 Most editors are button pushers who don't even know it.
 
-## What $1K/month Editors Are Missing
-
-They know the software. They can execute technically. But they're missing the `Core Four™` — the fundamentals creative directors master:
-
-**Missing: Pacing**
-
-* Videos feel off: slow or rushed
-* The viewer is either bored or confused
-* Transitions feel jarring instead of natural
-* Can't maintain viewer attention
-
-**Missing: Music**
-
-* Music is an afterthought, not a foundation
-* Don't understand how music guides emotion
-* Songs don't match the energy of the content
-
-**Missing: Visuals**
-
-* Focus on HOW to show, not WHAT to show
-* Add animations because there wasn't one for a while
-* B-roll is random filler, not purposeful
-* Missing the "why" behind every visual choice
-
-**Missing: Design**
-
-* Animations look amateur despite smooth keyframes
-* Don't understand composition, hierarchy, spacing
-* The final video doesn't look premium
-
-**The Compensation Strategy:** When fundamentals are weak, editors compensate with flashy effects. It makes videos look busy, but they still feel hollow. That's the hallmark of a button pusher — compensating for weak fundamentals with flashy effects.
-
 ## What Full-Time Editors Do
 
-### Step 1: Master the Core Four™
+### Pillar 1: Viewer-First Editing™ (Skill)
 
-These are the fundamentals creative directors master:
+Master the craft of editing for the viewer's experience. Every decision — cut, graphic, SFX, music — evaluated by: does this serve the viewer right now?
 
-**Pacing Mastery:**
+**Core framework:** `What, Not How™` — Decide what the viewer needs to see before deciding how to execute it.
 
-* The viewer never gets bored or confused
-* Video flows like a conversation, not a lecture
-* Knows exactly when to speed up, slow down, or hold
-* The video just FEELS right
+**Key frameworks:**
+* `The Blockout Graphic™` — Progression graphic that keeps the viewer grounded
+* `Story Blocks™` — Structure videos into distinct sections with clear purposes
+* `Powerful Phrases™` — Improve pacing through impactful language at key moments
+* Show the Actual Thing — Use real screenshots, real DMs, real graphs instead of fancy visualizations
 
-**Music Mastery:**
+**Key concepts:**
+* Confusion > Boredom — Viewers click off from confusion, not boredom. Structure > spectacle.
+* The Midwit Curve — Through complexity to intentional simplicity. Less is More.
 
-* Music is the foundation, not an afterthought
-* Enhances emotion without being noticed
-* Song choice, timing, and volume are all intentional
+### Pillar 2: Quality-First Clients™ (Price)
 
-**Visual Mastery:**
+Build premium client relationships through depth, not volume. Fewer, better clients.
 
-* Perfect balance between information density and watchability
-* Every visual choice has a "why"
-* Animations enhance the narrative, not just fill space
-* Graphics guide attention to what matters
+**Core framework:** `Price Last™` — Lead with value and understanding. Price is the last thing discussed.
 
-**Design Mastery:**
+**Key frameworks:**
+* `Twist & Stick™` — Two phases: client-hop to learn (Twist), then go all-in (Stick)
+* `Go Deep™` — Progressive niching, becoming irreplaceable, getting to zero revisions
+* `The Three S's™` — Story, Style, Schedule: what premium clients actually pay for
+* `The Word-of-Work™ Method` — Post client work to attract new clients
+* `High-Ticket Outreach™` — Personalized outreach, not mass DMs
 
-* Animations look professional, not amateur
-* Understands composition, hierarchy, balance
-* Every design choice serves the story
-* "Looks premium" because fundamentals are solid
+**Key concept:**
+* The Cheat Code (Revisions) — Revisions are free coaching from the client. Study the solutions, find the patterns.
 
-### Step 2: Apply the Unique Mechanisms
+### Pillar 3: Freedom-First Workflow™ (Speed)
 
-These are the tactical tools creative directors use to implement their vision:
+Systems and decisions that free up time and mental energy. Get paid for decisions, not time.
 
-* `The Editing Hierarchy™` – Structure → Flow → Clarity → Polish. The order matters.
-* `The VX™ Workflow` – V0, V1, V2 progressive cuts. Never show a messy timeline.
-* `Story Blocks™` – Sections/chapters of a video for pacing. Split the video into digestible parts.
-* `Base File™` – Reusable Premiere/AE project with client assets. Save hours every edit.
-* `Powerful Phrases™` – Technique for improving pacing through strategic word emphasis.
-* `Story Proof™` – Show real proof on screen (screenshots, actual websites, real footage) rather than just talking about it.
+**Core framework:** `The 4-2-1™ Rule` — 4 hours make, 2 hours move, 1 hour prep.
 
-### Step 3: Client-Specific Adaptation
+**Key frameworks:**
+* Intentional Editing — Every micro-decision must be explainable. Nothing random on the timeline.
+* `The 5% Rule` — Don't reinvent the wheel. Reuse what works, improve 5% each video.
+* `Base File™` — Reusable Premiere/AE project with client assets for speed and consistency.
+
+**Key concept:**
+* 90% On Time > 100% Late — Reliability beats perfection for premium clients.
+
+### Client-Specific Adaptation
 
 AFTER mastering fundamentals, creative directors adapt them:
 
@@ -382,103 +285,33 @@ AFTER mastering fundamentals, creative directors adapt them:
 * **Format Adaptation:** Educational content needs different flow than entertainment
 * **Style Adaptation:** Match the creator's unique voice and aesthetic
 
-**The Result:** Videos that feel seamless, purposeful, and premium. The editing is invisible. Viewers feel something but can't explain why. That's when you know you're in the top 1%.
+**The Result:** Videos that feel seamless, purposeful, and premium. The editing is invisible. Viewers feel something but can't explain why.
 
 ## Why The Creative Director Shift™ Works
 
-**1\. Timeless > Trendy**
+**1. Timeless > Trendy**
 
 Fundamentals never go out of style. Effects and transitions change every 6 months. Master fundamentals once, benefit forever.
 
-**2\. Confidence Through Competence**
+**2. Confidence Through Competence**
 
-When you KNOW you're a creative director, not a button pusher, pricing gets easy. No more imposter syndrome. You're not faking it. You're actually good.
+When you KNOW you're a creative director, not a button pusher, pricing gets easy. No more imposter syndrome.
 
-**3\. Quality Creates Opportunities**
+**3. Quality Creates Opportunities**
 
-Premium work gets noticed. Premium creators reach out. Your brand actually works because it's backed by real skill.
+Premium work gets noticed. Premium creators reach out. Your brand works because it's backed by real skill.
 
-**4\. Sustainable Pride**
+**4. Sustainable Pride**
 
 You're proud of your work. You enjoy editing again. No burnout from polishing mediocre videos.
 
-**5\. Foundation Enables Everything**
-
-Branding works because your work backs it up. Negotiating works because you can justify your rates. Client retention works because your editing is actually elite.
-
 ---
 
-# Section 5: The Three Pillars
+# Section 5: The Scaling Path
 
-## The Roadmap
+## Twist & Stick™
 
-A clear, proven path from $1-2K/month to $5-10K/month by mastering premium editing, building an elite brand, and activating consistent client flow.
-
-## Pillar 1: $1K Videos
-
-Make the Creative Director Shift. The transformation premium clients actually pay for.
-
-**What We Teach:**
-
-Creative Direction Fundamentals (`Core Four™`):
-
-* Pacing – The viewer never gets bored or overwhelmed
-* Music – Enhances emotion without being noticed
-* Visuals – Guide the viewer, add context, not empty flash
-* Design – The foundation for premium edits
-
-Tactical Frameworks:
-
-* `The Editing Hierarchy™` – Structure → Flow → Clarity → Polish
-* `The VX™ Workflow` – Progressive cuts (V0, V1, V2)
-* `Story Blocks™` – Sections for pacing
-* `Base File™` – Reusable project assets
-* `Powerful Phrases™` – Pacing through word emphasis
-* `Story Proof™` – Real proof on screen
-
-**How We Do It:**
-
-In-depth editing reviews of YOUR actual work. Frame-by-frame personalized feedback. Not generic modules.
-
-## Pillar 2: Elite Brand
-
-Position yourself as the obvious choice.
-
-**What We Teach:**
-
-* Specialist positioning > generalist positioning
-* How to stand out in a crowded market
-* X/Twitter profile optimization
-* Portfolio that makes you irresistible (3 great videos > 15 mediocre ones)
-* Content strategy that attracts inbound opportunities
-
-**The Mechanism:** Premium work + premium positioning = premium creators reaching out to you. That's `The Word-of-Work™ Method`.
-
-## Pillar 3: Client Flow
-
-Attract, close, and retain elite opportunities.
-
-**ATTRACT:**
-
-* Content strategy that pulls in the right opportunities
-* `High-Ticket Outreach™` – Strategic, personalized outreach (not mass spam)
-* Building genuine relationships in your niche
-
-**CLOSE:**
-
-* `Texts to Thousands™` – Conversations that convert via DM (no sales calls needed)
-* Pricing with confidence (because you KNOW you're elite)
-* Handling objections without desperation
-
-**RETAIN:**
-
-* Raising rates with existing relationships
-* Building long-term partnerships (1-2 premium creators > 5+ inconsistent gigs)
-* Making yourself irreplaceable
-
-## The Stages of Scaling
-
-### Stage 1: Twist™ (Under $1K/video)
+### Stage 1: Twist (Under $1K/video)
 
 * Client-hop: move between opportunities to raise your rates
 * Optimize for learning and portfolio building
@@ -486,13 +319,14 @@ Attract, close, and retain elite opportunities.
 * Speed matters more than deep relationships
 * Goal: Find a premium creator whose budget isn't a bottleneck
 
-### Stage 2: Stick™ (Over $1K/video)
+### Stage 2: Stick (Over $1K/video)
 
-* Build a deep relationship with that premium creator
+* Go all-in on one premium client
 * Become the best at their specific format
 * Stop chasing new opportunities, focus on becoming irreplaceable
+* Get to zero revisions through deep understanding
 * Raise your rate and expand beyond editing over time
-* Goal: $5-10K/month with 1-2 premium clients
+* Goal: $5K/month with 1-2 premium clients
 
 ---
 
@@ -580,26 +414,23 @@ The issue is something specific. Let me show you.
 
 **From:**
 
-* \$1-2K/month (stuck)
+* $1-2K/month (stuck)
 * 40+ hour weeks (grinding but not earning)
 * Imposter syndrome (doubt your worth)
 * Inconsistent clients (feast or famine)
-* Checking prices before buying (financial stress)
+* Financial stress
 * Questioning if editing is viable
-* Missing fundamentals (but don't know which ones)
-* Chasing effects to compensate (button-pusher behavior)
 * Button pusher (replaceable)
 
 **To:**
 
-* \$5-10K/month (Full-Time Income)
+* $5K/month (Full-Time Income)
 * 4-6 hour workdays (`The 4-2-1™ Rule`)
-* Confidence (you KNOW you're the best)
+* Confidence (you KNOW you're elite)
 * 1-2 premium relationships (stable income)
-* Don't think about money (no financial stress)
+* Financial freedom
 * Proof editing is viable
-* `Creative Director Shift™` — irreplaceable
-* Creative director mindset (decisions over execution)
+* Creative director (irreplaceable)
 * Clients can't replace you because you understand their audience, story, and goals
 
 **The Ripple Effects:**
@@ -610,7 +441,6 @@ The issue is something specific. Let me show you.
 * Travel without financial stress
 * Enjoy editing again (pride in your work)
 * Work with creators you admire
-* Confidence in every aspect of life
 
 ---
 
@@ -630,15 +460,13 @@ We have people waiting in line to join.
 If you get on a call with Artem, you're lucky to get on a call with Artem.
 ```
 
-## What This Means for You
+## What This Means
 
-**1\. We Interview You (Not the Other Way Around)**
+**1. We Interview You (Not the Other Way Around)**
 
-Every call is a two-way evaluation. We're not trying to convince you to buy. We're figuring out if you're a good fit for what we do.
+Every call is a two-way evaluation. We're not trying to convince you to buy. We're figuring out if you're a good fit.
 
-If you're not, that's totally cool. We'll tell you honestly and wish you well.
-
-**2\. Fit-Finding, Not Selling**
+**2. Fit-Finding, Not Selling**
 
 Our calls aren't sales calls. They're fit-finding calls.
 
@@ -650,37 +478,15 @@ We're here to figure out if working together makes sense.
 If it does, great. If not, no hard feelings.
 ```
 
-Artem doesn't need any single sale. There are others lined up, waiting. This removes all pressure from the conversation.
-
-**3\. We Turn People Away**
+**3. We Turn People Away**
 
 Not everyone who wants in gets in. We have standards.
 
 * If you're not ready to do the work, we'll tell you
 * If you're looking for magic hacks, we're not for you
-* If you're a volume grinder, not a craft-focused editor, we'll point you elsewhere
+* If you're a volume grinder, we'll point you elsewhere
 
-Saying no is powerful. It's a word said by businesses that are sure of what they do and who they are for.
-
-**4\. Making People Wait Is OK**
-
-Quality mentorship takes time. We don't rush the process to squeeze in extra enrollments.
-
-```
-Businesses that struggle don't make people wait for quality.
-
-They try every trick to squeeze people in at the expense of the experience.
-
-That's not us.
-```
-
-We'd rather have a waitlist than deliver diluted mentorship.
-
-## With-or-Without-You Energy
-
-There's a difference between desperate selling and confident enrollment.
-
-Desperate sellers need every sale. They push, convince, and chase. Prospects can feel it. It's unattractive.
+**4. With-or-Without-You Energy**
 
 ```
 With-or-without-you energy is a sense of confidence someone has when they know they'll meet their targets regardless of what any one individual decides.
@@ -690,37 +496,7 @@ They exude that they will be fine with or without you.
 
 This energy is attractive. People open up, they engage honestly, and if they're the right fit, they join.
 
-Artem has this energy because Full-Time Editor is genuinely oversubscribed. It's not a tactic. It's reality.
-
-## What Our Enrollment Calls Look Like
-
-**Rapport:** We find common ground and get to know each other.
-
-**Discovery:** We learn about your situation. Where you are, where you want to be, what's holding you back.
-
-**Confirming:** We make sure we understand your situation correctly.
-
-**Assessment:** We give you honest feedback. What you're missing, what the real gap is, whether we can help.
-
-**Fit Evaluation:** We determine together if this is the right move for both of us.
-
-**Decision:** If it's a fit, we discuss next steps. If not, we part ways respectfully.
-
-```
-No high-pressure tactics.
-
-No artificial urgency.
-
-No convincing.
-
-Just honest conversations about fit.
-```
-
-## The Mindset Shift
-
-Most mentorship programs chase prospects and try to convince them to buy.
-
-We do the opposite.
+## The Enrollment Mindset
 
 | They Do | We Do |
 | ----- | ----- |
@@ -731,25 +507,6 @@ We do the opposite.
 | Anyone with a credit card | Only the right fit |
 | Sell the dream | Tell the truth |
 
-## Why This Matters
-
-When you join Full-Time Editor, you're joining something selective. You earned your spot.
-
-That selectivity creates better outcomes:
-
-* **Better community:** Everyone in the program is serious and committed
-* **Better results:** We work with people who are ready to do the work
-* **Better experience:** No one feels buyer's remorse from being pressured
-* **Better culture:** Quality over quantity, in enrollment just like in editing
-
-```
-Full-Time Editor is oversubscribed.
-
-Not because we're exclusive for exclusivity's sake.
-
-But because we only work with editors who are genuinely ready for this transformation.
-```
-
 ---
 
 # Section 9: Our Commitment
@@ -759,8 +516,8 @@ But because we only work with editors who are genuinely ready for this transform
 * **Honest Assessment:** We'll show you exactly what you're missing, using YOUR actual work
 * **Personalized Roadmap:** Custom plan for YOUR situation, not cookie-cutter modules
 * **Hands-On Support:** Weekly reviews, open access, group sessions. Real mentorship.
-* **Craft Mastery:** We'll help you become a top 1% editor
-* **No Bullshit:** We'll tell you what you need to hear. Delivered with empathy, never judgment.
+* **Craft Mastery:** We'll help you become a creative director
+* **No Bullshit:** We'll tell you what you need to hear.
 
 ## What We Don't Promise
 
@@ -773,8 +530,6 @@ But because we only work with editors who are genuinely ready for this transform
 
 If you show up to calls, submit your work for review, and implement the feedback, you'll improve. Your editing will get better. Your income will grow.
 
-The program doesn't fail. But if you join and ghost, nothing happens.
-
 ```
 The question isn't "Will this work?"
 
@@ -785,42 +540,39 @@ The question is "Will you work it?"
 
 # Section 10: Quick Reference
 
-## Core Philosophies
+## Core Frameworks by Pillar
 
-| Name | What It Is |
+| Framework | Pillar | What It Is |
+| ----- | ----- | ----- |
+| Creative Director Shift™ | — | Button pusher → creative director |
+| What, Not How™ | Viewer-First | WHAT to show before HOW to execute |
+| The Blockout Graphic™ | Viewer-First | Progression graphic that keeps viewer grounded |
+| Story Blocks™ | Viewer-First | Sections/chapters for video pacing |
+| Price Last™ | Quality-First | Close with price last, lead with value |
+| Twist & Stick™ | Quality-First | Two phases of scaling |
+| Go Deep™ | Quality-First | Progressive niching, becoming irreplaceable |
+| The Three S's™ | Quality-First | Story, Style, Schedule |
+| The 4-2-1™ Rule | Freedom-First | 4 hours make, 2 hours move, 1 hour prep |
+| Intentional Editing | Freedom-First | Every micro-decision must be explainable |
+| The 5% Rule | Freedom-First | Don't reinvent, improve 5% each video |
+| Base File™ | Freedom-First | Reusable project assets |
+
+## FTE Values
+
+| Value | What It Means |
 | ----- | ----- |
-| Creative Director Shift™ | Button pusher → creative director. Decisions, taste, and what makes a video work. |
-| The 4-2-1™ Rule | 4 hours make, 2 hours move, 1 hour prep |
-| Core Four™ | Pacing, Music, Visuals, Design |
-| The Word-of-Work™ Method | Use existing work to attract clients |
-| Quality over Quantity | Better clients, not more clients |
-| Oversubscribed | We don't chase. Prospects come to us. |
-| Identity Shift | Button Pusher → Creative Director |
-
-## Unique Mechanisms
-
-| Name | What It Is |
-| ----- | ----- |
-| The Three S™ | Story, Style, Schedule |
-| The Editing Hierarchy™ | Structure → Flow → Clarity → Polish |
-| The VX™ Workflow | V0, V1, V2 progressive cuts |
-| Story Blocks™ | Sections/chapters for pacing |
-| Base File™ | Reusable project assets |
-| Powerful Phrases™ | Pacing through word emphasis |
-| Story Proof™ | Real proof on screen |
-| High-Ticket Outreach™ | Strategic, personalized outreach |
-| Texts to Thousands™ | Closing via DM |
-| Twist & Stick™ | Two stages of scaling |
-| Fit-Finding Calls™ | Enrollment calls about mutual fit, not selling |
+| Quality over Quantity | Obsess over quality in everything |
+| Learn to Earn | Prioritize skill development |
+| Less is More | Simplicity is the ultimate sophistication |
+| The 4-2-1™ Rule | Sustainable excellence, not burnout |
 
 ## Enemies
 
 | Enemy | What They Do |
 | ----- | ----- |
-| Funnel Bros | Over-engineer instead of showing work |
-| Hustle Bros | Glorify overwork |
+| Button Pusher | Execute without thinking for the viewer |
+| Agency Bros | Volume over quality, 50+ videos/month |
 | Bedroom Editor | No life outside the timeline |
-| Agency Bros | Volume over quality |
 
 ---
 
@@ -828,7 +580,7 @@ The question is "Will you work it?"
 
 ## The Truth About This Journey
 
-Becoming a top 1% editor isn't complicated. But it's not easy either.
+Becoming a creative director isn't complicated. But it's not easy either.
 
 It requires:
 
@@ -842,27 +594,20 @@ But here's what's also true:
 
 **You're closer than you think.**
 
-The gap between $200/video and $1K/video isn't massive. It's not 5 years of experience. It's not film school. It's not expensive gear.
+The gap between $200/video and $1K/video isn't massive. It's making the `Creative Director Shift™`.
 
-It's making the `Creative Director Shift™` and positioning yourself to attract your dream clients.
-
-And once you do, everything changes:
-
-* Your confidence shifts (you KNOW you're in the top 1%)
-* Your pricing shifts (you can justify premium rates)
-* Your opportunities shift (premium creators reach out)
-* Your lifestyle shifts (`The 4-2-1™ Rule` becomes reality)
+And once you do, everything changes.
 
 ```
 Editors get stuck. Directors don't.
 
 Make the Creative Director Shift™.
 
-Top 1% Editing. Full-Time Income. Freedom Lifestyle.
+Viewer-First Editing™. Quality-First Clients™. Freedom-First Workflow™.
 ```
 
 That's the Full-Time Editor promise.
 
 ---
 
-*Document updated February 2026. This is a living document.*
+*Document updated March 2026. This is a living document.*

@@ -32,6 +32,25 @@ This is the defining characteristic. They have demonstrable skills, consistent c
 * In the transition period from high school to university (or close to it)
 * Working with talking head or educational creators
 
+## Two Segments
+
+### Segment 1: Sub-$1K/month (Unqualified)
+
+* Below $1K/month consistently
+* Often brand new to freelancing or just landed their first client
+* Target offer: `$1K in 30` ($97 — 30-day action course)
+* Path: DM "COCONUT" → qualify → directed to $1K in 30
+* Goal: Get them to consistent $1K/month by building brand on X
+
+### Segment 2: $1K+/month (Qualified)
+
+* Making $1K+/month consistently with 1-2 existing clients
+* Skilled but stuck — can't figure out how to get to $5K+
+* Target offer: Full-Time Editor ($3,000/6mo) or Insight Program ($249/2wk)
+* Path: DM "COCONUT" → qualify → Core Offer Doc → FTE
+* If not ready for full commitment → Insight Program ("sneak peek into FTE")
+* Green flag: already consuming Artem's free content and aligned with the Creative Director Shift™ vision
+
 ---
 
 # Section 2: Demographics
@@ -263,6 +282,19 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 **The Prover:** Demonstrating success to self/others
 **The Lifestyle Seeker:** Location independence, travel, freedom
 
+## By Qualification (Offer Routing)
+
+**Sub-$1K/month → $1K in 30 ($97)**
+* Still in the early grind. Needs foundational brand-building actions.
+* Not ready for mentorship — needs structured daily tasks.
+
+**$1K+/month, hesitant → Insight Program ($249/2wk)**
+* Qualified but skeptical or not ready for full commitment.
+* Wants to experience the coaching before investing $3,000.
+
+**$1K+/month, ready → Full-Time Editor ($3,000/6mo)**
+* The ideal prospect. Aligned with the CDS vision. Ready to commit.
+
 ---
 
 # Section 9: Decision Psychology
@@ -290,7 +322,7 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 ## After State
 
-* $5-10K/month, 2-3 premium clients at $1K+/video
+* $5K/month, 2-3 premium clients at $1K+/video
 * 4-6 hour focused workdays (The 4-2-1™ Rule)
 * Financial independence, travel, savings
 * Confident pricing, choosing clients, creative partnership
@@ -317,11 +349,13 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 ## What Makes FTE™ Different
 
-1. **Advanced, Not Beginner:** $1-2K → $5-10K, different problem, different solution
-2. **Niche-Specific:** Business/talking head editing, not generic
-3. **Personalized Accountability:** Actual feedback on their work and situations
-4. **Still-In-The-Arena:** Artem recently lived this exact journey, still edits
-5. **Tight Community:** Not 10,000 randoms, editors at similar stages
+1. **The Creative Director Shift™:** Not just skills — an identity shift from button pusher to creative director
+2. **Advanced, Not Beginner:** $1-2K → $5K, different problem, different solution
+3. **Three Pillars:** Viewer-First Editing™ (skill) + Quality-First Clients™ (price) + Freedom-First Workflow™ (speed)
+4. **Personalized Accountability:** Actual feedback on their work and situations
+5. **Still-In-The-Arena:** Artem recently lived this exact journey, still edits
+6. **Tight Community:** Not 10,000 randoms, editors at similar stages
+7. **Multiple Entry Points:** Free Course → $1K in 30 → Insight Program → Full Program — no one forced into a $3K decision cold
 
 ---
 
@@ -351,6 +385,10 @@ Living with parents creates the "Comfort Zone Trap": expenses are low enough to 
 
 "You're not a beginner anymore. You know how to edit. You have clients. But you're stuck because you're still thinking like a button pusher. The Creative Director Shift™ closes that gap. And you don't have to figure it out alone."
 
+## The Customer Journey
+
+YouTube → Skool → Free Course (`Creative Director Shift™`) → DM "COCONUT" → Qualify → Sub-$1K ($1K in 30) or $1K+ (Core Offer Doc → FTE / Insight Program)
+
 ---
 
-*Document compiled from 30+ sales calls, success interviews, and coaching sessions. Last updated: February 2026.*
+*Document compiled from 30+ sales calls, success interviews, and coaching sessions. Updated March 2026.*

@@ -50,6 +50,7 @@ The hook is the only part written word-for-word. Alex reads it or memorizes it.
 
 **Hook structure (aim for 45-60 seconds spoken):**
 
+0. **Opener line** (optional — 1 sentence) — A single bold declarative line that sets the tone before the hook begins. Think Kallaway energy — certain, sweeping, sets up the world the viewer is entering. Creates an open loop. Not always needed — include it when the video introduces a shift, new era, or contrarian take. Skip it for straightforward tactical videos. Examples: "We've entered a new era of brand building on social media." / "The playbook for building a brand on social media just got rewritten."
 1. **Pattern interrupt** (1-3 sentences) — Call out what most brands/creators get wrong. Bold claim or contrarian observation. Make the viewer stop scrolling.
 2. **Authority anchor** (1-2 sentences) — Brief credibility. Alex's experience working with brands. Not bragging — just earning the right to teach.
 3. **The mechanism** (2-3 sentences) — Name the concept. Define it in one line. State what it costs, what it requires, and why it works.
@@ -61,6 +62,7 @@ The hook is the only part written word-for-word. Alex reads it or memorizes it.
 - Is it under 60 seconds when read aloud?
 - Does it sound like Alex, not a YouTuber?
 - Is there a clear promise of what the viewer gets?
+- Does it have an opener line (if the angle calls for one)?
 
 ### 2. VIEWER QUALIFIER (optional — skill decides)
 
@@ -181,6 +183,9 @@ Before delivering:
 - [ ] No meta-language, no AI artifacts, no instructional notes?
 - [ ] Doc is scannable at a glance?
 
-## Example
+## Examples
 
-See `content/youtube/level-1-content-strategy/recording-doc.md` for a reference output.
+Two reference docs showing different structures:
+
+- `content/youtube/level-1-content-strategy/recording-doc.md` — Tactical formats video. No opener line, no problem section. Jumps straight into the hook and format breakdowns.
+- `content/youtube/signature-series/recording-doc.md` — Concept-driven video. Has an opener line, a problem/context section before the framework, and a definition section for introducing a new concept.

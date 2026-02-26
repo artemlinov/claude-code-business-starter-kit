@@ -1,6 +1,6 @@
 # FULL-TIME EDITOR™ PROGRAM OVERVIEW
 
-The 6-Month Mentorship for Skilled-But-Stuck Editors Ready to Scale to $5-10K/month
+The 6-Month Mentorship for Skilled-But-Stuck Editors Ready to Scale to $5K/month
 
 ---
 
@@ -64,13 +64,13 @@ Nothing's working. And the worst part? You don't know why.
 **What The ACTUAL Problem Is:**
 
 * No positioning: you're a generalist in a specialist's game
-* Still a button pusher: compensating with animations instead of making creative decisions (button-pusher behavior)
+* Still a button pusher: compensating with animations instead of making creative decisions
 * No confidence framework: can't justify premium prices
 * No client acquisition system: hoping for inbound without a brand
 * No accountability: procrastinating on growth while meeting client deadlines
-* Still thinking like a button pusher — worrying about “how” to show things instead of knowing “what” to show
+* Still thinking like a button pusher — worrying about "how" to show things instead of knowing "what" to show
 
-You have the mechanical skills. You're still thinking like a button pusher — worrying about “how” to show things instead of knowing “what” to show. And you're missing the systems to turn that skill into consistent $5-10K months.
+You have the mechanical skills. You're still thinking like a button pusher — worrying about "how" to show things instead of knowing "what" to show. And you're missing the systems to turn that skill into consistent $5K months.
 
 ---
 
@@ -99,7 +99,7 @@ You have the mechanical skills. You're still thinking like a button pusher — w
 
 ## Where You'll Be in 6 Months
 
-* $5-10K/month income
+* $5K/month income
 * 4-6 hour focused workdays (`The 4-2-1™ Rule`)
 * Financial independence
 * Building savings and investments
@@ -133,13 +133,9 @@ You have the mechanical skills. You're still thinking like a button pusher — w
 
 **Actually:** "The confidence to charge what I'm worth"
 
-**Not just:** "Editing skills"
-
-**Actually:** "Making the `Creative Director Shift™` — from button pusher to creative director"
-
 **Not just:** "Better editing"
 
-**Actually:** "The `Creative Director Shift™` — becoming irreplaceable"
+**Actually:** "Making the `Creative Director Shift™` — becoming irreplaceable"
 
 ---
 
@@ -147,11 +143,11 @@ You have the mechanical skills. You're still thinking like a button pusher — w
 
 ## What Full-Time Editor Is
 
-A 6-month mentorship program designed specifically for video editors scaling from $1-2K/month to $5-10K/month.
+A 6-month mentorship program designed specifically for video editors scaling from $1-2K/month to $5K/month.
 
-**Duration:** 6 months (PLACEHOLDER - TBD)
+**Duration:** 6 months
 
-**Investment:** $3,000 (PLACEHOLDER - TBD)
+**Investment:** $3,000 PIF / $1,750 x 2 / $650 x 6
 
 **For:** Video editors currently earning $1-2K/month who want to scale without burning out or starting an agency. Just getting better at what they already do.
 
@@ -159,7 +155,7 @@ A 6-month mentorship program designed specifically for video editors scaling fro
 
 ## The Three Pillars
 
-### Pillar 1: $1K Videos
+### Pillar 1: Viewer-First Editing™ (Skill)
 
 Make the `Creative Director Shift™`. The skill premium clients actually pay for.
 
@@ -169,52 +165,42 @@ Make the `Creative Director Shift™`. The skill premium clients actually pay fo
 
 **What You'll Learn:**
 
-* `Core Four™` – Pacing, Music, Visuals, Design
-* `The Editing Hierarchy™` – Structure → Flow → Clarity → Polish
-* `The VX™ Workflow` – Progressive cuts (V0, V1, V2)
-* `Story Blocks™` – Sections for pacing
-* `Powerful Phrases™` – Pacing through word emphasis
-* `Story Proof™` – Real proof on screen
-* `Base File™` – Reusable project assets
+* `What, Not How™` – Decide WHAT the viewer needs to see before HOW to execute it
+* `The Blockout Graphic™` – Progression graphics that keep the viewer grounded
+* `Story Blocks™` – Sections/chapters for pacing and structure
+* `Powerful Phrases™` – Pacing through impactful language at key moments
+* Show the Actual Thing – Real screenshots, real DMs, real graphs — not fancy visualizations
+* `Base File™` – Reusable project with client assets for speed and consistency
 
 **How:** In-depth editing reviews of YOUR actual work. Frame-by-frame personalized feedback. Not generic modules you could find on YouTube.
 
-### Pillar 2: Elite Brand
+### Pillar 2: Quality-First Clients™ (Price)
 
-Position yourself as the obvious choice for premium clients.
+Position yourself as the obvious choice for premium clients. Fewer, better clients.
 
 **What You'll Learn:**
 
-* Specialist positioning > generalist positioning
-* How to stand out in a crowded market
-* X/Twitter profile optimization
-* Portfolio that makes you irresistible (3 great videos > 15 mediocre ones)
-* Content strategy that attracts inbound opportunities
-* `The Word-of-Work™ Method` – Using your work to attract clients
+* `Price Last™` – Close with price last, lead with understanding and value
+* `Go Deep™` – Progressive niching, becoming irreplaceable, getting to zero revisions
+* `Twist & Stick™` – Two phases: client-hop to learn, then go all-in
+* `The Three S's™` – Story, Style, Schedule: what premium clients actually pay for
+* `The Word-of-Work™ Method` – Post client work to attract new clients
+* `High-Ticket Outreach™` – Strategic, personalized outreach (not mass DMs)
 
 **The Result:** Premium work + premium positioning = premium creators reaching out to you.
 
-### Pillar 3: Client Flow
+### Pillar 3: Freedom-First Workflow™ (Speed)
 
-Attract, close, and retain elite opportunities.
+Systems and decisions that free up time, not consume it.
 
-**ATTRACT:**
+**What You'll Learn:**
 
-* Content strategy that pulls in the right opportunities
-* `High-Ticket Outreach™` – Strategic, personalized outreach (not mass spam)
-* Building genuine relationships in your niche
+* `The 4-2-1™ Rule` – 4 hours make, 2 hours move, 1 hour prep
+* Intentional Editing – Every micro-decision must be explainable. Nothing random on the timeline.
+* `The 5% Rule` – Don't reinvent the wheel. Improve 5% each video. Compound over time.
+* 90% On Time > 100% Late – Reliability beats perfection for premium clients
 
-**CLOSE:**
-
-* `Texts to Thousands™` – Conversations that convert via DM (no sales calls needed)
-* Pricing with confidence (because you KNOW you're elite)
-* Handling objections without desperation
-
-**RETAIN:**
-
-* Raising rates with existing relationships
-* Building long-term partnerships
-* Making yourself irreplaceable
+**The Result:** Work less, earn more. Get paid for your decisions, not your time.
 
 ---
 
@@ -255,24 +241,24 @@ This isn't a course where you watch videos and figure it out alone. This is ment
 
 ## 4\. Full Curriculum (3 Pillars)
 
-**Pillar 1: $1K Videos**
+**Pillar 1: Viewer-First Editing™**
 
+* Master the `What, Not How™` mindset — edit for the viewer, not yourself
 * Advanced storytelling editing techniques
 * Workflow strategies to speed up editing without losing quality
-* Become a top 1% editor
 
-**Pillar 2: Elite Brand**
+**Pillar 2: Quality-First Clients™**
 
-* Build a magnetic editing brand that attracts high-paying clients
-* Become a specialist
-* Tailor messaging to your dream client
-
-**Pillar 3: Client Flow**
-
-* Attract, close, and retain $1K/video clients
+* Build premium client relationships through depth (`Go Deep™`)
+* `Price Last™` closing framework
 * Client acquisition strategies (inbound and outbound for high-ticket)
 * Client communication and relationship-building
-* Sales and closing techniques without sales calls
+
+**Pillar 3: Freedom-First Workflow™**
+
+* The `4-2-1™ Rule` — sustainable excellence, not burnout
+* Intentional editing and the `5% Rule`
+* Get paid for decisions, not time
 
 **Note:** The curriculum does NOT teach basic editing software skills. You need to know the basics already.
 
@@ -298,8 +284,8 @@ Open call. Join and get any of your questions answered.
 
 Access to an engaged community of video editors who are either:
 
-* Already earning $5-10K/month
-* Working toward the $5-10K/month goal
+* Already earning $5K/month
+* Working toward the $5K/month goal
 
 Potential client referrals. Connections with editors at your level.
 
@@ -346,7 +332,7 @@ Other programs fail you because:
 
 ### 1\. Advanced, Not Beginner
 
-Other programs take you from 0 → $2K. Full-Time Editor takes you from $1-2K → $5-10K. Different problem, different solution.
+Other programs take you from 0 → $2K. Full-Time Editor takes you from $1-2K → $5K. Different problem, different solution.
 
 ### 2\. Niche-Specific
 
@@ -368,7 +354,7 @@ Not a Discord with 10,000 randoms. A tight community of editors at similar stage
 
 ### 6\. Diagnostic, Not Generic
 
-I find what's missing for YOU specifically. Create YOUR custom roadmap to $5-10K/month. Not cookie-cutter modules.
+I find what's missing for YOU specifically. Create YOUR custom roadmap to $5K/month. Not cookie-cutter modules.
 
 ### 7\. The Creative Director Shift™
 
@@ -473,11 +459,11 @@ The students who succeed share something: they show up, submit work, and impleme
 
 ## The Numbers
 
-**Investment:** $3,000 (PLACEHOLDER - TBD)
+**Investment:** $3,000 PIF (pay in full) / $1,750 x 2 / $650 x 6
 
-**Duration:** 6 months (PLACEHOLDER - TBD)
+**Duration:** 6 months
 
-**Monthly:** $500/month (PLACEHOLDER - TBD)
+**Extension:** $399/month / $1,997 for 6 months / $3,497 for 12 months
 
 ## The ROI Math
 
@@ -489,7 +475,7 @@ The entire investment pays for itself in ONE month of the difference.
 
 Over 6 months, you'll see gradual income growth — not an overnight spike. Students who build gradually maintain their income because the client relationships are deep.
 
-And then you keep making $5-10K/month. Month after month.
+And then you keep making $5K/month. Month after month.
 
 ```
 $5K/month = $1,250/week
@@ -521,27 +507,44 @@ The question is whether you can afford to stay stuck.
 
 ---
 
-# Section 9: How It Works
+# Section 9: The Path Into FTE
 
-## Step 1: Apply
+## The Customer Journey
 
-Fill out the application. Tell me about your current situation, your goals, and why you want to join.
+Full-Time Editor is the core program. Here's how people discover and join:
 
-## Step 2: Discovery Call
+**1. YouTube → Skool**
 
-We'll have a call to make sure this is the right fit for both of us. I'll assess your situation, answer your questions, and be honest about whether Full-Time Editor can help you.
+Free content on YouTube drives to the Skool community (https://www.skool.com/full-time-editors).
 
-## Step 3: Onboarding
+**2. Creative Director Shift™ (Free Course)**
 
-If we're a fit, you'll get:
+Inside Skool, the `Creative Director Shift™` free course introduces the three pillars and philosophy. This is the primary lead magnet.
 
-* Access to the curriculum
-* Access to the community
-* Your personalized roadmap call with me
+**3. DM "COCONUT" 🥥**
 
-## Step 4: The Work Begins
+At the end of the free course, editors who want to work together DM "COCONUT." This starts the qualification flow.
 
-You'll start submitting edits, getting feedback, attending calls, and implementing. The transformation happens through action, not just consumption.
+**4. Qualification**
+
+* **Below $1K/month** → Directed to `$1K in 30` ($97 action-based email course)
+* **Above $1K/month** → Sent the Core Offer Doc → Full-Time Editor
+
+**5. For editors not ready for the full commitment**
+
+* `Insight Program` ($249 for 2 weeks) — a sneak peek into FTE with the same deliverables
+* `Paid Masterclass` ($24.99/month) — monthly live masterclass, free for FTE members
+
+## Other Offers in the Ecosystem
+
+| Offer | Price | Who | Purpose |
+| ----- | ----- | --- | ------- |
+| Creative Director Shift™ | Free | Everyone | Lead magnet, Skool |
+| $1K in 30 | $97 | Sub-$1K editors | 30-day action course |
+| Paid Masterclass | $24.99 | Public | Monthly live session |
+| Insight Program | $249 / 2 weeks | Qualified, not ready | Sneak peek into FTE |
+| Full-Time Editor | $3,000 / 6 months | Qualified | Core mentorship |
+| Extension | $399/mo+ | Existing members | Continued access |
 
 ---
 
@@ -552,7 +555,7 @@ You'll start submitting edits, getting feedback, attending calls, and implementi
 * **Honest Assessment:** I'll show you exactly what you're missing, using YOUR actual work
 * **Personalized Roadmap:** Custom plan for YOUR situation
 * **Hands-On Support:** Weekly reviews, open access, group sessions
-* **Craft Mastery:** I'll help you become a top 1% editor
+* **Craft Mastery:** I'll help you become a creative director
 * **No Bullshit:** I'll tell you what you need to hear, delivered with empathy
 
 ## What I Don't Promise
@@ -586,7 +589,7 @@ You're closer than you realize.
 
 The gap between $200/video and $1K/video isn't massive. It's not 5 years of experience. It's not film school. It's not expensive gear.
 
-It's mastering the `Core Four™` and positioning yourself to attract premium clients.
+It's making the `Creative Director Shift™` — from button pusher to creative director.
 
 ## You Don't Have to Figure It Out Alone
 
@@ -604,7 +607,7 @@ You're not a beginner anymore. You know how to edit. You have clients.
 
 But you're stuck, and you can feel it.
 
-The gap between where you are and $5-10K/month isn't as big as you think.
+The gap between where you are and $5K/month isn't as big as you think.
 
 It's not about working harder.
 
@@ -615,7 +618,7 @@ And you don't have to figure it out alone.
 ```
 Make the Creative Director Shift™. Become irreplaceable.
 
-Top 1% Editing. Full-Time Income. Freedom Lifestyle.
+Viewer-First Editing™. Quality-First Clients™. Freedom-First Workflow™.
 ```
 
 ---
@@ -626,17 +629,18 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 | Detail | Info |
 | ----- | ----- |
-| Duration | 6 months (PLACEHOLDER - TBD) |
-| Investment | $3,000 |
+| Duration | 6 months |
+| Investment | $3,000 PIF / $1,750 x2 / $650 x6 |
+| Extension | $399/mo / $1,997/6mo / $3,497/12mo |
 | Target | Editors at $1-2K/month |
-| Goal | Scale to $5-10K/month |
+| Goal | Scale to $5K/month |
 
 ## What's Included
 
 * Open 1-on-1 access to Artem
 * Weekly editing reviews (personalized Looms)
 * Full curriculum (3 pillars)
-* 4x group activities per week
+* 3x group activities per week
 * Community access
 * Accountability systems
 * Personalized roadmap call
@@ -645,28 +649,23 @@ Top 1% Editing. Full-Time Income. Freedom Lifestyle.
 
 | Pillar | Focus |
 | ----- | ----- |
-| $1K Videos | Make the Creative Director Shift™ |
-| Elite Brand | Position as premium |
-| Client Flow | Attract, close, retain |
+| Viewer-First Editing™ | Master the craft — edit for the viewer, not yourself |
+| Quality-First Clients™ | Fewer, better clients — become irreplaceable |
+| Freedom-First Workflow™ | Systems that free time — get paid for decisions |
 
 ## Core Frameworks
 
-| Framework | What It Is |
-| ----- | ----- |
-| Creative Director Shift™ | From button pusher to creative director |
-| Core Four™ | Pacing, Music, Visuals, Design |
-| The 4-2-1™ Rule | 4 hours make, 2 hours move, 1 hour prep |
-| The VX™ Workflow | V0, V1, V2 progressive cuts |
-| Story Proof™ | Real proof on screen |
-| Texts to Thousands™ | Close via DM |
-| High-Ticket Outreach™ | Strategic, personalized |
+| Framework | Pillar | What It Is |
+| ----- | ----- | ----- |
+| Creative Director Shift™ | — | From button pusher to creative director |
+| What, Not How™ | Viewer-First | WHAT to show before HOW to execute |
+| The Blockout Graphic™ | Viewer-First | Progression graphic for structure |
+| Price Last™ | Quality-First | Close with price last, lead with value |
+| Go Deep™ | Quality-First | Progressive niching, becoming irreplaceable |
+| The 4-2-1™ Rule | Freedom-First | 4 hours make, 2 hours move, 1 hour prep |
+| Intentional Editing | Freedom-First | Every decision must be explainable |
+| The 5% Rule | Freedom-First | Don't reinvent, improve 5% each video |
 
 ---
 
-*Ready to stop being stuck?*
-
-*Apply for Full-Time Editor: [link]*
-
----
-
-*Document updated February 2026.*
+*Document updated March 2026.*

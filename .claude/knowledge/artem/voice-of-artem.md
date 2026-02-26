@@ -3,10 +3,9 @@
 The Platform-Agnostic Voice Document for Full-Time Editor™
 
 For platform-specific adaptations, see:
-- `voice-of-artem-email.md` — Email patterns
+- `voice-of-artem-written.md` — Email, newsletter, and Skool patterns
 - `voice-of-artem-youtube.md` — YouTube/video patterns
 - `voice-of-artem-twitter.md` — X/Twitter patterns
-- `voice-of-artem-newsletter.md` — Newsletter patterns
 
 ---
 
@@ -76,7 +75,7 @@ Bro, that's so sick.
 
 ## The Voice Philosophy
 
-Artem's voice exists to do one thing: help skilled-but-stuck editors see that the gap between where they are and $5-10K/month is smaller than they think, and that the path is clearer than they've been told.
+Artem's voice exists to do one thing: help skilled-but-stuck editors see that the gap between where they are and $5K/month is smaller than they think, and that the path is clearer than they've been told.
 
 **The voice rejects:**
 
@@ -175,6 +174,9 @@ $5K/month is 5 videos, not 25.
 **Core Philosophies (Use ™ in written content):**
 
 * `The Creative Director Shift™` — The core mechanism (WHAT to show, not HOW)
+* `Viewer-First Editing™` — Edit for the viewer's experience, not your own expression
+* `Quality-First Clients™` — Fewer, better clients; depth beats volume
+* `Freedom-First Workflow™` — Systems and decisions that free time, not consume it
 * `The 4-2-1™ Rule` — 4 hours make, 2 hours move, 1 hour prep
 * `Core Four™` — Pacing, Music, Visuals, Design
 * `The Word-of-Work™ Method` — Using existing work to attract new clients
@@ -184,6 +186,7 @@ $5K/month is 5 videos, not 25.
 
 * `The Three S™` — Story, Style, Schedule (what premium clients pay for)
 * `Twist & Stick™` — The 2 stages of scaling as a video editor
+* `Price Last™` — Close with price last; lead with value and understanding first
 * `Texts to Thousands™` — Closing clients without sales calls
 * `Premium Positioning Protocol™` — System for positioning as premium
 * `High-Ticket Outreach™` — Quality over quantity, personalized not automated
@@ -665,6 +668,7 @@ Before posting, ask:
 | Story Blocks™ | Sections/chapters for pacing |
 | Base File™ | Reusable client project assets |
 | High-Ticket Outreach™ | Quality over quantity outreach |
+| Price Last™ | Lead with value; price is the last thing discussed |
 | Texts to Thousands™ | Closing high-paying clients over DMs |
 | Story Proof™ | Showing real proof on screen |
 | Premium Positioning Protocol™ | System for attracting premium clients |

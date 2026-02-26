@@ -252,7 +252,7 @@ Beyond money, they want to be treated as creative partners, not replaceable vend
 * No client acquisition system — hoping for inbound without a brand
 * No accountability — procrastinating on growth while meeting client deadlines
 
-**The confusion button pushers feel:** They think the gap is technical when it's actually about decision-making and taste. They can recreate the animations of editors charging 5x more, but they don't understand what else is missing. This is the exact confusion the Creative Director Shift™ resolves.
+**The confusion button pushers feel:** They think the gap is technical when it's actually about decision-making and taste. They can recreate the animations of editors charging 5x more, but they don't understand what else is missing. This is the exact confusion the `Creative Director Shift™` resolves — from worrying about "how" to show things (`What, Not How™`) to knowing "what" to show.
 
 ### The Skill Gap They Can't Name
 
@@ -425,11 +425,11 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 
 ## KEY PATTERNS & INSIGHTS
 
-### The 5 Lacks That Keep Editors Stuck
+### The 5 Lacks That Keep Editors Stuck (The Creative Director Shift™ Addresses All 5)
 
-1. **Pricing Confidence** — They don't believe they're worth more
-2. **Business Systems** — They're winging client acquisition
-3. **Creative Direction Mastery** — They can't articulate why their editing matters
+1. **Viewer-First Editing™** — They can't articulate why their editing matters (still button pushers)
+2. **Quality-First Clients™** — They're winging client acquisition and don't know `Price Last™`
+3. **Freedom-First Workflow™** — No systems, no `4-2-1™ Rule`, grinding 12-hour days
 4. **External Accountability** — They procrastinate on growth activities
 5. **Community of Peers** — They're isolated, don't know what's possible
 
@@ -536,4 +536,4 @@ Artem's reframe: "What do you want to hear from him? The only person who's going
 
 ---
 
-*Compiled from 30+ sales call transcripts and success interviews. Last updated: February 2026.*
+*Compiled from 30+ sales call transcripts and success interviews. Updated March 2026.*

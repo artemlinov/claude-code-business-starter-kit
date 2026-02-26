@@ -112,10 +112,12 @@ Also suggest which types of future content this micro-idea could enrich:
 
 Ask the user what they want to create. Based on their choice:
 
-- **Tweet(s)** — Summon `x-tweets-writer` skill (if it exists, otherwise write tweets directly using voice-of-artem-twitter.md)
-- **Thread** — Summon `x-threads-writer` skill (if it exists, otherwise write thread directly using voice-of-artem-twitter.md)
+- **Tweet(s)** — Summon `x-tweet-writer` skill
+- **Thread** — Summon `x-thread-writer` skill
 - **YouTube Video** — Summon `youtube-script-writer` skill, passing the idea as the Big Idea + Raw Thoughts
-- **Newsletter** — Summon newsletter writer (if it exists, otherwise write directly using voice-of-artem-newsletter.md)
+- **Newsletter** — Summon `fte-copywriter` skill (newsletter mode)
+- **Email** — Summon `fte-copywriter` skill (email mode)
+- **Skool Post** — Summon `fte-copywriter` skill (Skool mode)
 - **Story Bank** — Append the draft entry to `artem-story-bank.md` under the suggested section (confirm with user first)
 
 When summoning a skill, pass along:

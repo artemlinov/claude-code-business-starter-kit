@@ -98,7 +98,7 @@ Lastly, you [step 3]:
 **Newsletter-focused:**
 
 ```
-Wanna scale to $5-10K/month as a video editor?
+Wanna scale to $5K/month as a video editor?
 
 I break down exactly how in my newsletter.
 

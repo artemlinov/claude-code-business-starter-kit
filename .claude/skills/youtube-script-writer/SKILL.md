@@ -20,7 +20,7 @@ Load these files before writing any script:
 - `.claude/knowledge/full-time-editor/voice-of-customer.md` — Pain points, desires, exact language
 
 **Frameworks:**
-- `.claude/knowledge/full-time-editor/framework-definitions.md` — Proprietary systems (Three S's™, Twist & Stick™, etc.)
+- `.claude/knowledge/full-time-editor/fte-framework-definitions.md` — Proprietary systems (Three S's™, Twist & Stick™, etc.)
 
 ## Required Inputs
 
