@@ -85,9 +85,6 @@ February 2024: The phone call with Mom.
 February 2026: Full agency over my life. Living in Lisbon by choice.
 
 "I'm that guy who always wins."
-
-The Creative Director Shift didn't just fix my income.
-It unlocked a completely different life.
 ```
 
 * Started editing at 17 (self-taught, no film school)
